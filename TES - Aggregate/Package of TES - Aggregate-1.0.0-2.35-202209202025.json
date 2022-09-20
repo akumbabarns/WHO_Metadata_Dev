@@ -1,0 +1,2595 @@
+{
+    "package": {
+        "id": "JV2ngFzyomJ",
+        "name": "Package of TES - Aggregate",
+        "deleted": false,
+        "description": "",
+        "version": "1.0.0",
+        "dhisVersion": "2.35",
+        "module": {
+            "id": "Ycng2SJs7hx",
+            "name": "TES - Aggregate",
+            "instance": "http://localhost:8080",
+            "department": {
+                "id": "mKF51KQAVWu",
+                "name": "Malaria MD Developer"
+            }
+        },
+        "user": {
+            "id": "TZFikjf5oXD",
+            "name": "Barnabas MD Developer"
+        },
+        "created": "2022-09-20T19:25:13.885Z",
+        "lastUpdated": "2022-09-20T19:25:23.526Z",
+        "lastUpdatedBy": {
+            "id": "TZFikjf5oXD",
+            "name": "Barnabas MD Developer"
+        }
+    },
+    "maps": [
+        {
+            "id": "jTLWk4aCRu6",
+            "name": "TES - Studies",
+            "basemap": "osmLight",
+            "created": "2020-12-10T17:44:02.961",
+            "favorite": false,
+            "mapViews": [
+                {
+                    "id": "GD1n0xd973v",
+                    "name": "Number of studies",
+                    "rows": [],
+                    "layer": "thematic",
+                    "method": 2,
+                    "columns": [],
+                    "created": "2020-12-10T17:44:02.853",
+                    "endDate": "2020-12-10T00:00:00.000",
+                    "filters": [],
+                    "opacity": 0.9,
+                    "periods": [],
+                    "program": {
+                        "id": "GVJGCXpcAdU"
+                    },
+                    "favorite": false,
+                    "topLimit": 0,
+                    "favorites": [],
+                    "hideTitle": false,
+                    "sortOrder": 0,
+                    "startDate": "2000-12-10T00:00:00.000",
+                    "subscribed": false,
+                    "displayName": "Number of studies",
+                    "lastUpdated": "2021-05-25T17:59:44.201",
+                    "parentLevel": 0,
+                    "subscribers": [],
+                    "hideSubtitle": false,
+                    "translations": [],
+                    "completedOnly": false,
+                    "externalAccess": false,
+                    "parentGraphMap": {},
+                    "attributeValues": [],
+                    "displayFormName": "Number of studies",
+                    "eventClustering": false,
+                    "interpretations": [],
+                    "thematicMapType": "CHOROPLETH",
+                    "columnDimensions": [
+                        "dx"
+                    ],
+                    "eventPointRadius": 0,
+                    "filterDimensions": [],
+                    "renderingStrategy": "SINGLE",
+                    "categoryDimensions": [],
+                    "dataDimensionItems": [
+                        {
+                            "programIndicator": {
+                                "id": "aO7CbOoj8M5"
+                            },
+                            "dataDimensionItemType": "PROGRAM_INDICATOR"
+                        }
+                    ],
+                    "attributeDimensions": [],
+                    "digitGroupSeparator": "SPACE",
+                    "userOrganisationUnit": false,
+                    "dataElementDimensions": [],
+                    "organisationUnitLevels": [
+                        2
+                    ],
+                    "itemOrganisationUnitGroups": [],
+                    "programIndicatorDimensions": [],
+                    "userOrganisationUnitChildren": false,
+                    "dataElementGroupSetDimensions": [],
+                    "categoryOptionGroupSetDimensions": [],
+                    "userOrganisationUnitGrandChildren": false,
+                    "organisationUnitGroupSetDimensions": []
+                }
+            ],
+            "favorites": [],
+            "subscribed": false,
+            "displayName": "TES - Studies",
+            "lastUpdated": "2021-05-25T17:59:44.201",
+            "subscribers": [],
+            "publicAccess": "--------",
+            "translations": [],
+            "lastUpdatedBy": {
+                "id": "xJY16SqZaCB",
+                "username": "arico",
+                "displayName": "Alexis RICO"
+            },
+            "externalAccess": false,
+            "attributeValues": [],
+            "displayFormName": "TES - Studies",
+            "interpretations": []
+        }
+    ],
+    "options": [
+        {
+            "id": "x2QbVvLXFEx",
+            "code": "AQ",
+            "name": "Amodiaquine",
+            "created": "2020-12-07T17:09:24.956",
+            "favorite": false,
+            "favorites": [],
+            "optionSet": {
+                "id": "g17PX4hcaSY"
+            },
+            "sortOrder": 2,
+            "displayName": "Amodiaquine",
+            "lastUpdated": "2021-05-18T07:42:16.074",
+            "translations": [],
+            "externalAccess": false,
+            "attributeValues": [],
+            "displayFormName": "Amodiaquine"
+        },
+        {
+            "id": "AmJgDkg0t3h",
+            "code": "AQ+SP",
+            "name": "Amodiaquine+sulfadoxine-pyrimethamine ",
+            "created": "2020-12-07T17:09:33.223",
+            "favorite": false,
+            "favorites": [],
+            "optionSet": {
+                "id": "g17PX4hcaSY"
+            },
+            "sortOrder": 3,
+            "displayName": "Amodiaquine+sulfadoxine-pyrimethamine ",
+            "lastUpdated": "2021-05-18T07:42:16.075",
+            "translations": [],
+            "externalAccess": false,
+            "attributeValues": [],
+            "displayFormName": "Amodiaquine+sulfadoxine-pyrimethamine "
+        },
+        {
+            "id": "ldlbKf7syS9",
+            "code": "AL",
+            "name": "Artemether-lumefantrine",
+            "created": "2020-12-07T17:09:11.942",
+            "favorite": false,
+            "favorites": [],
+            "optionSet": {
+                "id": "g17PX4hcaSY"
+            },
+            "sortOrder": 1,
+            "displayName": "Artemether-lumefantrine",
+            "lastUpdated": "2021-05-18T07:42:16.074",
+            "translations": [],
+            "externalAccess": false,
+            "attributeValues": [],
+            "displayFormName": "Artemether-lumefantrine"
+        },
+        {
+            "id": "doFj8wPv1N4",
+            "code": "AS",
+            "name": "Artesunate",
+            "created": "2020-12-07T17:09:41.485",
+            "favorite": false,
+            "favorites": [],
+            "optionSet": {
+                "id": "g17PX4hcaSY"
+            },
+            "sortOrder": 4,
+            "displayName": "Artesunate",
+            "lastUpdated": "2021-05-18T07:42:16.074",
+            "translations": [],
+            "externalAccess": false,
+            "attributeValues": [],
+            "displayFormName": "Artesunate"
+        },
+        {
+            "id": "PWhxZwWmQhU",
+            "code": "AS-SP",
+            "name": "Artesunate+pyrimethamine-sulfadoxine",
+            "created": "2020-12-07T17:09:49.439",
+            "favorite": false,
+            "favorites": [],
+            "optionSet": {
+                "id": "g17PX4hcaSY"
+            },
+            "sortOrder": 5,
+            "displayName": "Artesunate+pyrimethamine-sulfadoxine",
+            "lastUpdated": "2021-05-18T07:42:16.075",
+            "translations": [],
+            "externalAccess": false,
+            "attributeValues": [],
+            "displayFormName": "Artesunate+pyrimethamine-sulfadoxine"
+        },
+        {
+            "id": "EnhtcBwd4Hr",
+            "code": "AS-AQ",
+            "name": "Artesunate-amodiaquine",
+            "created": "2020-12-07T17:09:57.309",
+            "favorite": false,
+            "favorites": [],
+            "optionSet": {
+                "id": "g17PX4hcaSY"
+            },
+            "sortOrder": 6,
+            "displayName": "Artesunate-amodiaquine",
+            "lastUpdated": "2021-05-18T07:42:16.074",
+            "translations": [],
+            "externalAccess": false,
+            "attributeValues": [],
+            "displayFormName": "Artesunate-amodiaquine"
+        },
+        {
+            "id": "EUUQW9cZV6q",
+            "code": "AS-MQ",
+            "name": "Artesunate-mefloquine",
+            "created": "2020-12-07T17:10:05.754",
+            "favorite": false,
+            "favorites": [],
+            "optionSet": {
+                "id": "g17PX4hcaSY"
+            },
+            "sortOrder": 7,
+            "displayName": "Artesunate-mefloquine",
+            "lastUpdated": "2021-05-18T07:42:16.075",
+            "translations": [],
+            "externalAccess": false,
+            "attributeValues": [],
+            "displayFormName": "Artesunate-mefloquine"
+        },
+        {
+            "id": "NzsxU4Pd53X",
+            "code": "CQ",
+            "name": "Chloroquine",
+            "created": "2020-12-07T17:10:14.479",
+            "favorite": false,
+            "favorites": [],
+            "optionSet": {
+                "id": "g17PX4hcaSY"
+            },
+            "sortOrder": 8,
+            "displayName": "Chloroquine",
+            "lastUpdated": "2021-05-18T07:42:16.075",
+            "translations": [],
+            "externalAccess": false,
+            "attributeValues": [],
+            "displayFormName": "Chloroquine"
+        },
+        {
+            "id": "W2RkRFxsRdB",
+            "code": "CQ+PQ",
+            "name": "Chloroquine+primaquine ",
+            "created": "2020-12-07T17:10:23.233",
+            "favorite": false,
+            "favorites": [],
+            "optionSet": {
+                "id": "g17PX4hcaSY"
+            },
+            "sortOrder": 9,
+            "displayName": "Chloroquine+primaquine ",
+            "lastUpdated": "2021-05-18T07:42:16.075",
+            "translations": [],
+            "externalAccess": false,
+            "attributeValues": [],
+            "displayFormName": "Chloroquine+primaquine "
+        },
+        {
+            "id": "GvF22CB6BUY",
+            "code": "CQ-SP",
+            "name": "Chloroquine-pyrimethamine-sulfadoxine",
+            "created": "2020-12-07T17:10:31.860",
+            "favorite": false,
+            "favorites": [],
+            "optionSet": {
+                "id": "g17PX4hcaSY"
+            },
+            "sortOrder": 10,
+            "displayName": "Chloroquine-pyrimethamine-sulfadoxine",
+            "lastUpdated": "2021-05-18T07:42:16.075",
+            "translations": [],
+            "externalAccess": false,
+            "attributeValues": [],
+            "displayFormName": "Chloroquine-pyrimethamine-sulfadoxine"
+        },
+        {
+            "id": "QRcMDWif3As",
+            "code": "DHA-PPQ",
+            "name": "Dihydroartemisinin-piperaquine",
+            "created": "2020-12-07T17:10:39.392",
+            "favorite": false,
+            "favorites": [],
+            "optionSet": {
+                "id": "g17PX4hcaSY"
+            },
+            "sortOrder": 11,
+            "displayName": "Dihydroartemisinin-piperaquine",
+            "lastUpdated": "2021-05-18T07:42:16.074",
+            "translations": [],
+            "externalAccess": false,
+            "attributeValues": [],
+            "displayFormName": "Dihydroartemisinin-piperaquine"
+        },
+        {
+            "id": "Yx1FseOGpDo",
+            "code": "MQ",
+            "name": "Mefloquine",
+            "created": "2020-12-07T17:10:47.165",
+            "favorite": false,
+            "favorites": [],
+            "optionSet": {
+                "id": "g17PX4hcaSY"
+            },
+            "sortOrder": 12,
+            "displayName": "Mefloquine",
+            "lastUpdated": "2021-05-18T07:42:16.075",
+            "translations": [],
+            "externalAccess": false,
+            "attributeValues": [],
+            "displayFormName": "Mefloquine"
+        },
+        {
+            "id": "qtUF6679znK",
+            "code": "PQ",
+            "name": "Primaquine",
+            "created": "2020-12-07T17:10:55.715",
+            "favorite": false,
+            "favorites": [],
+            "optionSet": {
+                "id": "g17PX4hcaSY"
+            },
+            "sortOrder": 13,
+            "displayName": "Primaquine",
+            "lastUpdated": "2021-05-18T07:42:16.074",
+            "translations": [],
+            "externalAccess": false,
+            "attributeValues": [],
+            "displayFormName": "Primaquine"
+        },
+        {
+            "id": "VjPJq3OPCxa",
+            "code": "QN",
+            "name": "Quinine",
+            "created": "2020-12-07T17:11:08.164",
+            "favorite": false,
+            "favorites": [],
+            "optionSet": {
+                "id": "g17PX4hcaSY"
+            },
+            "sortOrder": 14,
+            "displayName": "Quinine",
+            "lastUpdated": "2021-05-18T07:42:16.075",
+            "translations": [],
+            "externalAccess": false,
+            "attributeValues": [],
+            "displayFormName": "Quinine"
+        },
+        {
+            "id": "SOWPWyghUPx",
+            "code": "SP",
+            "name": "Sulfadoxine-pyrimethamine",
+            "created": "2020-12-07T17:11:17.998",
+            "favorite": false,
+            "favorites": [],
+            "optionSet": {
+                "id": "g17PX4hcaSY"
+            },
+            "sortOrder": 15,
+            "displayName": "Sulfadoxine-pyrimethamine",
+            "lastUpdated": "2021-05-18T07:42:16.074",
+            "translations": [],
+            "externalAccess": false,
+            "attributeValues": [],
+            "displayFormName": "Sulfadoxine-pyrimethamine"
+        },
+        {
+            "id": "jhaMkExWjSb",
+            "code": "28_DAYS",
+            "name": "28 days",
+            "created": "2020-12-07T17:14:55.511",
+            "favorite": false,
+            "favorites": [],
+            "optionSet": {
+                "id": "zvU7FN11GA1"
+            },
+            "sortOrder": 1,
+            "displayName": "28 days",
+            "lastUpdated": "2021-05-18T07:42:16.074",
+            "translations": [],
+            "externalAccess": false,
+            "attributeValues": [],
+            "displayFormName": "28 days"
+        },
+        {
+            "id": "ai1X4xsC0eC",
+            "code": "42_DAYS",
+            "name": "42 days",
+            "created": "2020-12-07T17:15:03.234",
+            "favorite": false,
+            "favorites": [],
+            "optionSet": {
+                "id": "zvU7FN11GA1"
+            },
+            "sortOrder": 2,
+            "displayName": "42 days",
+            "lastUpdated": "2021-05-18T07:42:16.075",
+            "translations": [],
+            "externalAccess": false,
+            "attributeValues": [],
+            "displayFormName": "42 days"
+        },
+        {
+            "id": "W2E6qFQdseF",
+            "code": "PF",
+            "name": "P. Falciparum",
+            "created": "2020-12-07T17:19:31.704",
+            "favorite": false,
+            "favorites": [],
+            "optionSet": {
+                "id": "b8B1k4sOOf8"
+            },
+            "sortOrder": 1,
+            "displayName": "P. Falciparum",
+            "lastUpdated": "2021-05-18T07:42:16.074",
+            "translations": [],
+            "externalAccess": false,
+            "attributeValues": [],
+            "displayFormName": "P. Falciparum"
+        },
+        {
+            "id": "gu2ZkdU6TDy",
+            "code": "PV",
+            "name": "P. vivax",
+            "created": "2020-12-07T17:19:41.201",
+            "favorite": false,
+            "favorites": [],
+            "optionSet": {
+                "id": "b8B1k4sOOf8"
+            },
+            "sortOrder": 2,
+            "displayName": "P. vivax",
+            "lastUpdated": "2021-05-18T07:42:16.074",
+            "translations": [],
+            "externalAccess": false,
+            "attributeValues": [],
+            "displayFormName": "P. vivax"
+        }
+    ],
+    "programs": [
+        {
+            "id": "GVJGCXpcAdU",
+            "name": "REP-TES - Test Efficacy Studies - Basic summary program",
+            "created": "2020-12-07T21:41:28.905",
+            "version": 5,
+            "favorite": false,
+            "favorites": [],
+            "shortName": "TES - Summary Program",
+            "userRoles": [],
+            "expiryDays": 0,
+            "accessLevel": "OPEN",
+            "displayName": "REP-TES - Test Efficacy Studies - Basic summary program",
+            "lastUpdated": "2021-05-25T17:02:03.898",
+            "programType": "WITHOUT_REGISTRATION",
+            "skipOffline": false,
+            "programRules": [],
+            "publicAccess": "--------",
+            "registration": false,
+            "translations": [],
+            "lastUpdatedBy": {
+                "id": "xJY16SqZaCB",
+                "username": "arico",
+                "displayName": "Alexis RICO"
+            },
+            "programStages": [
+                {
+                    "id": "ZH9MKKtADjv"
+                }
+            ],
+            "externalAccess": false,
+            "onlyEnrollOnce": false,
+            "attributeValues": [],
+            "displayFormName": "REP-TES - Test Efficacy Studies - Basic summary program",
+            "programSections": [],
+            "displayShortName": "TES - Summary Program",
+            "programIndicators": [
+                {
+                    "id": "A8vMYAmIAhl"
+                },
+                {
+                    "id": "te1YBLAMC7p"
+                },
+                {
+                    "id": "qtZpqDlKXhF"
+                },
+                {
+                    "id": "kKkY0V2mCZq"
+                },
+                {
+                    "id": "k6WURAeNGHp"
+                },
+                {
+                    "id": "js77xT6Uw2V"
+                },
+                {
+                    "id": "aO7CbOoj8M5"
+                },
+                {
+                    "id": "wlvlbujzYmg"
+                }
+            ],
+            "displayIncidentDate": true,
+            "ignoreOverdueEvents": false,
+            "maxTeiCountToReturn": 0,
+            "withoutRegistration": true,
+            "displayFrontPageList": false,
+            "programRuleVariables": [],
+            "notificationTemplates": [],
+            "completeEventsExpiryDays": 0,
+            "selectIncidentDatesInFuture": false,
+            "minAttributesRequiredToSearch": 1,
+            "selectEnrollmentDatesInFuture": false,
+            "programTrackedEntityAttributes": [],
+            "useFirstStageDuringRegistration": false
+        }
+    ],
+    "dashboards": [
+        {
+            "id": "acmIXhplJaV",
+            "name": "Therapeutic Efficacy Studies",
+            "created": "2020-12-10T17:38:24.835",
+            "favorite": false,
+            "favorites": [],
+            "itemCount": 4,
+            "displayName": "Therapeutic Efficacy Studies",
+            "lastUpdated": "2021-05-25T17:59:44.367",
+            "publicAccess": "--------",
+            "translations": [],
+            "lastUpdatedBy": {
+                "id": "xJY16SqZaCB",
+                "username": "arico",
+                "displayName": "Alexis RICO"
+            },
+            "dashboardItems": [
+                {
+                    "x": 20,
+                    "y": 0,
+                    "id": "EfvWLpmaVNg",
+                    "map": {
+                        "id": "jTLWk4aCRu6"
+                    },
+                    "type": "MAP",
+                    "users": [],
+                    "width": 20,
+                    "access": {
+                        "read": true,
+                        "write": false,
+                        "delete": true,
+                        "manage": false,
+                        "update": false,
+                        "externalize": false
+                    },
+                    "height": 29,
+                    "created": "2020-12-10T17:44:45.267",
+                    "reports": [],
+                    "favorite": false,
+                    "favorites": [],
+                    "resources": [],
+                    "lastUpdated": "2021-05-25T17:59:44.367",
+                    "contentCount": 1,
+                    "translations": [],
+                    "userAccesses": [],
+                    "externalAccess": false,
+                    "attributeValues": [],
+                    "userGroupAccesses": [],
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0
+                },
+                {
+                    "x": 0,
+                    "y": 29,
+                    "id": "GxSJLkQS0Tz",
+                    "type": "EVENT_CHART",
+                    "users": [],
+                    "width": 20,
+                    "access": {
+                        "read": true,
+                        "write": false,
+                        "delete": true,
+                        "manage": false,
+                        "update": false,
+                        "externalize": false
+                    },
+                    "height": 29,
+                    "created": "2020-12-10T17:44:45.267",
+                    "reports": [],
+                    "favorite": false,
+                    "favorites": [],
+                    "resources": [],
+                    "eventChart": {
+                        "id": "mFjLANhC9vH"
+                    },
+                    "lastUpdated": "2021-05-25T17:59:44.368",
+                    "contentCount": 1,
+                    "translations": [],
+                    "userAccesses": [],
+                    "externalAccess": false,
+                    "attributeValues": [],
+                    "userGroupAccesses": [],
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "id": "nmUDWwqlPiG",
+                    "type": "EVENT_CHART",
+                    "users": [],
+                    "width": 20,
+                    "access": {
+                        "read": true,
+                        "write": false,
+                        "delete": true,
+                        "manage": false,
+                        "update": false,
+                        "externalize": false
+                    },
+                    "height": 29,
+                    "created": "2020-12-10T17:44:45.267",
+                    "reports": [],
+                    "favorite": false,
+                    "favorites": [],
+                    "resources": [],
+                    "eventChart": {
+                        "id": "zDVJYPH1Uvx"
+                    },
+                    "lastUpdated": "2021-05-25T17:59:44.368",
+                    "contentCount": 1,
+                    "translations": [],
+                    "userAccesses": [],
+                    "externalAccess": false,
+                    "attributeValues": [],
+                    "userGroupAccesses": [],
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0
+                },
+                {
+                    "x": 0,
+                    "y": 58,
+                    "id": "jJXKQLUveYG",
+                    "type": "EVENT_REPORT",
+                    "users": [],
+                    "width": 40,
+                    "access": {
+                        "read": true,
+                        "write": false,
+                        "delete": true,
+                        "manage": false,
+                        "update": false,
+                        "externalize": false
+                    },
+                    "height": 18,
+                    "created": "2020-12-10T17:44:45.267",
+                    "reports": [],
+                    "favorite": false,
+                    "favorites": [],
+                    "resources": [],
+                    "eventReport": {
+                        "id": "r4PQx96gbot"
+                    },
+                    "lastUpdated": "2021-05-25T17:59:44.368",
+                    "contentCount": 1,
+                    "translations": [],
+                    "userAccesses": [],
+                    "externalAccess": false,
+                    "attributeValues": [],
+                    "userGroupAccesses": [],
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0
+                }
+            ],
+            "externalAccess": false,
+            "attributeValues": [],
+            "displayFormName": "Therapeutic Efficacy Studies"
+        }
+    ],
+    "optionSets": [
+        {
+            "id": "g17PX4hcaSY",
+            "code": "TEST_ANTIMALARIA_DRUG",
+            "name": "TES- Antimalarials drugs",
+            "created": "2020-12-07T16:54:55.460",
+            "options": [
+                {
+                    "id": "ldlbKf7syS9"
+                },
+                {
+                    "id": "x2QbVvLXFEx"
+                },
+                {
+                    "id": "AmJgDkg0t3h"
+                },
+                {
+                    "id": "doFj8wPv1N4"
+                },
+                {
+                    "id": "PWhxZwWmQhU"
+                },
+                {
+                    "id": "EnhtcBwd4Hr"
+                },
+                {
+                    "id": "EUUQW9cZV6q"
+                },
+                {
+                    "id": "NzsxU4Pd53X"
+                },
+                {
+                    "id": "W2RkRFxsRdB"
+                },
+                {
+                    "id": "GvF22CB6BUY"
+                },
+                {
+                    "id": "QRcMDWif3As"
+                },
+                {
+                    "id": "Yx1FseOGpDo"
+                },
+                {
+                    "id": "qtUF6679znK"
+                },
+                {
+                    "id": "VjPJq3OPCxa"
+                },
+                {
+                    "id": "SOWPWyghUPx"
+                }
+            ],
+            "version": 20,
+            "favorite": false,
+            "favorites": [],
+            "valueType": "TEXT",
+            "displayName": "TES- Antimalarials drugs",
+            "lastUpdated": "2021-05-25T17:02:03.012",
+            "publicAccess": "--------",
+            "translations": [],
+            "lastUpdatedBy": {
+                "id": "xJY16SqZaCB",
+                "username": "arico",
+                "displayName": "Alexis RICO"
+            },
+            "externalAccess": false,
+            "attributeValues": []
+        },
+        {
+            "id": "zvU7FN11GA1",
+            "code": "TES_FOLLOW_UP_PERIOD",
+            "name": "TES - Follow-up period",
+            "created": "2020-12-07T17:14:31.027",
+            "options": [
+                {
+                    "id": "jhaMkExWjSb"
+                },
+                {
+                    "id": "ai1X4xsC0eC"
+                }
+            ],
+            "version": 6,
+            "favorite": false,
+            "favorites": [],
+            "valueType": "TEXT",
+            "displayName": "TES - Follow-up period",
+            "lastUpdated": "2021-05-25T17:02:03.012",
+            "publicAccess": "--------",
+            "translations": [],
+            "lastUpdatedBy": {
+                "id": "xJY16SqZaCB",
+                "username": "arico",
+                "displayName": "Alexis RICO"
+            },
+            "externalAccess": false,
+            "attributeValues": []
+        },
+        {
+            "id": "b8B1k4sOOf8",
+            "code": "TES_PARASITE_SPECIE",
+            "name": "TES - Parasite Species",
+            "created": "2020-12-07T17:19:16.815",
+            "options": [
+                {
+                    "id": "W2E6qFQdseF"
+                },
+                {
+                    "id": "gu2ZkdU6TDy"
+                }
+            ],
+            "version": 6,
+            "favorite": false,
+            "favorites": [],
+            "valueType": "TEXT",
+            "displayName": "TES - Parasite Species",
+            "lastUpdated": "2021-05-25T17:02:03.012",
+            "publicAccess": "--------",
+            "translations": [],
+            "lastUpdatedBy": {
+                "id": "xJY16SqZaCB",
+                "username": "arico",
+                "displayName": "Alexis RICO"
+            },
+            "externalAccess": false,
+            "attributeValues": []
+        }
+    ],
+    "eventCharts": [
+        {
+            "id": "mFjLANhC9vH",
+            "name": "TES - % Treatment failure - Pf",
+            "rows": [],
+            "type": "LINE",
+            "title": "% of patients with treatment failure among patients infected with P. falciparum",
+            "columns": [],
+            "created": "2020-12-10T17:37:50.956",
+            "filters": [],
+            "periods": [
+                {
+                    "id": "2010"
+                },
+                {
+                    "id": "2011"
+                },
+                {
+                    "id": "2012"
+                },
+                {
+                    "id": "2013"
+                },
+                {
+                    "id": "2014"
+                },
+                {
+                    "id": "2015"
+                },
+                {
+                    "id": "2016"
+                },
+                {
+                    "id": "2017"
+                },
+                {
+                    "id": "2018"
+                },
+                {
+                    "id": "2019"
+                }
+            ],
+            "program": {
+                "id": "GVJGCXpcAdU"
+            },
+            "favorite": false,
+            "showData": true,
+            "topLimit": 0,
+            "favorites": [],
+            "hideTitle": false,
+            "sortOrder": 0,
+            "hideLegend": false,
+            "hideNaData": false,
+            "outputType": "EVENT",
+            "subscribed": false,
+            "displayName": "TES - % Treatment failure - Pf",
+            "lastUpdated": "2021-05-25T17:59:44.152",
+            "subscribers": [],
+            "displayTitle": "% of patients with treatment failure among patients infected with P. falciparum",
+            "hideSubtitle": true,
+            "programStage": {
+                "id": "ZH9MKKtADjv"
+            },
+            "publicAccess": "--------",
+            "translations": [],
+            "yearlySeries": [],
+            "completedOnly": false,
+            "lastUpdatedBy": {
+                "id": "xJY16SqZaCB",
+                "username": "arico",
+                "displayName": "Alexis RICO"
+            },
+            "rowDimensions": [
+                "pe"
+            ],
+            "externalAccess": false,
+            "parentGraphMap": {},
+            "regressionType": "NONE",
+            "aggregationType": "AVERAGE",
+            "attributeValues": [],
+            "displayFormName": "TES - % Treatment failure - Pf",
+            "interpretations": [],
+            "relativePeriods": {
+                "thisDay": false,
+                "lastWeek": false,
+                "lastYear": false,
+                "thisWeek": false,
+                "thisYear": false,
+                "last3Days": false,
+                "last7Days": false,
+                "lastMonth": false,
+                "thisMonth": false,
+                "yesterday": false,
+                "last14Days": false,
+                "last30Days": false,
+                "last4Weeks": false,
+                "last5Years": false,
+                "last60Days": false,
+                "last90Days": false,
+                "lastBiWeek": false,
+                "thisBiWeek": false,
+                "last12Weeks": false,
+                "last180Days": false,
+                "last3Months": false,
+                "last52Weeks": false,
+                "last6Months": false,
+                "lastBimonth": false,
+                "lastQuarter": false,
+                "thisBimonth": false,
+                "thisQuarter": false,
+                "last12Months": false,
+                "last4BiWeeks": false,
+                "lastSixMonth": false,
+                "thisSixMonth": false,
+                "last4Quarters": false,
+                "last6BiMonths": false,
+                "weeksThisYear": false,
+                "last2SixMonths": false,
+                "monthsLastYear": false,
+                "monthsThisYear": false,
+                "biMonthsThisYear": false,
+                "quartersLastYear": false,
+                "quartersThisYear": false,
+                "lastFinancialYear": false,
+                "thisFinancialYear": false,
+                "last5FinancialYears": false
+            },
+            "columnDimensions": [
+                "zVOuaBO6G3r"
+            ],
+            "cumulativeValues": false,
+            "filterDimensions": [
+                "ou"
+            ],
+            "hideEmptyRowItems": "NONE",
+            "categoryDimensions": [],
+            "dataDimensionItems": [],
+            "attributeDimensions": [],
+            "digitGroupSeparator": "SPACE",
+            "percentStackedValues": false,
+            "userOrganisationUnit": false,
+            "dataElementDimensions": [
+                {
+                    "dataElement": {
+                        "id": "zVOuaBO6G3r"
+                    }
+                }
+            ],
+            "noSpaceBetweenColumns": false,
+            "collapseDataDimensions": false,
+            "organisationUnitLevels": [],
+            "dataElementValueDimension": {
+                "id": "z4Xb0oxODHi"
+            },
+            "itemOrganisationUnitGroups": [],
+            "programIndicatorDimensions": [],
+            "userOrganisationUnitChildren": false,
+            "dataElementGroupSetDimensions": [],
+            "categoryOptionGroupSetDimensions": [],
+            "userOrganisationUnitGrandChildren": false,
+            "organisationUnitGroupSetDimensions": []
+        },
+        {
+            "id": "zDVJYPH1Uvx",
+            "name": "TES - Studies by medicine",
+            "rows": [],
+            "type": "STACKED_COLUMN",
+            "columns": [],
+            "created": "2020-12-10T17:34:27.843",
+            "filters": [],
+            "periods": [
+                {
+                    "id": "2010"
+                },
+                {
+                    "id": "2011"
+                },
+                {
+                    "id": "2012"
+                },
+                {
+                    "id": "2013"
+                },
+                {
+                    "id": "2014"
+                },
+                {
+                    "id": "2015"
+                },
+                {
+                    "id": "2016"
+                },
+                {
+                    "id": "2017"
+                },
+                {
+                    "id": "2018"
+                },
+                {
+                    "id": "2019"
+                }
+            ],
+            "program": {
+                "id": "GVJGCXpcAdU"
+            },
+            "favorite": false,
+            "showData": true,
+            "topLimit": 0,
+            "favorites": [],
+            "hideTitle": false,
+            "sortOrder": 0,
+            "hideLegend": false,
+            "hideNaData": false,
+            "outputType": "EVENT",
+            "subscribed": false,
+            "displayName": "TES - Studies by medicine",
+            "lastUpdated": "2021-05-25T17:59:44.152",
+            "subscribers": [],
+            "hideSubtitle": false,
+            "programStage": {
+                "id": "ZH9MKKtADjv"
+            },
+            "publicAccess": "--------",
+            "translations": [],
+            "yearlySeries": [],
+            "completedOnly": false,
+            "lastUpdatedBy": {
+                "id": "xJY16SqZaCB",
+                "username": "arico",
+                "displayName": "Alexis RICO"
+            },
+            "rowDimensions": [
+                "pe"
+            ],
+            "externalAccess": false,
+            "parentGraphMap": {},
+            "regressionType": "NONE",
+            "attributeValues": [],
+            "displayFormName": "TES - Studies by medicine",
+            "interpretations": [],
+            "relativePeriods": {
+                "thisDay": false,
+                "lastWeek": false,
+                "lastYear": false,
+                "thisWeek": false,
+                "thisYear": false,
+                "last3Days": false,
+                "last7Days": false,
+                "lastMonth": false,
+                "thisMonth": false,
+                "yesterday": false,
+                "last14Days": false,
+                "last30Days": false,
+                "last4Weeks": false,
+                "last5Years": false,
+                "last60Days": false,
+                "last90Days": false,
+                "lastBiWeek": false,
+                "thisBiWeek": false,
+                "last12Weeks": false,
+                "last180Days": false,
+                "last3Months": false,
+                "last52Weeks": false,
+                "last6Months": false,
+                "lastBimonth": false,
+                "lastQuarter": false,
+                "thisBimonth": false,
+                "thisQuarter": false,
+                "last12Months": false,
+                "last4BiWeeks": false,
+                "lastSixMonth": false,
+                "thisSixMonth": false,
+                "last4Quarters": false,
+                "last6BiMonths": false,
+                "weeksThisYear": false,
+                "last2SixMonths": false,
+                "monthsLastYear": false,
+                "monthsThisYear": false,
+                "biMonthsThisYear": false,
+                "quartersLastYear": false,
+                "quartersThisYear": false,
+                "lastFinancialYear": false,
+                "thisFinancialYear": false,
+                "last5FinancialYears": false
+            },
+            "columnDimensions": [
+                "zVOuaBO6G3r"
+            ],
+            "cumulativeValues": false,
+            "filterDimensions": [
+                "ou",
+                "z4Xb0oxODHi"
+            ],
+            "hideEmptyRowItems": "NONE",
+            "categoryDimensions": [],
+            "dataDimensionItems": [],
+            "attributeDimensions": [],
+            "digitGroupSeparator": "SPACE",
+            "percentStackedValues": false,
+            "userOrganisationUnit": false,
+            "dataElementDimensions": [
+                {
+                    "dataElement": {
+                        "id": "zVOuaBO6G3r"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "z4Xb0oxODHi"
+                    }
+                }
+            ],
+            "noSpaceBetweenColumns": false,
+            "collapseDataDimensions": false,
+            "organisationUnitLevels": [],
+            "itemOrganisationUnitGroups": [],
+            "programIndicatorDimensions": [],
+            "userOrganisationUnitChildren": false,
+            "dataElementGroupSetDimensions": [],
+            "categoryOptionGroupSetDimensions": [],
+            "userOrganisationUnitGrandChildren": false,
+            "organisationUnitGroupSetDimensions": []
+        }
+    ],
+    "dataElements": [
+        {
+            "id": "GOpzryUeLNF",
+            "code": "MAL_TES_STUDY_TEST_ID",
+            "name": "MAL - TES - Study test Id",
+            "created": "2020-12-07T14:46:52.900",
+            "favorite": false,
+            "formName": "Study test Id",
+            "favorites": [],
+            "shortName": "Study test Id",
+            "valueType": "INTEGER_ZERO_OR_POSITIVE",
+            "domainType": "TRACKER",
+            "legendSets": [],
+            "description": "Study test Id",
+            "displayName": "MAL - TES - Study test Id",
+            "lastUpdated": "2021-05-25T17:02:03.421",
+            "periodOffset": 0,
+            "publicAccess": "--------",
+            "translations": [],
+            "dimensionItem": "GOpzryUeLNF",
+            "lastUpdatedBy": {
+                "id": "xJY16SqZaCB",
+                "username": "arico",
+                "displayName": "Alexis RICO"
+            },
+            "externalAccess": false,
+            "optionSetValue": false,
+            "aggregationType": "NONE",
+            "attributeValues": [],
+            "dataSetElements": [],
+            "displayFormName": "Study test Id",
+            "displayShortName": "Study test Id",
+            "aggregationLevels": [],
+            "dataElementGroups": [],
+            "dimensionItemType": "DATA_ELEMENT",
+            "zeroIsSignificant": false,
+            "displayDescription": "Study test Id"
+        },
+        {
+            "id": "Bn2NswFJVoy",
+            "code": "TES_YEAR_END",
+            "name": "REP-TES -  Year of study end",
+            "created": "2019-10-11T10:03:48.049",
+            "favorite": false,
+            "formName": "Year of study end",
+            "favorites": [],
+            "shortName": "Year of study end",
+            "valueType": "INTEGER_POSITIVE",
+            "domainType": "TRACKER",
+            "legendSets": [],
+            "description": "Year of study end",
+            "displayName": "REP-TES -  Year of study end",
+            "lastUpdated": "2021-05-18T07:42:16.133",
+            "periodOffset": 0,
+            "publicAccess": "rw------",
+            "translations": [],
+            "dimensionItem": "Bn2NswFJVoy",
+            "lastUpdatedBy": {
+                "id": "xJY16SqZaCB",
+                "username": "arico",
+                "displayName": "Alexis RICO"
+            },
+            "externalAccess": false,
+            "optionSetValue": false,
+            "aggregationType": "MAX",
+            "attributeValues": [],
+            "dataSetElements": [],
+            "displayFormName": "Year of study end",
+            "displayShortName": "Year of study end",
+            "aggregationLevels": [],
+            "dataElementGroups": [],
+            "dimensionItemType": "DATA_ELEMENT",
+            "zeroIsSignificant": true,
+            "displayDescription": "Year of study end"
+        },
+        {
+            "id": "CoCaq36pTz7",
+            "code": "TES_YEAR_START",
+            "name": "REP-TES -  Year of study start",
+            "created": "2019-10-11T10:04:39.198",
+            "favorite": false,
+            "formName": "Year of study start",
+            "favorites": [],
+            "shortName": "Year of study start",
+            "valueType": "INTEGER_POSITIVE",
+            "domainType": "TRACKER",
+            "legendSets": [],
+            "description": "Year of study start",
+            "displayName": "REP-TES -  Year of study start",
+            "lastUpdated": "2021-05-18T07:42:16.136",
+            "periodOffset": 0,
+            "publicAccess": "rw------",
+            "translations": [],
+            "dimensionItem": "CoCaq36pTz7",
+            "lastUpdatedBy": {
+                "id": "xJY16SqZaCB",
+                "username": "arico",
+                "displayName": "Alexis RICO"
+            },
+            "externalAccess": false,
+            "optionSetValue": false,
+            "aggregationType": "MIN",
+            "attributeValues": [],
+            "dataSetElements": [],
+            "displayFormName": "Year of study start",
+            "displayShortName": "Year of study start",
+            "aggregationLevels": [],
+            "dataElementGroups": [],
+            "dimensionItemType": "DATA_ELEMENT",
+            "zeroIsSignificant": true,
+            "displayDescription": "Year of study start"
+        },
+        {
+            "id": "zVOuaBO6G3r",
+            "code": "TES_ANTI_MAL_TESTED",
+            "name": "REP-TES - Antimalarial drug tested",
+            "created": "2019-05-08T17:11:03.757",
+            "favorite": false,
+            "formName": "Antimalarial drug tested",
+            "favorites": [],
+            "optionSet": {
+                "id": "g17PX4hcaSY"
+            },
+            "shortName": "Antimalarial drug tested",
+            "valueType": "TEXT",
+            "domainType": "TRACKER",
+            "legendSets": [],
+            "displayName": "REP-TES - Antimalarial drug tested",
+            "lastUpdated": "2021-05-18T07:42:16.134",
+            "periodOffset": 0,
+            "publicAccess": "rw------",
+            "translations": [],
+            "dimensionItem": "zVOuaBO6G3r",
+            "lastUpdatedBy": {
+                "id": "xJY16SqZaCB",
+                "username": "arico",
+                "displayName": "Alexis RICO"
+            },
+            "externalAccess": false,
+            "optionSetValue": true,
+            "aggregationType": "NONE",
+            "attributeValues": [],
+            "dataSetElements": [],
+            "displayFormName": "Antimalarial drug tested",
+            "displayShortName": "Antimalarial drug tested",
+            "aggregationLevels": [],
+            "dataElementGroups": [],
+            "dimensionItemType": "DATA_ELEMENT",
+            "zeroIsSignificant": false
+        },
+        {
+            "id": "keGIqdKVjT1",
+            "code": "TES_FOLLOW_UP",
+            "name": "REP-TES - Follow-up",
+            "created": "2020-12-07T14:34:22.159",
+            "favorite": false,
+            "favorites": [],
+            "optionSet": {
+                "id": "zvU7FN11GA1"
+            },
+            "shortName": "Follow-up",
+            "valueType": "TEXT",
+            "domainType": "TRACKER",
+            "legendSets": [],
+            "displayName": "REP-TES - Follow-up",
+            "lastUpdated": "2021-05-18T07:42:16.131",
+            "periodOffset": 0,
+            "publicAccess": "rw------",
+            "translations": [],
+            "dimensionItem": "keGIqdKVjT1",
+            "lastUpdatedBy": {
+                "id": "xJY16SqZaCB",
+                "username": "arico",
+                "displayName": "Alexis RICO"
+            },
+            "externalAccess": false,
+            "optionSetValue": true,
+            "aggregationType": "NONE",
+            "attributeValues": [],
+            "dataSetElements": [],
+            "displayFormName": "REP-TES - Follow-up",
+            "displayShortName": "Follow-up",
+            "aggregationLevels": [],
+            "dataElementGroups": [],
+            "dimensionItemType": "DATA_ELEMENT",
+            "zeroIsSignificant": false
+        },
+        {
+            "id": "z4Xb0oxODHi",
+            "code": "TES_PER_TRT_FAILURE",
+            "name": "REP-TES- (%) Treatment failure",
+            "created": "2020-12-07T14:21:53.409",
+            "favorite": false,
+            "formName": "(%) Treatment failure",
+            "favorites": [],
+            "shortName": "(%) Treatment failure",
+            "valueType": "NUMBER",
+            "domainType": "TRACKER",
+            "legendSets": [],
+            "description": "(%) Treatment failure",
+            "displayName": "REP-TES- (%) Treatment failure",
+            "lastUpdated": "2021-05-18T07:42:16.137",
+            "periodOffset": 0,
+            "publicAccess": "rw------",
+            "translations": [],
+            "dimensionItem": "z4Xb0oxODHi",
+            "lastUpdatedBy": {
+                "id": "xJY16SqZaCB",
+                "username": "arico",
+                "displayName": "Alexis RICO"
+            },
+            "externalAccess": false,
+            "optionSetValue": false,
+            "aggregationType": "NONE",
+            "attributeValues": [],
+            "dataSetElements": [],
+            "displayFormName": "(%) Treatment failure",
+            "displayShortName": "(%) Treatment failure",
+            "aggregationLevels": [],
+            "dataElementGroups": [],
+            "dimensionItemType": "DATA_ELEMENT",
+            "zeroIsSignificant": false,
+            "displayDescription": "(%) Treatment failure"
+        },
+        {
+            "id": "YHeh2UYyWKr",
+            "code": "TES_PARASITE_SPECIES",
+            "name": "TES - Parasite Species",
+            "created": "2019-07-16T11:00:58.034",
+            "favorite": false,
+            "favorites": [],
+            "optionSet": {
+                "id": "b8B1k4sOOf8"
+            },
+            "shortName": "Parasite Species",
+            "valueType": "TEXT",
+            "domainType": "TRACKER",
+            "legendSets": [],
+            "displayName": "TES - Parasite Species",
+            "lastUpdated": "2021-05-18T07:42:16.135",
+            "periodOffset": 0,
+            "publicAccess": "rw------",
+            "translations": [],
+            "dimensionItem": "YHeh2UYyWKr",
+            "lastUpdatedBy": {
+                "id": "xJY16SqZaCB",
+                "username": "arico",
+                "displayName": "Alexis RICO"
+            },
+            "externalAccess": false,
+            "optionSetValue": true,
+            "aggregationType": "NONE",
+            "attributeValues": [],
+            "dataSetElements": [],
+            "displayFormName": "TES - Parasite Species",
+            "displayShortName": "Parasite Species",
+            "aggregationLevels": [],
+            "dataElementGroups": [],
+            "dimensionItemType": "DATA_ELEMENT",
+            "zeroIsSignificant": false
+        }
+    ],
+    "eventReports": [
+        {
+            "id": "r4PQx96gbot",
+            "name": "TES - Studies",
+            "rows": [],
+            "columns": [],
+            "created": "2020-12-10T17:33:48.355",
+            "filters": [],
+            "periods": [
+                {
+                    "id": "2010"
+                },
+                {
+                    "id": "2011"
+                },
+                {
+                    "id": "2012"
+                },
+                {
+                    "id": "2013"
+                },
+                {
+                    "id": "2014"
+                },
+                {
+                    "id": "2015"
+                },
+                {
+                    "id": "2016"
+                },
+                {
+                    "id": "2017"
+                },
+                {
+                    "id": "2018"
+                },
+                {
+                    "id": "2019"
+                }
+            ],
+            "program": {
+                "id": "GVJGCXpcAdU"
+            },
+            "dataType": "EVENTS",
+            "favorite": false,
+            "fontSize": "NORMAL",
+            "topLimit": 0,
+            "colTotals": true,
+            "favorites": [],
+            "hideTitle": false,
+            "rowTotals": false,
+            "sortOrder": 0,
+            "hideNaData": false,
+            "outputType": "EVENT",
+            "subscribed": false,
+            "displayName": "TES - Studies",
+            "lastUpdated": "2021-05-25T17:59:44.176",
+            "subscribers": [],
+            "colSubTotals": true,
+            "hideSubtitle": false,
+            "programStage": {
+                "id": "ZH9MKKtADjv"
+            },
+            "publicAccess": "--------",
+            "rowSubTotals": false,
+            "translations": [],
+            "completedOnly": false,
+            "hideEmptyRows": false,
+            "lastUpdatedBy": {
+                "id": "xJY16SqZaCB",
+                "username": "arico",
+                "displayName": "Alexis RICO"
+            },
+            "rowDimensions": [],
+            "showHierarchy": false,
+            "displayDensity": "NORMAL",
+            "externalAccess": false,
+            "parentGraphMap": {},
+            "attributeValues": [],
+            "displayFormName": "TES - Studies",
+            "interpretations": [],
+            "relativePeriods": {
+                "thisDay": false,
+                "lastWeek": false,
+                "lastYear": false,
+                "thisWeek": false,
+                "thisYear": false,
+                "last3Days": false,
+                "last7Days": false,
+                "lastMonth": false,
+                "thisMonth": false,
+                "yesterday": false,
+                "last14Days": false,
+                "last30Days": false,
+                "last4Weeks": false,
+                "last5Years": true,
+                "last60Days": false,
+                "last90Days": false,
+                "lastBiWeek": false,
+                "thisBiWeek": false,
+                "last12Weeks": false,
+                "last180Days": false,
+                "last3Months": false,
+                "last52Weeks": false,
+                "last6Months": false,
+                "lastBimonth": false,
+                "lastQuarter": false,
+                "thisBimonth": false,
+                "thisQuarter": false,
+                "last12Months": false,
+                "last4BiWeeks": false,
+                "lastSixMonth": false,
+                "thisSixMonth": false,
+                "last4Quarters": false,
+                "last6BiMonths": false,
+                "weeksThisYear": false,
+                "last2SixMonths": false,
+                "monthsLastYear": false,
+                "monthsThisYear": false,
+                "biMonthsThisYear": false,
+                "quartersLastYear": false,
+                "quartersThisYear": false,
+                "lastFinancialYear": false,
+                "thisFinancialYear": false,
+                "last5FinancialYears": false
+            },
+            "columnDimensions": [
+                "pe",
+                "ou",
+                "CoCaq36pTz7",
+                "zVOuaBO6G3r",
+                "z4Xb0oxODHi",
+                "YHeh2UYyWKr",
+                "keGIqdKVjT1"
+            ],
+            "filterDimensions": [],
+            "categoryDimensions": [],
+            "dataDimensionItems": [],
+            "attributeDimensions": [],
+            "digitGroupSeparator": "SPACE",
+            "showDimensionLabels": true,
+            "userOrganisationUnit": false,
+            "dataElementDimensions": [
+                {
+                    "dataElement": {
+                        "id": "CoCaq36pTz7"
+                    },
+                    "programStage": {
+                        "id": "ZH9MKKtADjv"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "zVOuaBO6G3r"
+                    },
+                    "programStage": {
+                        "id": "ZH9MKKtADjv"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "z4Xb0oxODHi"
+                    },
+                    "programStage": {
+                        "id": "ZH9MKKtADjv"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "YHeh2UYyWKr"
+                    },
+                    "programStage": {
+                        "id": "ZH9MKKtADjv"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "keGIqdKVjT1"
+                    },
+                    "programStage": {
+                        "id": "ZH9MKKtADjv"
+                    }
+                }
+            ],
+            "collapseDataDimensions": false,
+            "organisationUnitLevels": [],
+            "itemOrganisationUnitGroups": [],
+            "programIndicatorDimensions": [],
+            "userOrganisationUnitChildren": false,
+            "dataElementGroupSetDimensions": [],
+            "categoryOptionGroupSetDimensions": [],
+            "userOrganisationUnitGrandChildren": false,
+            "organisationUnitGroupSetDimensions": []
+        }
+    ],
+    "programStages": [
+        {
+            "id": "ZH9MKKtADjv",
+            "name": "REP-TES - Test Efficacy Studies - Basic summary program",
+            "created": "2020-12-07T21:41:28.873",
+            "program": {
+                "id": "GVJGCXpcAdU"
+            },
+            "favorite": false,
+            "formType": "SECTION",
+            "favorites": [],
+            "repeatable": false,
+            "displayName": "REP-TES - Test Efficacy Studies - Basic summary program",
+            "hideDueDate": false,
+            "lastUpdated": "2021-05-25T17:02:03.929",
+            "publicAccess": "--------",
+            "translations": [],
+            "lastUpdatedBy": {
+                "id": "xJY16SqZaCB",
+                "username": "arico",
+                "displayName": "Alexis RICO"
+            },
+            "blockEntryForm": false,
+            "externalAccess": false,
+            "preGenerateUID": false,
+            "attributeValues": [],
+            "displayFormName": "REP-TES - Test Efficacy Studies - Basic summary program",
+            "remindCompleted": false,
+            "minDaysFromStart": 0,
+            "autoGenerateEvent": true,
+            "validationStrategy": "ON_COMPLETE",
+            "openAfterEnrollment": false,
+            "enableUserAssignment": false,
+            "programStageSections": [
+                {
+                    "id": "QmWSxC054Ot"
+                }
+            ],
+            "notificationTemplates": [],
+            "allowGenerateNextVisit": false,
+            "displayGenerateEventBox": true,
+            "programStageDataElements": [
+                {
+                    "id": "XF8g10MPoVP",
+                    "access": {
+                        "read": true,
+                        "write": true,
+                        "delete": true,
+                        "manage": true,
+                        "update": true,
+                        "externalize": false
+                    },
+                    "created": "2020-12-07T21:41:28.873",
+                    "favorite": false,
+                    "favorites": [],
+                    "sortOrder": 1,
+                    "compulsory": false,
+                    "dataElement": {
+                        "id": "GOpzryUeLNF"
+                    },
+                    "lastUpdated": "2021-05-25T17:02:03.864",
+                    "programStage": {
+                        "id": "ZH9MKKtADjv"
+                    },
+                    "translations": [],
+                    "userAccesses": [],
+                    "externalAccess": false,
+                    "allowFutureDate": false,
+                    "attributeValues": [],
+                    "displayInReports": false,
+                    "userGroupAccesses": [],
+                    "skipSynchronization": false,
+                    "renderOptionsAsRadio": false,
+                    "allowProvidedElsewhere": false
+                },
+                {
+                    "id": "YULznFD1oTS",
+                    "access": {
+                        "read": true,
+                        "write": true,
+                        "delete": true,
+                        "manage": true,
+                        "update": true,
+                        "externalize": false
+                    },
+                    "created": "2020-12-07T21:41:28.873",
+                    "favorite": false,
+                    "favorites": [],
+                    "sortOrder": 2,
+                    "compulsory": false,
+                    "dataElement": {
+                        "id": "zVOuaBO6G3r"
+                    },
+                    "lastUpdated": "2021-05-25T17:02:03.863",
+                    "programStage": {
+                        "id": "ZH9MKKtADjv"
+                    },
+                    "translations": [],
+                    "userAccesses": [],
+                    "externalAccess": false,
+                    "allowFutureDate": false,
+                    "attributeValues": [],
+                    "displayInReports": false,
+                    "userGroupAccesses": [],
+                    "skipSynchronization": false,
+                    "renderOptionsAsRadio": false,
+                    "allowProvidedElsewhere": false
+                },
+                {
+                    "id": "dXxRgyp4Q1c",
+                    "access": {
+                        "read": true,
+                        "write": true,
+                        "delete": true,
+                        "manage": true,
+                        "update": true,
+                        "externalize": false
+                    },
+                    "created": "2020-12-07T21:41:28.874",
+                    "favorite": false,
+                    "favorites": [],
+                    "sortOrder": 3,
+                    "compulsory": false,
+                    "dataElement": {
+                        "id": "CoCaq36pTz7"
+                    },
+                    "lastUpdated": "2021-05-25T17:02:03.864",
+                    "programStage": {
+                        "id": "ZH9MKKtADjv"
+                    },
+                    "translations": [],
+                    "userAccesses": [],
+                    "externalAccess": false,
+                    "allowFutureDate": false,
+                    "attributeValues": [],
+                    "displayInReports": false,
+                    "userGroupAccesses": [],
+                    "skipSynchronization": false,
+                    "renderOptionsAsRadio": false,
+                    "allowProvidedElsewhere": false
+                },
+                {
+                    "id": "iWwtC2JHJIT",
+                    "access": {
+                        "read": true,
+                        "write": true,
+                        "delete": true,
+                        "manage": true,
+                        "update": true,
+                        "externalize": false
+                    },
+                    "created": "2020-12-07T21:41:28.873",
+                    "favorite": false,
+                    "favorites": [],
+                    "sortOrder": 4,
+                    "compulsory": false,
+                    "dataElement": {
+                        "id": "Bn2NswFJVoy"
+                    },
+                    "lastUpdated": "2021-05-25T17:02:03.864",
+                    "programStage": {
+                        "id": "ZH9MKKtADjv"
+                    },
+                    "translations": [],
+                    "userAccesses": [],
+                    "externalAccess": false,
+                    "allowFutureDate": false,
+                    "attributeValues": [],
+                    "displayInReports": false,
+                    "userGroupAccesses": [],
+                    "skipSynchronization": false,
+                    "renderOptionsAsRadio": false,
+                    "allowProvidedElsewhere": false
+                },
+                {
+                    "id": "mFUHfciVZwm",
+                    "access": {
+                        "read": true,
+                        "write": true,
+                        "delete": true,
+                        "manage": true,
+                        "update": true,
+                        "externalize": false
+                    },
+                    "created": "2020-12-07T21:41:28.874",
+                    "favorite": false,
+                    "favorites": [],
+                    "sortOrder": 5,
+                    "compulsory": false,
+                    "dataElement": {
+                        "id": "z4Xb0oxODHi"
+                    },
+                    "lastUpdated": "2021-05-25T17:02:03.864",
+                    "programStage": {
+                        "id": "ZH9MKKtADjv"
+                    },
+                    "translations": [],
+                    "userAccesses": [],
+                    "externalAccess": false,
+                    "allowFutureDate": false,
+                    "attributeValues": [],
+                    "displayInReports": false,
+                    "userGroupAccesses": [],
+                    "skipSynchronization": false,
+                    "renderOptionsAsRadio": false,
+                    "allowProvidedElsewhere": false
+                },
+                {
+                    "id": "BaX8s86BvFK",
+                    "access": {
+                        "read": true,
+                        "write": true,
+                        "delete": true,
+                        "manage": true,
+                        "update": true,
+                        "externalize": false
+                    },
+                    "created": "2020-12-07T21:41:28.874",
+                    "favorite": false,
+                    "favorites": [],
+                    "sortOrder": 6,
+                    "compulsory": false,
+                    "dataElement": {
+                        "id": "keGIqdKVjT1"
+                    },
+                    "lastUpdated": "2021-05-25T17:02:03.864",
+                    "programStage": {
+                        "id": "ZH9MKKtADjv"
+                    },
+                    "translations": [],
+                    "userAccesses": [],
+                    "externalAccess": false,
+                    "allowFutureDate": false,
+                    "attributeValues": [],
+                    "displayInReports": false,
+                    "userGroupAccesses": [],
+                    "skipSynchronization": false,
+                    "renderOptionsAsRadio": false,
+                    "allowProvidedElsewhere": false
+                },
+                {
+                    "id": "El3bsNz6qka",
+                    "access": {
+                        "read": true,
+                        "write": true,
+                        "delete": true,
+                        "manage": true,
+                        "update": true,
+                        "externalize": false
+                    },
+                    "created": "2020-12-07T21:41:28.873",
+                    "favorite": false,
+                    "favorites": [],
+                    "sortOrder": 7,
+                    "compulsory": false,
+                    "dataElement": {
+                        "id": "YHeh2UYyWKr"
+                    },
+                    "lastUpdated": "2021-05-25T17:02:03.864",
+                    "programStage": {
+                        "id": "ZH9MKKtADjv"
+                    },
+                    "translations": [],
+                    "userAccesses": [],
+                    "externalAccess": false,
+                    "allowFutureDate": false,
+                    "attributeValues": [],
+                    "displayInReports": false,
+                    "userGroupAccesses": [],
+                    "skipSynchronization": false,
+                    "renderOptionsAsRadio": false,
+                    "allowProvidedElsewhere": false
+                }
+            ],
+            "generatedByEnrollmentDate": false
+        }
+    ],
+    "programIndicators": [
+        {
+            "id": "kKkY0V2mCZq",
+            "name": "Artemether-lumefantrine (AL)",
+            "filter": "#{ZH9MKKtADjv.zVOuaBO6G3r}==\"AL\"",
+            "created": "2020-12-08T18:45:41.140",
+            "program": {
+                "id": "GVJGCXpcAdU"
+            },
+            "decimals": 0,
+            "favorite": false,
+            "favorites": [],
+            "shortName": "Artemether-lumefantrine (AL)",
+            "legendSets": [],
+            "displayName": "Artemether-lumefantrine (AL)",
+            "lastUpdated": "2021-05-25T17:02:03.939",
+            "periodOffset": 0,
+            "publicAccess": "--------",
+            "translations": [],
+            "analyticsType": "EVENT",
+            "dimensionItem": "kKkY0V2mCZq",
+            "lastUpdatedBy": {
+                "id": "xJY16SqZaCB",
+                "username": "arico",
+                "displayName": "Alexis RICO"
+            },
+            "externalAccess": false,
+            "aggregationType": "MAX",
+            "attributeValues": [],
+            "displayFormName": "Artemether-lumefantrine (AL)",
+            "displayShortName": "Artemether-lumefantrine (AL)",
+            "dimensionItemType": "PROGRAM_INDICATOR",
+            "programIndicatorGroups": [],
+            "analyticsPeriodBoundaries": [
+                {
+                    "id": "Koriu8wmHbr",
+                    "access": {
+                        "read": true,
+                        "write": true,
+                        "delete": true,
+                        "manage": true,
+                        "update": true,
+                        "externalize": false
+                    },
+                    "created": "2020-12-07T21:52:18.080",
+                    "favorite": false,
+                    "favorites": [],
+                    "lastUpdated": "2021-05-25T17:02:03.939",
+                    "translations": [],
+                    "userAccesses": [],
+                    "boundaryTarget": "EVENT_DATE",
+                    "externalAccess": false,
+                    "attributeValues": [],
+                    "offsetPeriodType": "Yearly",
+                    "userGroupAccesses": [],
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD"
+                },
+                {
+                    "id": "MOHLNu0RumU",
+                    "access": {
+                        "read": true,
+                        "write": true,
+                        "delete": true,
+                        "manage": true,
+                        "update": true,
+                        "externalize": false
+                    },
+                    "created": "2020-12-07T21:52:18.080",
+                    "favorite": false,
+                    "favorites": [],
+                    "lastUpdated": "2021-05-25T17:02:03.939",
+                    "translations": [],
+                    "userAccesses": [],
+                    "boundaryTarget": "EVENT_DATE",
+                    "externalAccess": false,
+                    "attributeValues": [],
+                    "offsetPeriodType": "Yearly",
+                    "userGroupAccesses": [],
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD"
+                }
+            ]
+        },
+        {
+            "id": "js77xT6Uw2V",
+            "name": "Dihydroartemisinin-piperaquine (DHA-PPQ)",
+            "filter": "#{ZH9MKKtADjv.zVOuaBO6G3r}==\"DHA-PPQ\"",
+            "created": "2020-12-09T14:47:59.830",
+            "program": {
+                "id": "GVJGCXpcAdU"
+            },
+            "decimals": 0,
+            "favorite": false,
+            "favorites": [],
+            "shortName": "Dihydroartemisinin-piperaquine (DHA-PPQ)",
+            "legendSets": [],
+            "displayName": "Dihydroartemisinin-piperaquine (DHA-PPQ)",
+            "lastUpdated": "2021-05-25T17:02:03.940",
+            "periodOffset": 0,
+            "publicAccess": "--------",
+            "translations": [],
+            "analyticsType": "EVENT",
+            "dimensionItem": "js77xT6Uw2V",
+            "lastUpdatedBy": {
+                "id": "xJY16SqZaCB",
+                "username": "arico",
+                "displayName": "Alexis RICO"
+            },
+            "externalAccess": false,
+            "aggregationType": "MAX",
+            "attributeValues": [],
+            "displayFormName": "Dihydroartemisinin-piperaquine (DHA-PPQ)",
+            "displayShortName": "Dihydroartemisinin-piperaquine (DHA-PPQ)",
+            "dimensionItemType": "PROGRAM_INDICATOR",
+            "programIndicatorGroups": [],
+            "analyticsPeriodBoundaries": [
+                {
+                    "id": "XjdeEXyoh0f",
+                    "access": {
+                        "read": true,
+                        "write": true,
+                        "delete": true,
+                        "manage": true,
+                        "update": true,
+                        "externalize": false
+                    },
+                    "created": "2020-12-07T21:52:18.080",
+                    "favorite": false,
+                    "favorites": [],
+                    "lastUpdated": "2021-05-25T17:02:03.940",
+                    "translations": [],
+                    "userAccesses": [],
+                    "boundaryTarget": "EVENT_DATE",
+                    "externalAccess": false,
+                    "attributeValues": [],
+                    "offsetPeriodType": "Yearly",
+                    "userGroupAccesses": [],
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD"
+                },
+                {
+                    "id": "S7PJ7b5hxcV",
+                    "access": {
+                        "read": true,
+                        "write": true,
+                        "delete": true,
+                        "manage": true,
+                        "update": true,
+                        "externalize": false
+                    },
+                    "created": "2020-12-07T21:52:18.080",
+                    "favorite": false,
+                    "favorites": [],
+                    "lastUpdated": "2021-05-25T17:02:03.940",
+                    "translations": [],
+                    "userAccesses": [],
+                    "boundaryTarget": "EVENT_DATE",
+                    "externalAccess": false,
+                    "attributeValues": [],
+                    "offsetPeriodType": "Yearly",
+                    "userGroupAccesses": [],
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD"
+                }
+            ]
+        },
+        {
+            "id": "aO7CbOoj8M5",
+            "name": "Number of studies",
+            "created": "2020-12-07T21:52:18.080",
+            "program": {
+                "id": "GVJGCXpcAdU"
+            },
+            "decimals": 0,
+            "favorite": false,
+            "favorites": [],
+            "shortName": "No. of studies",
+            "expression": "#{ZH9MKKtADjv.zVOuaBO6G3r}",
+            "legendSets": [],
+            "displayName": "Number of studies",
+            "lastUpdated": "2021-05-25T17:02:03.940",
+            "periodOffset": 0,
+            "publicAccess": "--------",
+            "translations": [],
+            "analyticsType": "EVENT",
+            "dimensionItem": "aO7CbOoj8M5",
+            "lastUpdatedBy": {
+                "id": "xJY16SqZaCB",
+                "username": "arico",
+                "displayName": "Alexis RICO"
+            },
+            "externalAccess": false,
+            "aggregationType": "COUNT",
+            "attributeValues": [],
+            "displayFormName": "Number of studies",
+            "displayShortName": "No. of studies",
+            "dimensionItemType": "PROGRAM_INDICATOR",
+            "programIndicatorGroups": [],
+            "analyticsPeriodBoundaries": [
+                {
+                    "id": "sTOsyQNwLrr",
+                    "access": {
+                        "read": true,
+                        "write": true,
+                        "delete": true,
+                        "manage": true,
+                        "update": true,
+                        "externalize": false
+                    },
+                    "created": "2020-12-07T21:52:18.080",
+                    "favorite": false,
+                    "favorites": [],
+                    "lastUpdated": "2021-05-25T17:02:03.940",
+                    "translations": [],
+                    "userAccesses": [],
+                    "boundaryTarget": "EVENT_DATE",
+                    "externalAccess": false,
+                    "attributeValues": [],
+                    "offsetPeriodType": "Yearly",
+                    "userGroupAccesses": [],
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD"
+                },
+                {
+                    "id": "ElLmr70tc6H",
+                    "access": {
+                        "read": true,
+                        "write": true,
+                        "delete": true,
+                        "manage": true,
+                        "update": true,
+                        "externalize": false
+                    },
+                    "created": "2020-12-07T21:52:18.080",
+                    "favorite": false,
+                    "favorites": [],
+                    "lastUpdated": "2021-05-25T17:02:03.940",
+                    "translations": [],
+                    "userAccesses": [],
+                    "boundaryTarget": "EVENT_DATE",
+                    "externalAccess": false,
+                    "attributeValues": [],
+                    "offsetPeriodType": "Yearly",
+                    "userGroupAccesses": [],
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD"
+                }
+            ]
+        },
+        {
+            "id": "te1YBLAMC7p",
+            "name": "TES - End year",
+            "created": "2020-12-07T21:56:05.094",
+            "program": {
+                "id": "GVJGCXpcAdU"
+            },
+            "decimals": 0,
+            "favorite": false,
+            "favorites": [],
+            "shortName": "End year",
+            "expression": "#{ZH9MKKtADjv.Bn2NswFJVoy}",
+            "legendSets": [],
+            "displayName": "TES - End year",
+            "lastUpdated": "2021-05-25T17:02:03.941",
+            "periodOffset": 0,
+            "publicAccess": "--------",
+            "translations": [],
+            "analyticsType": "EVENT",
+            "dimensionItem": "te1YBLAMC7p",
+            "lastUpdatedBy": {
+                "id": "xJY16SqZaCB",
+                "username": "arico",
+                "displayName": "Alexis RICO"
+            },
+            "externalAccess": false,
+            "aggregationType": "MAX",
+            "attributeValues": [],
+            "displayFormName": "TES - End year",
+            "displayShortName": "End year",
+            "dimensionItemType": "PROGRAM_INDICATOR",
+            "programIndicatorGroups": [],
+            "analyticsPeriodBoundaries": [
+                {
+                    "id": "o79QL3GdXZM",
+                    "access": {
+                        "read": true,
+                        "write": true,
+                        "delete": true,
+                        "manage": true,
+                        "update": true,
+                        "externalize": false
+                    },
+                    "created": "2020-12-07T21:52:18.080",
+                    "favorite": false,
+                    "favorites": [],
+                    "lastUpdated": "2021-05-25T17:02:03.941",
+                    "translations": [],
+                    "userAccesses": [],
+                    "boundaryTarget": "EVENT_DATE",
+                    "externalAccess": false,
+                    "attributeValues": [],
+                    "offsetPeriodType": "Yearly",
+                    "userGroupAccesses": [],
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD"
+                },
+                {
+                    "id": "Cu3lXqxsIUl",
+                    "access": {
+                        "read": true,
+                        "write": true,
+                        "delete": true,
+                        "manage": true,
+                        "update": true,
+                        "externalize": false
+                    },
+                    "created": "2020-12-07T21:52:18.080",
+                    "favorite": false,
+                    "favorites": [],
+                    "lastUpdated": "2021-05-25T17:02:03.941",
+                    "translations": [],
+                    "userAccesses": [],
+                    "boundaryTarget": "EVENT_DATE",
+                    "externalAccess": false,
+                    "attributeValues": [],
+                    "offsetPeriodType": "Yearly",
+                    "userGroupAccesses": [],
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD"
+                }
+            ]
+        },
+        {
+            "id": "k6WURAeNGHp",
+            "name": "TES - Max",
+            "created": "2020-12-09T13:12:46.492",
+            "program": {
+                "id": "GVJGCXpcAdU"
+            },
+            "decimals": 0,
+            "favorite": false,
+            "favorites": [],
+            "shortName": "Max",
+            "expression": "max(#{ZH9MKKtADjv.z4Xb0oxODHi})",
+            "legendSets": [],
+            "displayName": "TES - Max",
+            "lastUpdated": "2021-05-25T17:02:03.941",
+            "periodOffset": 0,
+            "publicAccess": "--------",
+            "translations": [],
+            "analyticsType": "EVENT",
+            "dimensionItem": "k6WURAeNGHp",
+            "lastUpdatedBy": {
+                "id": "xJY16SqZaCB",
+                "username": "arico",
+                "displayName": "Alexis RICO"
+            },
+            "externalAccess": false,
+            "aggregationType": "AVERAGE",
+            "attributeValues": [],
+            "displayFormName": "TES - Max",
+            "displayShortName": "Max",
+            "dimensionItemType": "PROGRAM_INDICATOR",
+            "programIndicatorGroups": [],
+            "analyticsPeriodBoundaries": [
+                {
+                    "id": "S12lf9wjQos",
+                    "access": {
+                        "read": true,
+                        "write": true,
+                        "delete": true,
+                        "manage": true,
+                        "update": true,
+                        "externalize": false
+                    },
+                    "created": "2020-12-07T21:52:18.080",
+                    "favorite": false,
+                    "favorites": [],
+                    "lastUpdated": "2021-05-25T17:02:03.941",
+                    "translations": [],
+                    "userAccesses": [],
+                    "boundaryTarget": "EVENT_DATE",
+                    "externalAccess": false,
+                    "attributeValues": [],
+                    "offsetPeriodType": "Yearly",
+                    "userGroupAccesses": [],
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD"
+                },
+                {
+                    "id": "baCj9aAHXMP",
+                    "access": {
+                        "read": true,
+                        "write": true,
+                        "delete": true,
+                        "manage": true,
+                        "update": true,
+                        "externalize": false
+                    },
+                    "created": "2020-12-07T21:52:18.080",
+                    "favorite": false,
+                    "favorites": [],
+                    "lastUpdated": "2021-05-25T17:02:03.941",
+                    "translations": [],
+                    "userAccesses": [],
+                    "boundaryTarget": "EVENT_DATE",
+                    "externalAccess": false,
+                    "attributeValues": [],
+                    "offsetPeriodType": "Yearly",
+                    "userGroupAccesses": [],
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD"
+                }
+            ]
+        },
+        {
+            "id": "qtZpqDlKXhF",
+            "name": "TES - Median",
+            "created": "2020-12-07T21:59:32.929",
+            "program": {
+                "id": "GVJGCXpcAdU"
+            },
+            "decimals": 0,
+            "favorite": false,
+            "favorites": [],
+            "shortName": "Median",
+            "expression": "median(D{GVJGCXpcAdU.z4Xb0oxODHi})",
+            "legendSets": [],
+            "displayName": "TES - Median",
+            "lastUpdated": "2021-05-25T17:02:03.941",
+            "periodOffset": 0,
+            "publicAccess": "--------",
+            "translations": [],
+            "analyticsType": "EVENT",
+            "dimensionItem": "qtZpqDlKXhF",
+            "lastUpdatedBy": {
+                "id": "xJY16SqZaCB",
+                "username": "arico",
+                "displayName": "Alexis RICO"
+            },
+            "externalAccess": false,
+            "aggregationType": "AVERAGE",
+            "attributeValues": [],
+            "displayFormName": "TES - Median",
+            "displayShortName": "Median",
+            "dimensionItemType": "PROGRAM_INDICATOR",
+            "programIndicatorGroups": [],
+            "analyticsPeriodBoundaries": [
+                {
+                    "id": "Y7V3VyA3fOH",
+                    "access": {
+                        "read": true,
+                        "write": true,
+                        "delete": true,
+                        "manage": true,
+                        "update": true,
+                        "externalize": false
+                    },
+                    "created": "2020-12-07T21:52:18.080",
+                    "favorite": false,
+                    "favorites": [],
+                    "lastUpdated": "2021-05-25T17:02:03.942",
+                    "translations": [],
+                    "userAccesses": [],
+                    "boundaryTarget": "EVENT_DATE",
+                    "externalAccess": false,
+                    "attributeValues": [],
+                    "offsetPeriodType": "Yearly",
+                    "userGroupAccesses": [],
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD"
+                },
+                {
+                    "id": "F4HNP69s4Mt",
+                    "access": {
+                        "read": true,
+                        "write": true,
+                        "delete": true,
+                        "manage": true,
+                        "update": true,
+                        "externalize": false
+                    },
+                    "created": "2020-12-07T21:52:18.080",
+                    "favorite": false,
+                    "favorites": [],
+                    "lastUpdated": "2021-05-25T17:02:03.942",
+                    "translations": [],
+                    "userAccesses": [],
+                    "boundaryTarget": "EVENT_DATE",
+                    "externalAccess": false,
+                    "attributeValues": [],
+                    "offsetPeriodType": "Yearly",
+                    "userGroupAccesses": [],
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD"
+                }
+            ]
+        },
+        {
+            "id": "A8vMYAmIAhl",
+            "name": "TES - Min",
+            "created": "2020-12-09T13:12:27.805",
+            "program": {
+                "id": "GVJGCXpcAdU"
+            },
+            "decimals": 0,
+            "favorite": false,
+            "favorites": [],
+            "shortName": "Min",
+            "expression": "min(#{ZH9MKKtADjv.z4Xb0oxODHi})",
+            "legendSets": [],
+            "displayName": "TES - Min",
+            "lastUpdated": "2021-05-25T17:02:03.942",
+            "periodOffset": 0,
+            "publicAccess": "--------",
+            "translations": [],
+            "analyticsType": "EVENT",
+            "dimensionItem": "A8vMYAmIAhl",
+            "lastUpdatedBy": {
+                "id": "xJY16SqZaCB",
+                "username": "arico",
+                "displayName": "Alexis RICO"
+            },
+            "externalAccess": false,
+            "aggregationType": "AVERAGE",
+            "attributeValues": [],
+            "displayFormName": "TES - Min",
+            "displayShortName": "Min",
+            "dimensionItemType": "PROGRAM_INDICATOR",
+            "programIndicatorGroups": [],
+            "analyticsPeriodBoundaries": [
+                {
+                    "id": "IVLJ2ZLYYw1",
+                    "access": {
+                        "read": true,
+                        "write": true,
+                        "delete": true,
+                        "manage": true,
+                        "update": true,
+                        "externalize": false
+                    },
+                    "created": "2020-12-07T21:52:18.080",
+                    "favorite": false,
+                    "favorites": [],
+                    "lastUpdated": "2021-05-25T17:02:03.942",
+                    "translations": [],
+                    "userAccesses": [],
+                    "boundaryTarget": "EVENT_DATE",
+                    "externalAccess": false,
+                    "attributeValues": [],
+                    "offsetPeriodType": "Yearly",
+                    "userGroupAccesses": [],
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD"
+                },
+                {
+                    "id": "v5aiA3axcGm",
+                    "access": {
+                        "read": true,
+                        "write": true,
+                        "delete": true,
+                        "manage": true,
+                        "update": true,
+                        "externalize": false
+                    },
+                    "created": "2020-12-07T21:52:18.080",
+                    "favorite": false,
+                    "favorites": [],
+                    "lastUpdated": "2021-05-25T17:02:03.942",
+                    "translations": [],
+                    "userAccesses": [],
+                    "boundaryTarget": "EVENT_DATE",
+                    "externalAccess": false,
+                    "attributeValues": [],
+                    "offsetPeriodType": "Yearly",
+                    "userGroupAccesses": [],
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD"
+                }
+            ]
+        },
+        {
+            "id": "wlvlbujzYmg",
+            "name": "TES - Start year",
+            "created": "2020-12-07T21:55:34.290",
+            "program": {
+                "id": "GVJGCXpcAdU"
+            },
+            "decimals": 0,
+            "favorite": false,
+            "favorites": [],
+            "shortName": "Start year",
+            "expression": "#{ZH9MKKtADjv.CoCaq36pTz7}",
+            "legendSets": [],
+            "displayName": "TES - Start year",
+            "lastUpdated": "2021-05-25T17:02:03.942",
+            "periodOffset": 0,
+            "publicAccess": "--------",
+            "translations": [],
+            "analyticsType": "EVENT",
+            "dimensionItem": "wlvlbujzYmg",
+            "lastUpdatedBy": {
+                "id": "xJY16SqZaCB",
+                "username": "arico",
+                "displayName": "Alexis RICO"
+            },
+            "externalAccess": false,
+            "aggregationType": "MIN",
+            "attributeValues": [],
+            "displayFormName": "TES - Start year",
+            "displayShortName": "Start year",
+            "dimensionItemType": "PROGRAM_INDICATOR",
+            "programIndicatorGroups": [],
+            "analyticsPeriodBoundaries": [
+                {
+                    "id": "DuRbKy4mNya",
+                    "access": {
+                        "read": true,
+                        "write": true,
+                        "delete": true,
+                        "manage": true,
+                        "update": true,
+                        "externalize": false
+                    },
+                    "created": "2020-12-07T21:52:18.080",
+                    "favorite": false,
+                    "favorites": [],
+                    "lastUpdated": "2021-05-25T17:02:03.943",
+                    "translations": [],
+                    "userAccesses": [],
+                    "boundaryTarget": "EVENT_DATE",
+                    "externalAccess": false,
+                    "attributeValues": [],
+                    "offsetPeriodType": "Yearly",
+                    "userGroupAccesses": [],
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD"
+                },
+                {
+                    "id": "ZlNXPHwbJn6",
+                    "access": {
+                        "read": true,
+                        "write": true,
+                        "delete": true,
+                        "manage": true,
+                        "update": true,
+                        "externalize": false
+                    },
+                    "created": "2020-12-07T21:52:18.080",
+                    "favorite": false,
+                    "favorites": [],
+                    "lastUpdated": "2021-05-25T17:02:03.943",
+                    "translations": [],
+                    "userAccesses": [],
+                    "boundaryTarget": "EVENT_DATE",
+                    "externalAccess": false,
+                    "attributeValues": [],
+                    "offsetPeriodType": "Yearly",
+                    "userGroupAccesses": [],
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD"
+                }
+            ]
+        }
+    ],
+    "programStageSections": [
+        {
+            "id": "QmWSxC054Ot",
+            "name": "Study",
+            "created": "2020-12-07T21:42:15.786",
+            "favorite": false,
+            "favorites": [],
+            "sortOrder": 0,
+            "renderType": {
+                "MOBILE": {
+                    "type": "LISTING"
+                },
+                "DESKTOP": {
+                    "type": "LISTING"
+                }
+            },
+            "displayName": "Study",
+            "lastUpdated": "2021-05-18T07:42:16.175",
+            "dataElements": [
+                {
+                    "id": "GOpzryUeLNF"
+                },
+                {
+                    "id": "CoCaq36pTz7"
+                },
+                {
+                    "id": "Bn2NswFJVoy"
+                },
+                {
+                    "id": "zVOuaBO6G3r"
+                },
+                {
+                    "id": "YHeh2UYyWKr"
+                },
+                {
+                    "id": "z4Xb0oxODHi"
+                },
+                {
+                    "id": "keGIqdKVjT1"
+                }
+            ],
+            "programStage": {
+                "id": "ZH9MKKtADjv"
+            },
+            "translations": [],
+            "lastUpdatedBy": {
+                "id": "xJY16SqZaCB",
+                "username": "arico",
+                "displayName": "Alexis RICO"
+            },
+            "externalAccess": false,
+            "attributeValues": [],
+            "displayFormName": "Study",
+            "programIndicators": []
+        }
+    ]
+}
