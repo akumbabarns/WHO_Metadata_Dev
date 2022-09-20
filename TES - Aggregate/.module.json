@@ -1,0 +1,9 @@
+{
+    "id": "Ycng2SJs7hx",
+    "name": "TES - Aggregate",
+    "instance": "http://localhost:8080",
+    "department": {
+        "id": "mKF51KQAVWu",
+        "name": "Malaria MD Developer"
+    }
+}
