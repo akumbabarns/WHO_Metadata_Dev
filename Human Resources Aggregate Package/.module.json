@@ -1,0 +1,9 @@
+{
+    "id": "Ux0H3JDSPa5",
+    "name": "Human Resources Aggregate Package",
+    "instance": "http://localhost:8080",
+    "department": {
+        "id": "mKF51KQAVWu",
+        "name": "Malaria MD Developer"
+    }
+}
