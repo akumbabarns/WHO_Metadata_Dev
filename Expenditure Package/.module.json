@@ -1,0 +1,9 @@
+{
+    "id": "jOavVH6DC1y",
+    "name": "Expenditure Package",
+    "instance": "http://localhost:8080",
+    "department": {
+        "id": "mKF51KQAVWu",
+        "name": "Malaria MD Developer"
+    }
+}
