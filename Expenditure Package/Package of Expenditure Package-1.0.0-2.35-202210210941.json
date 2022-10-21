@@ -1,0 +1,2378 @@
+{
+    "package": {
+        "id": "hiUoUSPCbXO",
+        "name": "Package of Expenditure Package",
+        "deleted": false,
+        "description": "",
+        "version": "1.0.0",
+        "dhisVersion": "2.35",
+        "module": {
+            "id": "jOavVH6DC1y",
+            "name": "Expenditure Package",
+            "instance": "http://localhost:8080",
+            "department": {
+                "id": "mKF51KQAVWu",
+                "name": "Malaria MD Developer"
+            }
+        },
+        "user": {
+            "id": "TZFikjf5oXD",
+            "name": "Barnabas MD Developer"
+        },
+        "created": "2022-10-21T08:41:33.911Z",
+        "lastUpdated": "2022-10-21T08:41:49.457Z",
+        "lastUpdatedBy": {
+            "id": "TZFikjf5oXD",
+            "name": "Barnabas MD Developer"
+        }
+    },
+    "dataSets": [
+        {
+            "id": "OBvPNGoq9Hl",
+            "name": "REP -EXP - ANNUAL EXPENDITURE",
+            "mobile": false,
+            "created": "2022-09-20T21:21:50.749",
+            "version": 1,
+            "favorite": false,
+            "formType": "DEFAULT",
+            "sections": [],
+            "favorites": [],
+            "shortName": "ANNUAL EXPENDITURE",
+            "expiryDays": 0,
+            "indicators": [],
+            "legendSets": [],
+            "periodType": "Yearly",
+            "timelyDays": 15,
+            "displayName": "REP -EXP - ANNUAL EXPENDITURE",
+            "lastUpdated": "2022-09-20T21:23:00.921",
+            "skipOffline": false,
+            "periodOffset": 0,
+            "publicAccess": "--------",
+            "renderAsTabs": false,
+            "translations": [],
+            "dimensionItem": "OBvPNGoq9Hl",
+            "lastUpdatedBy": {
+                "id": "TZFikjf5oXD",
+                "username": "Barnabas",
+                "displayName": "Barnabas MD Developer"
+            },
+            "externalAccess": false,
+            "attributeValues": [],
+            "dataSetElements": [
+                {
+                    "dataSet": {
+                        "id": "OBvPNGoq9Hl"
+                    },
+                    "dataElement": {
+                        "id": "Bj0399xju9C"
+                    }
+                },
+                {
+                    "dataSet": {
+                        "id": "OBvPNGoq9Hl"
+                    },
+                    "dataElement": {
+                        "id": "DZDHoLuvPbu"
+                    }
+                },
+                {
+                    "dataSet": {
+                        "id": "OBvPNGoq9Hl"
+                    },
+                    "dataElement": {
+                        "id": "HZRKZ0N4Gxs"
+                    }
+                },
+                {
+                    "dataSet": {
+                        "id": "OBvPNGoq9Hl"
+                    },
+                    "dataElement": {
+                        "id": "wbGojdT0Biq"
+                    }
+                },
+                {
+                    "dataSet": {
+                        "id": "OBvPNGoq9Hl"
+                    },
+                    "dataElement": {
+                        "id": "lCPTi8BAxnc"
+                    }
+                },
+                {
+                    "dataSet": {
+                        "id": "OBvPNGoq9Hl"
+                    },
+                    "dataElement": {
+                        "id": "RKIBcwpYYu3"
+                    }
+                },
+                {
+                    "dataSet": {
+                        "id": "OBvPNGoq9Hl"
+                    },
+                    "dataElement": {
+                        "id": "XkFiP5Wgku4"
+                    }
+                },
+                {
+                    "dataSet": {
+                        "id": "OBvPNGoq9Hl"
+                    },
+                    "dataElement": {
+                        "id": "VMb5e7CdMqi"
+                    }
+                }
+            ],
+            "displayFormName": "REP -EXP - ANNUAL EXPENDITURE",
+            "interpretations": [],
+            "dataInputPeriods": [],
+            "displayShortName": "ANNUAL EXPENDITURE",
+            "dimensionItemType": "REPORTING_RATE",
+            "openFuturePeriods": 0,
+            "validCompleteOnly": false,
+            "renderHorizontally": false,
+            "notifyCompletingUser": false,
+            "dataElementDecoration": false,
+            "noValueRequiresComment": false,
+            "fieldCombinationRequired": false,
+            "openPeriodsAfterCoEndDate": 0,
+            "compulsoryFieldsCompleteOnly": false,
+            "compulsoryDataElementOperands": []
+        }
+    ],
+    "categories": [
+        {
+            "id": "K9NLOWwUUWu",
+            "name": "Funders",
+            "items": [
+                {
+                    "id": "gaanuV10DJo"
+                },
+                {
+                    "id": "hky9WnlXhpf"
+                },
+                {
+                    "id": "ewGIVoI1HXB"
+                },
+                {
+                    "id": "FDOvpyVxzZs"
+                },
+                {
+                    "id": "dgfSVm4ZXYJ"
+                },
+                {
+                    "id": "L3qvqAb9xaG"
+                },
+                {
+                    "id": "Ac2sI48Dz7C"
+                },
+                {
+                    "id": "KIuCQAbmmdj"
+                }
+            ],
+            "created": "2022-09-20T19:39:17.032",
+            "allItems": false,
+            "favorite": false,
+            "dimension": "K9NLOWwUUWu",
+            "favorites": [],
+            "shortName": "Funders",
+            "displayName": "Funders",
+            "lastUpdated": "2022-09-20T19:51:25.662",
+            "publicAccess": "--------",
+            "translations": [],
+            "dataDimension": true,
+            "dimensionType": "CATEGORY",
+            "lastUpdatedBy": {
+                "id": "TZFikjf5oXD",
+                "username": "Barnabas",
+                "displayName": "Barnabas MD Developer"
+            },
+            "categoryCombos": [
+                {
+                    "id": "S5nfFggAzza"
+                }
+            ],
+            "externalAccess": false,
+            "attributeValues": [],
+            "categoryOptions": [
+                {
+                    "id": "gaanuV10DJo"
+                },
+                {
+                    "id": "hky9WnlXhpf"
+                },
+                {
+                    "id": "ewGIVoI1HXB"
+                },
+                {
+                    "id": "FDOvpyVxzZs"
+                },
+                {
+                    "id": "dgfSVm4ZXYJ"
+                },
+                {
+                    "id": "L3qvqAb9xaG"
+                },
+                {
+                    "id": "Ac2sI48Dz7C"
+                },
+                {
+                    "id": "KIuCQAbmmdj"
+                }
+            ],
+            "displayFormName": "Funders",
+            "displayShortName": "Funders",
+            "dataDimensionType": "DISAGGREGATION"
+        }
+    ],
+    "dashboards": [
+        {
+            "id": "zVKLwQqOcBU",
+            "name": "Expenditures",
+            "created": "2020-12-02T15:28:16.415",
+            "favorite": false,
+            "favorites": [],
+            "itemCount": 3,
+            "displayName": "Expenditures",
+            "lastUpdated": "2021-05-25T17:59:44.366",
+            "publicAccess": "--------",
+            "translations": [],
+            "lastUpdatedBy": {
+                "id": "xJY16SqZaCB",
+                "username": "arico",
+                "displayName": "Alexis RICO"
+            },
+            "dashboardItems": [
+                {
+                    "x": 26,
+                    "y": 29,
+                    "id": "jV2OhJm9bjo",
+                    "type": "VISUALIZATION",
+                    "users": [],
+                    "width": 20,
+                    "access": {
+                        "read": true,
+                        "write": false,
+                        "delete": true,
+                        "manage": false,
+                        "update": false,
+                        "externalize": false
+                    },
+                    "height": 29,
+                    "created": "2020-12-02T15:28:16.372",
+                    "reports": [],
+                    "favorite": false,
+                    "favorites": [],
+                    "resources": [],
+                    "lastUpdated": "2021-05-25T17:59:44.366",
+                    "contentCount": 1,
+                    "translations": [],
+                    "userAccesses": [],
+                    "visualization": {
+                        "id": "sEL2x564DPs",
+                        "type": "PIE"
+                    },
+                    "externalAccess": false,
+                    "attributeValues": [],
+                    "userGroupAccesses": [],
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "id": "ituMmDf6osS",
+                    "type": "VISUALIZATION",
+                    "users": [],
+                    "width": 46,
+                    "access": {
+                        "read": true,
+                        "write": false,
+                        "delete": true,
+                        "manage": false,
+                        "update": false,
+                        "externalize": false
+                    },
+                    "height": 29,
+                    "created": "2020-12-02T15:28:16.372",
+                    "reports": [],
+                    "favorite": false,
+                    "favorites": [],
+                    "resources": [],
+                    "lastUpdated": "2021-05-25T17:59:44.366",
+                    "contentCount": 1,
+                    "translations": [],
+                    "userAccesses": [],
+                    "visualization": {
+                        "id": "PrhRXqcTthy",
+                        "type": "STACKED_COLUMN"
+                    },
+                    "externalAccess": false,
+                    "attributeValues": [],
+                    "userGroupAccesses": [],
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0
+                },
+                {
+                    "x": 0,
+                    "y": 29,
+                    "id": "DEmeYzjErdO",
+                    "type": "VISUALIZATION",
+                    "users": [],
+                    "width": 26,
+                    "access": {
+                        "read": true,
+                        "write": false,
+                        "delete": true,
+                        "manage": false,
+                        "update": false,
+                        "externalize": false
+                    },
+                    "height": 29,
+                    "created": "2020-12-02T15:28:16.372",
+                    "reports": [],
+                    "favorite": false,
+                    "favorites": [],
+                    "resources": [],
+                    "lastUpdated": "2021-05-25T17:59:44.366",
+                    "contentCount": 1,
+                    "translations": [],
+                    "userAccesses": [],
+                    "visualization": {
+                        "id": "gQrXNbONY6Y",
+                        "type": "STACKED_COLUMN"
+                    },
+                    "externalAccess": false,
+                    "attributeValues": [],
+                    "userGroupAccesses": [],
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0
+                }
+            ],
+            "externalAccess": false,
+            "attributeValues": [],
+            "displayFormName": "Expenditures"
+        }
+    ],
+    "indicators": [
+        {
+            "id": "lIl9rvmHsfO",
+            "name": "Expenditure by donor (Global Fund)",
+            "created": "2020-12-02T12:50:22.474",
+            "dataSets": [
+                {
+                    "id": "qp6YHYtmYqr"
+                }
+            ],
+            "favorite": false,
+            "favorites": [],
+            "numerator": "#{pXICyStHf7p.JUrSAQzCcdY} + #{c6gKXlmpehL.JUrSAQzCcdY} + #{tMwk9hyJbrI.JUrSAQzCcdY} + #{HPy14nfta68.JUrSAQzCcdY} + #{D6mLfabZrx2.JUrSAQzCcdY} + #{OuCE0rulNcQ.JUrSAQzCcdY} + #{cDrGDh9JdFp.JUrSAQzCcdY} + #{s69X99SinMi.JUrSAQzCcdY} + #{e7rKjUETtQS.JUrSAQzCcdY} + #{a3CedGg64tl.JUrSAQzCcdY} + #{pKGJQybfUu1.JUrSAQzCcdY} + #{P3znVsrv8uo.JUrSAQzCcdY}",
+            "shortName": "Expenditure by donor (Global Fund)",
+            "annualized": false,
+            "legendSets": [],
+            "denominator": "1",
+            "displayName": "Expenditure by donor (Global Fund)",
+            "lastUpdated": "2021-05-25T17:02:03.698",
+            "periodOffset": 0,
+            "publicAccess": "--------",
+            "translations": [],
+            "dimensionItem": "lIl9rvmHsfO",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "lastUpdatedBy": {
+                "id": "xJY16SqZaCB",
+                "username": "arico",
+                "displayName": "Alexis RICO"
+            },
+            "externalAccess": false,
+            "attributeValues": [],
+            "displayFormName": "Expenditure by donor (Global Fund)",
+            "indicatorGroups": [],
+            "displayShortName": "Expenditure by donor (Global Fund)",
+            "dimensionItemType": "INDICATOR",
+            "numeratorDescription": "Expenditure - Global Fund",
+            "denominatorDescription": "1",
+            "displayNumeratorDescription": "Expenditure - Global Fund",
+            "displayDenominatorDescription": "1"
+        },
+        {
+            "id": "XiZrV8RpDsT",
+            "name": "Expenditure by donor (Government)",
+            "created": "2020-12-02T12:58:40.354",
+            "dataSets": [
+                {
+                    "id": "qp6YHYtmYqr"
+                }
+            ],
+            "favorite": false,
+            "favorites": [],
+            "numerator": "#{pXICyStHf7p.hnvJqfq3h4w} + #{c6gKXlmpehL.hnvJqfq3h4w} + #{tMwk9hyJbrI.hnvJqfq3h4w} + #{HPy14nfta68.hnvJqfq3h4w} + #{D6mLfabZrx2.hnvJqfq3h4w} + #{OuCE0rulNcQ.hnvJqfq3h4w} + #{cDrGDh9JdFp.hnvJqfq3h4w} + #{s69X99SinMi.hnvJqfq3h4w} + #{e7rKjUETtQS.hnvJqfq3h4w} + #{a3CedGg64tl.hnvJqfq3h4w} + #{pKGJQybfUu1.hnvJqfq3h4w} + #{P3znVsrv8uo.hnvJqfq3h4w}",
+            "shortName": "Expenditure by donor (Government)",
+            "annualized": false,
+            "legendSets": [],
+            "denominator": "1",
+            "displayName": "Expenditure by donor (Government)",
+            "lastUpdated": "2021-05-25T17:02:03.699",
+            "periodOffset": 0,
+            "publicAccess": "--------",
+            "translations": [],
+            "dimensionItem": "XiZrV8RpDsT",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "lastUpdatedBy": {
+                "id": "xJY16SqZaCB",
+                "username": "arico",
+                "displayName": "Alexis RICO"
+            },
+            "externalAccess": false,
+            "attributeValues": [],
+            "displayFormName": "Expenditure by donor (Government)",
+            "indicatorGroups": [],
+            "displayShortName": "Expenditure by donor (Government)",
+            "dimensionItemType": "INDICATOR",
+            "numeratorDescription": "Expenditure - Government",
+            "denominatorDescription": "1",
+            "displayNumeratorDescription": "Expenditure - Government",
+            "displayDenominatorDescription": "1"
+        },
+        {
+            "id": "qcALR8MPeUR",
+            "name": "Expenditure by donor (Other (all types))",
+            "created": "2020-12-02T13:03:15.100",
+            "dataSets": [
+                {
+                    "id": "qp6YHYtmYqr"
+                }
+            ],
+            "favorite": false,
+            "favorites": [],
+            "numerator": "#{pXICyStHf7p.GGgVKUy73Qi} + #{c6gKXlmpehL.GGgVKUy73Qi} + #{tMwk9hyJbrI.GGgVKUy73Qi} + #{HPy14nfta68.GGgVKUy73Qi} + #{D6mLfabZrx2.GGgVKUy73Qi} + #{OuCE0rulNcQ.GGgVKUy73Qi} + #{cDrGDh9JdFp.GGgVKUy73Qi} + #{s69X99SinMi.GGgVKUy73Qi} + #{e7rKjUETtQS.GGgVKUy73Qi} + #{a3CedGg64tl.GGgVKUy73Qi} + #{pKGJQybfUu1.GGgVKUy73Qi} + #{P3znVsrv8uo.GGgVKUy73Qi}",
+            "shortName": "Expenditure by donor (Other (all types))",
+            "annualized": false,
+            "legendSets": [],
+            "denominator": "1",
+            "displayName": "Expenditure by donor (Other (all types))",
+            "lastUpdated": "2021-05-25T17:02:03.699",
+            "periodOffset": 0,
+            "publicAccess": "--------",
+            "translations": [],
+            "dimensionItem": "qcALR8MPeUR",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "lastUpdatedBy": {
+                "id": "xJY16SqZaCB",
+                "username": "arico",
+                "displayName": "Alexis RICO"
+            },
+            "externalAccess": false,
+            "attributeValues": [],
+            "displayFormName": "Expenditure by donor (Other (all types))",
+            "indicatorGroups": [],
+            "displayShortName": "Expenditure by donor (Other (all types))",
+            "dimensionItemType": "INDICATOR",
+            "numeratorDescription": "Expenditure - Other (all types)",
+            "denominatorDescription": "1",
+            "displayNumeratorDescription": "Expenditure - Other (all types)",
+            "displayDenominatorDescription": "1"
+        },
+        {
+            "id": "uzPUmbDmnV1",
+            "name": "Expenditure by donor (Other (bilateral))",
+            "created": "2020-12-02T13:03:54.710",
+            "dataSets": [
+                {
+                    "id": "qp6YHYtmYqr"
+                }
+            ],
+            "favorite": false,
+            "favorites": [],
+            "numerator": "#{pXICyStHf7p.DIVI7Q34kCa} + #{c6gKXlmpehL.DIVI7Q34kCa} + #{tMwk9hyJbrI.DIVI7Q34kCa} + #{HPy14nfta68.DIVI7Q34kCa} + #{D6mLfabZrx2.DIVI7Q34kCa} + #{OuCE0rulNcQ.DIVI7Q34kCa} + #{cDrGDh9JdFp.DIVI7Q34kCa} + #{s69X99SinMi.DIVI7Q34kCa} + #{e7rKjUETtQS.DIVI7Q34kCa} + #{a3CedGg64tl.DIVI7Q34kCa} + #{pKGJQybfUu1.DIVI7Q34kCa} + #{P3znVsrv8uo.DIVI7Q34kCa}",
+            "shortName": "Expenditure by donor (Other (bilateral))",
+            "annualized": false,
+            "legendSets": [],
+            "denominator": "1",
+            "displayName": "Expenditure by donor (Other (bilateral))",
+            "lastUpdated": "2021-05-25T17:02:03.699",
+            "periodOffset": 0,
+            "publicAccess": "--------",
+            "translations": [],
+            "dimensionItem": "uzPUmbDmnV1",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "lastUpdatedBy": {
+                "id": "xJY16SqZaCB",
+                "username": "arico",
+                "displayName": "Alexis RICO"
+            },
+            "externalAccess": false,
+            "attributeValues": [],
+            "displayFormName": "Expenditure by donor (Other (bilateral))",
+            "indicatorGroups": [],
+            "displayShortName": "Expenditure by donor (Other (bilateral))",
+            "dimensionItemType": "INDICATOR",
+            "numeratorDescription": "Expenditure - Other (bilateral)",
+            "denominatorDescription": "1",
+            "displayNumeratorDescription": "Expenditure - Other (bilateral)",
+            "displayDenominatorDescription": "1"
+        },
+        {
+            "id": "oO6PNMspEFk",
+            "name": "Expenditure by donor (Other (non-bilateral))",
+            "created": "2020-12-02T13:04:48.203",
+            "dataSets": [
+                {
+                    "id": "qp6YHYtmYqr"
+                }
+            ],
+            "favorite": false,
+            "favorites": [],
+            "numerator": "#{pXICyStHf7p.YEDLeJnrH7p} + #{c6gKXlmpehL.YEDLeJnrH7p} + #{tMwk9hyJbrI.YEDLeJnrH7p} + #{HPy14nfta68.YEDLeJnrH7p} + #{D6mLfabZrx2.YEDLeJnrH7p} + #{OuCE0rulNcQ.YEDLeJnrH7p} + #{cDrGDh9JdFp.YEDLeJnrH7p} + #{s69X99SinMi.YEDLeJnrH7p} + #{e7rKjUETtQS.YEDLeJnrH7p} + #{a3CedGg64tl.YEDLeJnrH7p} + #{pKGJQybfUu1.YEDLeJnrH7p} + #{P3znVsrv8uo.YEDLeJnrH7p}",
+            "shortName": "Expenditure by donor (Other (non-bilateral))",
+            "annualized": false,
+            "legendSets": [],
+            "denominator": "1",
+            "displayName": "Expenditure by donor (Other (non-bilateral))",
+            "lastUpdated": "2021-05-25T17:02:03.699",
+            "periodOffset": 0,
+            "publicAccess": "--------",
+            "translations": [],
+            "dimensionItem": "oO6PNMspEFk",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "lastUpdatedBy": {
+                "id": "xJY16SqZaCB",
+                "username": "arico",
+                "displayName": "Alexis RICO"
+            },
+            "externalAccess": false,
+            "attributeValues": [],
+            "displayFormName": "Expenditure by donor (Other (non-bilateral))",
+            "indicatorGroups": [],
+            "displayShortName": "Expenditure by donor (Other (non-bilateral))",
+            "dimensionItemType": "INDICATOR",
+            "numeratorDescription": "Expenditure - Other (non-bilateral)",
+            "denominatorDescription": "1",
+            "displayNumeratorDescription": "Expenditure - Other (non-bilateral)",
+            "displayDenominatorDescription": "1"
+        },
+        {
+            "id": "tPfHJ7WnZ1L",
+            "name": "Expenditure by donor (PMI)",
+            "created": "2020-12-02T13:05:33.966",
+            "dataSets": [
+                {
+                    "id": "qp6YHYtmYqr"
+                }
+            ],
+            "favorite": false,
+            "favorites": [],
+            "numerator": "#{pXICyStHf7p.T8goPxNGa7Z} + #{c6gKXlmpehL.T8goPxNGa7Z} + #{tMwk9hyJbrI.T8goPxNGa7Z} + #{HPy14nfta68.T8goPxNGa7Z} + #{D6mLfabZrx2.T8goPxNGa7Z} + #{OuCE0rulNcQ.T8goPxNGa7Z} + #{cDrGDh9JdFp.T8goPxNGa7Z} + #{s69X99SinMi.T8goPxNGa7Z} + #{e7rKjUETtQS.T8goPxNGa7Z} + #{a3CedGg64tl.T8goPxNGa7Z} + #{pKGJQybfUu1.T8goPxNGa7Z} + #{P3znVsrv8uo.T8goPxNGa7Z}",
+            "shortName": "Expenditure by donor (PMI)",
+            "annualized": false,
+            "legendSets": [],
+            "denominator": "1",
+            "displayName": "Expenditure by donor (PMI)",
+            "lastUpdated": "2021-05-25T17:02:03.699",
+            "periodOffset": 0,
+            "publicAccess": "--------",
+            "translations": [],
+            "dimensionItem": "tPfHJ7WnZ1L",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "lastUpdatedBy": {
+                "id": "xJY16SqZaCB",
+                "username": "arico",
+                "displayName": "Alexis RICO"
+            },
+            "externalAccess": false,
+            "attributeValues": [],
+            "displayFormName": "Expenditure by donor (PMI)",
+            "indicatorGroups": [],
+            "displayShortName": "Expenditure by donor (PMI)",
+            "dimensionItemType": "INDICATOR",
+            "numeratorDescription": "Expenditure - PMI",
+            "denominatorDescription": "1",
+            "displayNumeratorDescription": "Expenditure - PMI",
+            "displayDenominatorDescription": "1"
+        },
+        {
+            "id": "kyKRlViB6sd",
+            "name": "Expenditure by donor (UNICEF)",
+            "created": "2020-12-02T13:06:11.873",
+            "dataSets": [
+                {
+                    "id": "qp6YHYtmYqr"
+                }
+            ],
+            "favorite": false,
+            "favorites": [],
+            "numerator": "#{pXICyStHf7p.GlEQKeDX9u2} + #{c6gKXlmpehL.GlEQKeDX9u2} + #{tMwk9hyJbrI.GlEQKeDX9u2} + #{HPy14nfta68.GlEQKeDX9u2} + #{D6mLfabZrx2.GlEQKeDX9u2} + #{OuCE0rulNcQ.GlEQKeDX9u2} + #{cDrGDh9JdFp.GlEQKeDX9u2} + #{s69X99SinMi.GlEQKeDX9u2} + #{e7rKjUETtQS.GlEQKeDX9u2} + #{a3CedGg64tl.GlEQKeDX9u2} + #{pKGJQybfUu1.GlEQKeDX9u2} + #{P3znVsrv8uo.GlEQKeDX9u2}",
+            "shortName": "Expenditure by donor (UNICEF)",
+            "annualized": false,
+            "legendSets": [],
+            "denominator": "1",
+            "displayName": "Expenditure by donor (UNICEF)",
+            "lastUpdated": "2021-05-25T17:02:03.699",
+            "periodOffset": 0,
+            "publicAccess": "--------",
+            "translations": [],
+            "dimensionItem": "kyKRlViB6sd",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "lastUpdatedBy": {
+                "id": "xJY16SqZaCB",
+                "username": "arico",
+                "displayName": "Alexis RICO"
+            },
+            "externalAccess": false,
+            "attributeValues": [],
+            "displayFormName": "Expenditure by donor (UNICEF)",
+            "indicatorGroups": [],
+            "displayShortName": "Expenditure by donor (UNICEF)",
+            "dimensionItemType": "INDICATOR",
+            "numeratorDescription": "Expenditure - UNICEF",
+            "denominatorDescription": "1",
+            "displayNumeratorDescription": "Expenditure - UNICEF",
+            "displayDenominatorDescription": "1"
+        },
+        {
+            "id": "nBf5KUhTlGj",
+            "name": "Expenditure by donor (WHO)",
+            "created": "2020-12-02T13:06:41.074",
+            "dataSets": [
+                {
+                    "id": "qp6YHYtmYqr"
+                }
+            ],
+            "favorite": false,
+            "favorites": [],
+            "numerator": "#{pXICyStHf7p.RM7u41s5H10} + #{c6gKXlmpehL.RM7u41s5H10} + #{tMwk9hyJbrI.RM7u41s5H10} + #{HPy14nfta68.RM7u41s5H10} + #{D6mLfabZrx2.RM7u41s5H10} + #{OuCE0rulNcQ.RM7u41s5H10} + #{cDrGDh9JdFp.RM7u41s5H10} + #{s69X99SinMi.RM7u41s5H10} + #{e7rKjUETtQS.RM7u41s5H10} + #{a3CedGg64tl.RM7u41s5H10} + #{pKGJQybfUu1.RM7u41s5H10} + #{P3znVsrv8uo.RM7u41s5H10}",
+            "shortName": "Expenditure by donor (WHO)",
+            "annualized": false,
+            "legendSets": [],
+            "denominator": "1",
+            "displayName": "Expenditure by donor (WHO)",
+            "lastUpdated": "2021-05-25T17:02:03.700",
+            "periodOffset": 0,
+            "publicAccess": "--------",
+            "translations": [],
+            "dimensionItem": "nBf5KUhTlGj",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "lastUpdatedBy": {
+                "id": "xJY16SqZaCB",
+                "username": "arico",
+                "displayName": "Alexis RICO"
+            },
+            "externalAccess": false,
+            "attributeValues": [],
+            "displayFormName": "Expenditure by donor (WHO)",
+            "indicatorGroups": [],
+            "displayShortName": "Expenditure by donor (WHO)",
+            "dimensionItemType": "INDICATOR",
+            "numeratorDescription": "Expenditure - WHO",
+            "denominatorDescription": "1",
+            "displayNumeratorDescription": "Expenditure - WHO",
+            "displayDenominatorDescription": "1"
+        },
+        {
+            "id": "ipQeVIk0aMG",
+            "name": "Expenditure by donor (World Bank)",
+            "created": "2020-12-02T13:07:14.235",
+            "dataSets": [
+                {
+                    "id": "qp6YHYtmYqr"
+                }
+            ],
+            "favorite": false,
+            "favorites": [],
+            "numerator": "#{pXICyStHf7p.MDJzVdakYTa} + #{c6gKXlmpehL.MDJzVdakYTa} + #{tMwk9hyJbrI.MDJzVdakYTa} + #{HPy14nfta68.MDJzVdakYTa} + #{D6mLfabZrx2.MDJzVdakYTa} + #{OuCE0rulNcQ.MDJzVdakYTa} + #{cDrGDh9JdFp.MDJzVdakYTa} + #{s69X99SinMi.MDJzVdakYTa} + #{e7rKjUETtQS.MDJzVdakYTa} + #{a3CedGg64tl.MDJzVdakYTa} + #{pKGJQybfUu1.MDJzVdakYTa} + #{P3znVsrv8uo.MDJzVdakYTa}",
+            "shortName": "Expenditure by donor (World Bank)",
+            "annualized": false,
+            "legendSets": [],
+            "denominator": "1",
+            "displayName": "Expenditure by donor (World Bank)",
+            "lastUpdated": "2021-05-25T17:02:03.700",
+            "periodOffset": 0,
+            "publicAccess": "--------",
+            "translations": [],
+            "dimensionItem": "ipQeVIk0aMG",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "lastUpdatedBy": {
+                "id": "xJY16SqZaCB",
+                "username": "arico",
+                "displayName": "Alexis RICO"
+            },
+            "externalAccess": false,
+            "attributeValues": [],
+            "displayFormName": "Expenditure by donor (World Bank)",
+            "indicatorGroups": [],
+            "displayShortName": "Expenditure by donor (World Bank)",
+            "dimensionItemType": "INDICATOR",
+            "numeratorDescription": "Expenditure - World Bank",
+            "denominatorDescription": "1",
+            "displayNumeratorDescription": "Expenditure - World Bank",
+            "displayDenominatorDescription": "1"
+        }
+    ],
+    "dataElements": [
+        {
+            "id": "wbGojdT0Biq",
+            "code": "EXP_01",
+            "name": "REP - EXP -Capital Expenditure",
+            "created": "2022-09-20T21:17:04.976",
+            "favorite": false,
+            "formName": "Capital (microscope, vehicle, etc)",
+            "favorites": [],
+            "shortName": "Capital (microscope, vehicle, etc)",
+            "valueType": "NUMBER",
+            "domainType": "AGGREGATE",
+            "legendSets": [],
+            "displayName": "REP - EXP -Capital Expenditure",
+            "lastUpdated": "2022-09-20T21:17:05.152",
+            "periodOffset": 0,
+            "publicAccess": "--------",
+            "translations": [],
+            "categoryCombo": {
+                "id": "S5nfFggAzza"
+            },
+            "dimensionItem": "wbGojdT0Biq",
+            "lastUpdatedBy": {
+                "id": "TZFikjf5oXD",
+                "username": "Barnabas",
+                "displayName": "Barnabas MD Developer"
+            },
+            "externalAccess": false,
+            "optionSetValue": false,
+            "aggregationType": "SUM",
+            "attributeValues": [],
+            "dataSetElements": [
+                {
+                    "dataSet": {
+                        "id": "OBvPNGoq9Hl"
+                    },
+                    "dataElement": {
+                        "id": "wbGojdT0Biq"
+                    }
+                }
+            ],
+            "displayFormName": "Capital (microscope, vehicle, etc)",
+            "displayShortName": "Capital (microscope, vehicle, etc)",
+            "aggregationLevels": [],
+            "dataElementGroups": [],
+            "dimensionItemType": "DATA_ELEMENT",
+            "zeroIsSignificant": false
+        },
+        {
+            "id": "lCPTi8BAxnc",
+            "code": "EXP_07",
+            "name": "REP - EXP -Delivery to end users Expenditure",
+            "created": "2022-09-20T21:17:04.976",
+            "favorite": false,
+            "formName": "Delivery to end users",
+            "favorites": [],
+            "shortName": "Delivery to end users",
+            "valueType": "NUMBER",
+            "domainType": "AGGREGATE",
+            "legendSets": [],
+            "displayName": "REP - EXP -Delivery to end users Expenditure",
+            "lastUpdated": "2022-09-20T21:17:05.153",
+            "periodOffset": 0,
+            "publicAccess": "--------",
+            "translations": [],
+            "categoryCombo": {
+                "id": "S5nfFggAzza"
+            },
+            "dimensionItem": "lCPTi8BAxnc",
+            "lastUpdatedBy": {
+                "id": "TZFikjf5oXD",
+                "username": "Barnabas",
+                "displayName": "Barnabas MD Developer"
+            },
+            "externalAccess": false,
+            "optionSetValue": false,
+            "aggregationType": "SUM",
+            "attributeValues": [],
+            "dataSetElements": [
+                {
+                    "dataSet": {
+                        "id": "OBvPNGoq9Hl"
+                    },
+                    "dataElement": {
+                        "id": "lCPTi8BAxnc"
+                    }
+                }
+            ],
+            "displayFormName": "Delivery to end users",
+            "displayShortName": "Delivery to end users",
+            "aggregationLevels": [],
+            "dataElementGroups": [],
+            "dimensionItemType": "DATA_ELEMENT",
+            "zeroIsSignificant": false
+        },
+        {
+            "id": "DZDHoLuvPbu",
+            "code": "EXP_06",
+            "name": "REP - EXP -Distribution/administration Expenditure",
+            "created": "2022-09-20T21:17:04.976",
+            "favorite": false,
+            "formName": "Distribution/administration",
+            "favorites": [],
+            "shortName": "Distribution/administration",
+            "valueType": "NUMBER",
+            "domainType": "AGGREGATE",
+            "legendSets": [],
+            "displayName": "REP - EXP -Distribution/administration Expenditure",
+            "lastUpdated": "2022-09-20T21:17:05.153",
+            "periodOffset": 0,
+            "publicAccess": "--------",
+            "translations": [],
+            "categoryCombo": {
+                "id": "S5nfFggAzza"
+            },
+            "dimensionItem": "DZDHoLuvPbu",
+            "lastUpdatedBy": {
+                "id": "TZFikjf5oXD",
+                "username": "Barnabas",
+                "displayName": "Barnabas MD Developer"
+            },
+            "externalAccess": false,
+            "optionSetValue": false,
+            "aggregationType": "SUM",
+            "attributeValues": [],
+            "dataSetElements": [
+                {
+                    "dataSet": {
+                        "id": "OBvPNGoq9Hl"
+                    },
+                    "dataElement": {
+                        "id": "DZDHoLuvPbu"
+                    }
+                }
+            ],
+            "displayFormName": "Distribution/administration",
+            "displayShortName": "Distribution/administration",
+            "aggregationLevels": [],
+            "dataElementGroups": [],
+            "dimensionItemType": "DATA_ELEMENT",
+            "zeroIsSignificant": false
+        },
+        {
+            "id": "HZRKZ0N4Gxs",
+            "code": "EXP_05",
+            "name": "REP - EXP -IEC/sensitisation Expenditure",
+            "created": "2022-09-20T21:17:04.976",
+            "favorite": false,
+            "formName": "IEC/sensitisation",
+            "favorites": [],
+            "shortName": "IEC/sensitisation",
+            "valueType": "NUMBER",
+            "domainType": "AGGREGATE",
+            "legendSets": [],
+            "displayName": "REP - EXP -IEC/sensitisation Expenditure",
+            "lastUpdated": "2022-09-20T21:17:05.153",
+            "periodOffset": 0,
+            "publicAccess": "--------",
+            "translations": [],
+            "categoryCombo": {
+                "id": "S5nfFggAzza"
+            },
+            "dimensionItem": "HZRKZ0N4Gxs",
+            "lastUpdatedBy": {
+                "id": "TZFikjf5oXD",
+                "username": "Barnabas",
+                "displayName": "Barnabas MD Developer"
+            },
+            "externalAccess": false,
+            "optionSetValue": false,
+            "aggregationType": "SUM",
+            "attributeValues": [],
+            "dataSetElements": [
+                {
+                    "dataSet": {
+                        "id": "OBvPNGoq9Hl"
+                    },
+                    "dataElement": {
+                        "id": "HZRKZ0N4Gxs"
+                    }
+                }
+            ],
+            "displayFormName": "IEC/sensitisation",
+            "displayShortName": "IEC/sensitisation",
+            "aggregationLevels": [],
+            "dataElementGroups": [],
+            "dimensionItemType": "DATA_ELEMENT",
+            "zeroIsSignificant": false
+        },
+        {
+            "id": "VMb5e7CdMqi",
+            "code": "EXP_08",
+            "name": "REP - EXP -Other Expenditure",
+            "created": "2022-09-20T21:17:04.976",
+            "favorite": false,
+            "formName": "Others",
+            "favorites": [],
+            "shortName": "Others",
+            "valueType": "NUMBER",
+            "domainType": "AGGREGATE",
+            "legendSets": [],
+            "displayName": "REP - EXP -Other Expenditure",
+            "lastUpdated": "2022-09-20T21:17:05.153",
+            "periodOffset": 0,
+            "publicAccess": "--------",
+            "translations": [],
+            "categoryCombo": {
+                "id": "S5nfFggAzza"
+            },
+            "dimensionItem": "VMb5e7CdMqi",
+            "lastUpdatedBy": {
+                "id": "TZFikjf5oXD",
+                "username": "Barnabas",
+                "displayName": "Barnabas MD Developer"
+            },
+            "externalAccess": false,
+            "optionSetValue": false,
+            "aggregationType": "SUM",
+            "attributeValues": [],
+            "dataSetElements": [
+                {
+                    "dataSet": {
+                        "id": "OBvPNGoq9Hl"
+                    },
+                    "dataElement": {
+                        "id": "VMb5e7CdMqi"
+                    }
+                }
+            ],
+            "displayFormName": "Others",
+            "displayShortName": "Others",
+            "aggregationLevels": [],
+            "dataElementGroups": [],
+            "dimensionItemType": "DATA_ELEMENT",
+            "zeroIsSignificant": false
+        },
+        {
+            "id": "XkFiP5Wgku4",
+            "code": "EXP_02",
+            "name": "REP - EXP -Overheads Expenditure",
+            "created": "2022-09-20T21:17:04.976",
+            "favorite": false,
+            "formName": "Overheads (utilities etc)",
+            "favorites": [],
+            "shortName": "Overheads (utilities etc)",
+            "valueType": "NUMBER",
+            "domainType": "AGGREGATE",
+            "legendSets": [],
+            "displayName": "REP - EXP -Overheads Expenditure",
+            "lastUpdated": "2022-09-20T21:17:05.153",
+            "periodOffset": 0,
+            "publicAccess": "--------",
+            "translations": [],
+            "categoryCombo": {
+                "id": "S5nfFggAzza"
+            },
+            "dimensionItem": "XkFiP5Wgku4",
+            "lastUpdatedBy": {
+                "id": "TZFikjf5oXD",
+                "username": "Barnabas",
+                "displayName": "Barnabas MD Developer"
+            },
+            "externalAccess": false,
+            "optionSetValue": false,
+            "aggregationType": "SUM",
+            "attributeValues": [],
+            "dataSetElements": [
+                {
+                    "dataSet": {
+                        "id": "OBvPNGoq9Hl"
+                    },
+                    "dataElement": {
+                        "id": "XkFiP5Wgku4"
+                    }
+                }
+            ],
+            "displayFormName": "Overheads (utilities etc)",
+            "displayShortName": "Overheads (utilities etc)",
+            "aggregationLevels": [],
+            "dataElementGroups": [],
+            "dimensionItemType": "DATA_ELEMENT",
+            "zeroIsSignificant": false
+        },
+        {
+            "id": "Bj0399xju9C",
+            "code": "EXP_04",
+            "name": "REP - EXP -Supervision Expenditure",
+            "created": "2022-09-20T21:17:04.976",
+            "favorite": false,
+            "formName": "Supervision",
+            "favorites": [],
+            "shortName": "Supervision",
+            "valueType": "NUMBER",
+            "domainType": "AGGREGATE",
+            "legendSets": [],
+            "displayName": "REP - EXP -Supervision Expenditure",
+            "lastUpdated": "2022-09-20T21:17:05.153",
+            "periodOffset": 0,
+            "publicAccess": "--------",
+            "translations": [],
+            "categoryCombo": {
+                "id": "S5nfFggAzza"
+            },
+            "dimensionItem": "Bj0399xju9C",
+            "lastUpdatedBy": {
+                "id": "TZFikjf5oXD",
+                "username": "Barnabas",
+                "displayName": "Barnabas MD Developer"
+            },
+            "externalAccess": false,
+            "optionSetValue": false,
+            "aggregationType": "SUM",
+            "attributeValues": [],
+            "dataSetElements": [
+                {
+                    "dataSet": {
+                        "id": "OBvPNGoq9Hl"
+                    },
+                    "dataElement": {
+                        "id": "Bj0399xju9C"
+                    }
+                }
+            ],
+            "displayFormName": "Supervision",
+            "displayShortName": "Supervision",
+            "aggregationLevels": [],
+            "dataElementGroups": [],
+            "dimensionItemType": "DATA_ELEMENT",
+            "zeroIsSignificant": false
+        },
+        {
+            "id": "RKIBcwpYYu3",
+            "code": "EXP_03",
+            "name": "REP - EXP -Training Expenditure",
+            "created": "2022-09-20T21:17:04.976",
+            "favorite": false,
+            "formName": "Training",
+            "favorites": [],
+            "shortName": "Training",
+            "valueType": "NUMBER",
+            "domainType": "AGGREGATE",
+            "legendSets": [],
+            "displayName": "REP - EXP -Training Expenditure",
+            "lastUpdated": "2022-09-20T21:17:05.153",
+            "periodOffset": 0,
+            "publicAccess": "--------",
+            "translations": [],
+            "categoryCombo": {
+                "id": "S5nfFggAzza"
+            },
+            "dimensionItem": "RKIBcwpYYu3",
+            "lastUpdatedBy": {
+                "id": "TZFikjf5oXD",
+                "username": "Barnabas",
+                "displayName": "Barnabas MD Developer"
+            },
+            "externalAccess": false,
+            "optionSetValue": false,
+            "aggregationType": "SUM",
+            "attributeValues": [],
+            "dataSetElements": [
+                {
+                    "dataSet": {
+                        "id": "OBvPNGoq9Hl"
+                    },
+                    "dataElement": {
+                        "id": "RKIBcwpYYu3"
+                    }
+                }
+            ],
+            "displayFormName": "Training",
+            "displayShortName": "Training",
+            "aggregationLevels": [],
+            "dataElementGroups": [],
+            "dimensionItemType": "DATA_ELEMENT",
+            "zeroIsSignificant": false
+        }
+    ],
+    "categoryCombos": [
+        {
+            "id": "S5nfFggAzza",
+            "name": "Funding Sources",
+            "created": "2022-09-20T19:40:00.093",
+            "favorite": false,
+            "favorites": [],
+            "isDefault": false,
+            "skipTotal": false,
+            "categories": [
+                {
+                    "id": "K9NLOWwUUWu"
+                }
+            ],
+            "displayName": "Funding Sources",
+            "lastUpdated": "2022-09-20T19:49:36.199",
+            "publicAccess": "--------",
+            "translations": [],
+            "lastUpdatedBy": {
+                "id": "TZFikjf5oXD",
+                "username": "Barnabas",
+                "displayName": "Barnabas MD Developer"
+            },
+            "externalAccess": false,
+            "attributeValues": [],
+            "dataDimensionType": "DISAGGREGATION",
+            "categoryOptionCombos": [
+                {
+                    "id": "sJYd82YfkcL"
+                },
+                {
+                    "id": "SRCTnmfwdZ9"
+                },
+                {
+                    "id": "lPGb64MbnIe"
+                },
+                {
+                    "id": "oVQ7rUy0TMH"
+                },
+                {
+                    "id": "wiZ7gvFYhMq"
+                },
+                {
+                    "id": "aIwgsQxIuo3"
+                },
+                {
+                    "id": "jx68oFmZLZe"
+                },
+                {
+                    "id": "TtECTSh9vat"
+                }
+            ]
+        }
+    ],
+    "indicatorTypes": [
+        {
+            "id": "kHy61PbChXr",
+            "name": "Numerator only (number)",
+            "factor": 1,
+            "number": true,
+            "created": "2015-03-23T01:42:43.716",
+            "favorite": false,
+            "favorites": [],
+            "displayName": "Numerator only (number)",
+            "lastUpdated": "2021-05-18T06:48:51.587",
+            "translations": [
+                {
+                    "value": "Numérateur seulement",
+                    "locale": "fr",
+                    "property": "NAME"
+                }
+            ],
+            "lastUpdatedBy": {
+                "id": "xJY16SqZaCB",
+                "username": "arico",
+                "displayName": "Alexis RICO"
+            },
+            "externalAccess": false,
+            "attributeValues": []
+        }
+    ],
+    "visualizations": [
+        {
+            "id": "sEL2x564DPs",
+            "name": "MAL - Expenditure breakdown",
+            "rows": [],
+            "type": "PIE",
+            "columns": [],
+            "created": "2020-12-02T15:17:15.614",
+            "filters": [],
+            "periods": [],
+            "favorite": false,
+            "fontSize": "NORMAL",
+            "showData": true,
+            "topLimit": 0,
+            "colTotals": false,
+            "favorites": [],
+            "hideTitle": false,
+            "rowTotals": false,
+            "sortOrder": 0,
+            "hideLegend": false,
+            "regression": false,
+            "subscribed": false,
+            "displayName": "MAL - Expenditure breakdown",
+            "lastUpdated": "2021-05-25T17:59:44.266",
+            "subscribers": [],
+            "colSubTotals": false,
+            "hideSubtitle": false,
+            "optionalAxes": [],
+            "publicAccess": "--------",
+            "rowSubTotals": false,
+            "skipRounding": false,
+            "translations": [],
+            "yearlySeries": [],
+            "completedOnly": false,
+            "hideEmptyRows": false,
+            "lastUpdatedBy": {
+                "id": "xJY16SqZaCB",
+                "username": "arico",
+                "displayName": "Alexis RICO"
+            },
+            "rowDimensions": [],
+            "showHierarchy": false,
+            "displayDensity": "NORMAL",
+            "externalAccess": false,
+            "parentGraphMap": {},
+            "regressionType": "NONE",
+            "aggregationType": "DEFAULT",
+            "attributeValues": [],
+            "displayFormName": "MAL - Expenditure breakdown",
+            "interpretations": [],
+            "relativePeriods": {
+                "thisDay": false,
+                "lastWeek": false,
+                "lastYear": true,
+                "thisWeek": false,
+                "thisYear": false,
+                "last3Days": false,
+                "last7Days": false,
+                "lastMonth": false,
+                "thisMonth": false,
+                "yesterday": false,
+                "last14Days": false,
+                "last30Days": false,
+                "last4Weeks": false,
+                "last5Years": false,
+                "last60Days": false,
+                "last90Days": false,
+                "lastBiWeek": false,
+                "thisBiWeek": false,
+                "last12Weeks": false,
+                "last180Days": false,
+                "last3Months": false,
+                "last52Weeks": false,
+                "last6Months": false,
+                "lastBimonth": false,
+                "lastQuarter": false,
+                "thisBimonth": false,
+                "thisQuarter": false,
+                "last12Months": false,
+                "last4BiWeeks": false,
+                "lastSixMonth": false,
+                "thisSixMonth": false,
+                "last4Quarters": false,
+                "last6BiMonths": false,
+                "weeksThisYear": false,
+                "last2SixMonths": false,
+                "monthsLastYear": false,
+                "monthsThisYear": false,
+                "biMonthsThisYear": false,
+                "quartersLastYear": false,
+                "quartersThisYear": false,
+                "lastFinancialYear": false,
+                "thisFinancialYear": false,
+                "last5FinancialYears": false
+            },
+            "reportingParams": {
+                "reportingPeriod": false,
+                "organisationUnit": false,
+                "parentOrganisationUnit": false,
+                "grandParentOrganisationUnit": false
+            },
+            "columnDimensions": [
+                "dx"
+            ],
+            "cumulativeValues": false,
+            "filterDimensions": [
+                "ou",
+                "pe"
+            ],
+            "hideEmptyColumns": false,
+            "hideEmptyRowItems": "NONE",
+            "categoryDimensions": [],
+            "dataDimensionItems": [
+                {
+                    "dataElement": {
+                        "id": "HPy14nfta68"
+                    },
+                    "dataDimensionItemType": "DATA_ELEMENT"
+                },
+                {
+                    "dataElement": {
+                        "id": "P3znVsrv8uo"
+                    },
+                    "dataDimensionItemType": "DATA_ELEMENT"
+                },
+                {
+                    "dataElement": {
+                        "id": "D6mLfabZrx2"
+                    },
+                    "dataDimensionItemType": "DATA_ELEMENT"
+                },
+                {
+                    "dataElement": {
+                        "id": "cDrGDh9JdFp"
+                    },
+                    "dataDimensionItemType": "DATA_ELEMENT"
+                },
+                {
+                    "dataElement": {
+                        "id": "pXICyStHf7p"
+                    },
+                    "dataDimensionItemType": "DATA_ELEMENT"
+                },
+                {
+                    "dataElement": {
+                        "id": "tMwk9hyJbrI"
+                    },
+                    "dataDimensionItemType": "DATA_ELEMENT"
+                },
+                {
+                    "dataElement": {
+                        "id": "OuCE0rulNcQ"
+                    },
+                    "dataDimensionItemType": "DATA_ELEMENT"
+                },
+                {
+                    "dataElement": {
+                        "id": "pKGJQybfUu1"
+                    },
+                    "dataDimensionItemType": "DATA_ELEMENT"
+                },
+                {
+                    "dataElement": {
+                        "id": "a3CedGg64tl"
+                    },
+                    "dataDimensionItemType": "DATA_ELEMENT"
+                },
+                {
+                    "dataElement": {
+                        "id": "c6gKXlmpehL"
+                    },
+                    "dataDimensionItemType": "DATA_ELEMENT"
+                },
+                {
+                    "dataElement": {
+                        "id": "s69X99SinMi"
+                    },
+                    "dataDimensionItemType": "DATA_ELEMENT"
+                },
+                {
+                    "dataElement": {
+                        "id": "e7rKjUETtQS"
+                    },
+                    "dataDimensionItemType": "DATA_ELEMENT"
+                }
+            ],
+            "attributeDimensions": [],
+            "digitGroupSeparator": "SPACE",
+            "showDimensionLabels": false,
+            "percentStackedValues": false,
+            "userOrganisationUnit": false,
+            "dataElementDimensions": [],
+            "noSpaceBetweenColumns": false,
+            "organisationUnitLevels": [],
+            "itemOrganisationUnitGroups": [],
+            "programIndicatorDimensions": [],
+            "userOrganisationUnitChildren": false,
+            "dataElementGroupSetDimensions": [],
+            "categoryOptionGroupSetDimensions": [],
+            "userOrganisationUnitGrandChildren": false,
+            "organisationUnitGroupSetDimensions": []
+        },
+        {
+            "id": "gQrXNbONY6Y",
+            "name": "MAL - Expenditures by donor",
+            "rows": [],
+            "type": "STACKED_COLUMN",
+            "columns": [],
+            "created": "2020-12-02T15:17:15.614",
+            "filters": [],
+            "periods": [
+                {
+                    "id": "2010"
+                },
+                {
+                    "id": "2011"
+                },
+                {
+                    "id": "2012"
+                },
+                {
+                    "id": "2013"
+                },
+                {
+                    "id": "2014"
+                },
+                {
+                    "id": "2015"
+                },
+                {
+                    "id": "2016"
+                },
+                {
+                    "id": "2017"
+                },
+                {
+                    "id": "2018"
+                },
+                {
+                    "id": "2019"
+                }
+            ],
+            "favorite": false,
+            "fontSize": "NORMAL",
+            "showData": true,
+            "topLimit": 0,
+            "colTotals": false,
+            "favorites": [],
+            "hideTitle": false,
+            "rowTotals": false,
+            "sortOrder": 0,
+            "hideLegend": false,
+            "regression": false,
+            "subscribed": false,
+            "displayName": "MAL - Expenditures by donor",
+            "lastUpdated": "2021-05-25T17:59:44.270",
+            "subscribers": [],
+            "colSubTotals": false,
+            "hideSubtitle": false,
+            "optionalAxes": [],
+            "publicAccess": "--------",
+            "rowSubTotals": false,
+            "skipRounding": false,
+            "translations": [],
+            "yearlySeries": [],
+            "completedOnly": false,
+            "hideEmptyRows": false,
+            "lastUpdatedBy": {
+                "id": "xJY16SqZaCB",
+                "username": "arico",
+                "displayName": "Alexis RICO"
+            },
+            "rowDimensions": [
+                "pe"
+            ],
+            "showHierarchy": false,
+            "displayDensity": "NORMAL",
+            "externalAccess": false,
+            "parentGraphMap": {},
+            "regressionType": "NONE",
+            "aggregationType": "DEFAULT",
+            "attributeValues": [],
+            "displayFormName": "MAL - Expenditures by donor",
+            "interpretations": [],
+            "relativePeriods": {
+                "thisDay": false,
+                "lastWeek": false,
+                "lastYear": false,
+                "thisWeek": false,
+                "thisYear": false,
+                "last3Days": false,
+                "last7Days": false,
+                "lastMonth": false,
+                "thisMonth": false,
+                "yesterday": false,
+                "last14Days": false,
+                "last30Days": false,
+                "last4Weeks": false,
+                "last5Years": false,
+                "last60Days": false,
+                "last90Days": false,
+                "lastBiWeek": false,
+                "thisBiWeek": false,
+                "last12Weeks": false,
+                "last180Days": false,
+                "last3Months": false,
+                "last52Weeks": false,
+                "last6Months": false,
+                "lastBimonth": false,
+                "lastQuarter": false,
+                "thisBimonth": false,
+                "thisQuarter": false,
+                "last12Months": false,
+                "last4BiWeeks": false,
+                "lastSixMonth": false,
+                "thisSixMonth": false,
+                "last4Quarters": false,
+                "last6BiMonths": false,
+                "weeksThisYear": false,
+                "last2SixMonths": false,
+                "monthsLastYear": false,
+                "monthsThisYear": false,
+                "biMonthsThisYear": false,
+                "quartersLastYear": false,
+                "quartersThisYear": false,
+                "lastFinancialYear": false,
+                "thisFinancialYear": false,
+                "last5FinancialYears": false
+            },
+            "reportingParams": {
+                "reportingPeriod": false,
+                "organisationUnit": false,
+                "parentOrganisationUnit": false,
+                "grandParentOrganisationUnit": false
+            },
+            "columnDimensions": [
+                "dx"
+            ],
+            "cumulativeValues": false,
+            "filterDimensions": [
+                "ou"
+            ],
+            "hideEmptyColumns": false,
+            "hideEmptyRowItems": "NONE",
+            "categoryDimensions": [],
+            "dataDimensionItems": [
+                {
+                    "indicator": {
+                        "id": "lIl9rvmHsfO"
+                    },
+                    "dataDimensionItemType": "INDICATOR"
+                },
+                {
+                    "indicator": {
+                        "id": "XiZrV8RpDsT"
+                    },
+                    "dataDimensionItemType": "INDICATOR"
+                },
+                {
+                    "indicator": {
+                        "id": "qcALR8MPeUR"
+                    },
+                    "dataDimensionItemType": "INDICATOR"
+                },
+                {
+                    "indicator": {
+                        "id": "uzPUmbDmnV1"
+                    },
+                    "dataDimensionItemType": "INDICATOR"
+                },
+                {
+                    "indicator": {
+                        "id": "oO6PNMspEFk"
+                    },
+                    "dataDimensionItemType": "INDICATOR"
+                },
+                {
+                    "indicator": {
+                        "id": "tPfHJ7WnZ1L"
+                    },
+                    "dataDimensionItemType": "INDICATOR"
+                },
+                {
+                    "indicator": {
+                        "id": "kyKRlViB6sd"
+                    },
+                    "dataDimensionItemType": "INDICATOR"
+                },
+                {
+                    "indicator": {
+                        "id": "nBf5KUhTlGj"
+                    },
+                    "dataDimensionItemType": "INDICATOR"
+                },
+                {
+                    "indicator": {
+                        "id": "ipQeVIk0aMG"
+                    },
+                    "dataDimensionItemType": "INDICATOR"
+                }
+            ],
+            "attributeDimensions": [],
+            "digitGroupSeparator": "SPACE",
+            "showDimensionLabels": false,
+            "percentStackedValues": false,
+            "userOrganisationUnit": false,
+            "dataElementDimensions": [],
+            "noSpaceBetweenColumns": false,
+            "organisationUnitLevels": [],
+            "itemOrganisationUnitGroups": [],
+            "programIndicatorDimensions": [],
+            "userOrganisationUnitChildren": false,
+            "dataElementGroupSetDimensions": [],
+            "categoryOptionGroupSetDimensions": [],
+            "userOrganisationUnitGrandChildren": false,
+            "organisationUnitGroupSetDimensions": []
+        },
+        {
+            "id": "PrhRXqcTthy",
+            "name": "MAL - Funding by donor",
+            "rows": [],
+            "type": "STACKED_COLUMN",
+            "columns": [],
+            "created": "2020-12-02T15:17:15.614",
+            "filters": [],
+            "periods": [
+                {
+                    "id": "2010"
+                },
+                {
+                    "id": "2011"
+                },
+                {
+                    "id": "2012"
+                },
+                {
+                    "id": "2013"
+                },
+                {
+                    "id": "2014"
+                },
+                {
+                    "id": "2015"
+                },
+                {
+                    "id": "2016"
+                },
+                {
+                    "id": "2017"
+                },
+                {
+                    "id": "2018"
+                },
+                {
+                    "id": "2019"
+                }
+            ],
+            "favorite": false,
+            "fontSize": "NORMAL",
+            "showData": true,
+            "topLimit": 0,
+            "colTotals": false,
+            "favorites": [],
+            "hideTitle": false,
+            "rowTotals": false,
+            "sortOrder": 0,
+            "hideLegend": false,
+            "regression": false,
+            "subscribed": false,
+            "displayName": "MAL - Funding by donor",
+            "lastUpdated": "2021-05-25T17:59:44.272",
+            "subscribers": [],
+            "colSubTotals": false,
+            "hideSubtitle": false,
+            "optionalAxes": [],
+            "publicAccess": "--------",
+            "rowSubTotals": false,
+            "skipRounding": false,
+            "translations": [],
+            "yearlySeries": [],
+            "completedOnly": false,
+            "hideEmptyRows": false,
+            "lastUpdatedBy": {
+                "id": "xJY16SqZaCB",
+                "username": "arico",
+                "displayName": "Alexis RICO"
+            },
+            "rowDimensions": [
+                "pe"
+            ],
+            "showHierarchy": false,
+            "displayDensity": "NORMAL",
+            "externalAccess": false,
+            "parentGraphMap": {},
+            "regressionType": "NONE",
+            "aggregationType": "DEFAULT",
+            "attributeValues": [],
+            "displayFormName": "MAL - Funding by donor",
+            "interpretations": [],
+            "relativePeriods": {
+                "thisDay": false,
+                "lastWeek": false,
+                "lastYear": false,
+                "thisWeek": false,
+                "thisYear": false,
+                "last3Days": false,
+                "last7Days": false,
+                "lastMonth": false,
+                "thisMonth": false,
+                "yesterday": false,
+                "last14Days": false,
+                "last30Days": false,
+                "last4Weeks": false,
+                "last5Years": false,
+                "last60Days": false,
+                "last90Days": false,
+                "lastBiWeek": false,
+                "thisBiWeek": false,
+                "last12Weeks": false,
+                "last180Days": false,
+                "last3Months": false,
+                "last52Weeks": false,
+                "last6Months": false,
+                "lastBimonth": false,
+                "lastQuarter": false,
+                "thisBimonth": false,
+                "thisQuarter": false,
+                "last12Months": false,
+                "last4BiWeeks": false,
+                "lastSixMonth": false,
+                "thisSixMonth": false,
+                "last4Quarters": false,
+                "last6BiMonths": false,
+                "weeksThisYear": false,
+                "last2SixMonths": false,
+                "monthsLastYear": false,
+                "monthsThisYear": false,
+                "biMonthsThisYear": false,
+                "quartersLastYear": false,
+                "quartersThisYear": false,
+                "lastFinancialYear": false,
+                "thisFinancialYear": false,
+                "last5FinancialYears": false
+            },
+            "reportingParams": {
+                "reportingPeriod": false,
+                "organisationUnit": false,
+                "parentOrganisationUnit": false,
+                "grandParentOrganisationUnit": false
+            },
+            "columnDimensions": [
+                "dx"
+            ],
+            "cumulativeValues": false,
+            "filterDimensions": [
+                "ou"
+            ],
+            "hideEmptyColumns": false,
+            "hideEmptyRowItems": "NONE",
+            "categoryDimensions": [],
+            "dataDimensionItems": [
+                {
+                    "dataElement": {
+                        "id": "t9RPhH9zVIm"
+                    },
+                    "dataDimensionItemType": "DATA_ELEMENT"
+                },
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ],
+            "attributeDimensions": [],
+            "digitGroupSeparator": "SPACE",
+            "showDimensionLabels": false,
+            "percentStackedValues": false,
+            "userOrganisationUnit": false,
+            "dataElementDimensions": [],
+            "noSpaceBetweenColumns": false,
+            "organisationUnitLevels": [],
+            "itemOrganisationUnitGroups": [],
+            "programIndicatorDimensions": [],
+            "userOrganisationUnitChildren": false,
+            "dataElementGroupSetDimensions": [],
+            "categoryOptionGroupSetDimensions": [],
+            "userOrganisationUnitGrandChildren": false,
+            "organisationUnitGroupSetDimensions": []
+        }
+    ],
+    "categoryOptions": [
+        {
+            "id": "hky9WnlXhpf",
+            "code": "MAL_CO_GF",
+            "name": "Global Fund",
+            "created": "2014-02-02T17:41:42.000",
+            "favorite": false,
+            "favorites": [],
+            "isDefault": false,
+            "shortName": "Global Fund",
+            "categories": [
+                {
+                    "id": "MaShSyRIODt"
+                },
+                {
+                    "id": "K9NLOWwUUWu"
+                }
+            ],
+            "legendSets": [],
+            "displayName": "Global Fund",
+            "lastUpdated": "2021-05-25T17:02:03.066",
+            "periodOffset": 0,
+            "publicAccess": "--------",
+            "translations": [],
+            "dimensionItem": "hky9WnlXhpf",
+            "lastUpdatedBy": {
+                "id": "xJY16SqZaCB",
+                "username": "arico",
+                "displayName": "Alexis RICO"
+            },
+            "externalAccess": false,
+            "attributeValues": [],
+            "displayFormName": "Global Fund",
+            "displayShortName": "Global Fund",
+            "dimensionItemType": "CATEGORY_OPTION",
+            "categoryOptionCombos": [
+                {
+                    "id": "JUrSAQzCcdY"
+                },
+                {
+                    "id": "oVQ7rUy0TMH"
+                }
+            ],
+            "categoryOptionGroups": []
+        },
+        {
+            "id": "gaanuV10DJo",
+            "code": "MAL_Government",
+            "name": "Government",
+            "created": "2014-02-02T17:41:35.000",
+            "favorite": false,
+            "favorites": [],
+            "isDefault": false,
+            "shortName": "Government",
+            "categories": [
+                {
+                    "id": "MaShSyRIODt"
+                },
+                {
+                    "id": "K9NLOWwUUWu"
+                }
+            ],
+            "legendSets": [],
+            "displayName": "Government",
+            "lastUpdated": "2021-05-25T17:02:03.067",
+            "periodOffset": 0,
+            "publicAccess": "--------",
+            "translations": [],
+            "dimensionItem": "gaanuV10DJo",
+            "lastUpdatedBy": {
+                "id": "xJY16SqZaCB",
+                "username": "arico",
+                "displayName": "Alexis RICO"
+            },
+            "externalAccess": false,
+            "attributeValues": [],
+            "displayFormName": "Government",
+            "displayShortName": "Government",
+            "dimensionItemType": "CATEGORY_OPTION",
+            "categoryOptionCombos": [
+                {
+                    "id": "hnvJqfq3h4w"
+                },
+                {
+                    "id": "wiZ7gvFYhMq"
+                }
+            ],
+            "categoryOptionGroups": []
+        },
+        {
+            "id": "KIuCQAbmmdj",
+            "code": "MAL_CO_OTHER_NON_BILATERAL",
+            "name": "Other (non-bilateral)",
+            "created": "2014-02-02T17:42:25.000",
+            "favorite": false,
+            "favorites": [],
+            "isDefault": false,
+            "shortName": "Other (non-bilateral)",
+            "categories": [
+                {
+                    "id": "MaShSyRIODt"
+                },
+                {
+                    "id": "K9NLOWwUUWu"
+                }
+            ],
+            "legendSets": [],
+            "displayName": "Other (non-bilateral)",
+            "lastUpdated": "2021-05-25T17:02:03.070",
+            "periodOffset": 0,
+            "publicAccess": "--------",
+            "translations": [],
+            "dimensionItem": "KIuCQAbmmdj",
+            "lastUpdatedBy": {
+                "id": "xJY16SqZaCB",
+                "username": "arico",
+                "displayName": "Alexis RICO"
+            },
+            "externalAccess": false,
+            "attributeValues": [],
+            "displayFormName": "Other (non-bilateral)",
+            "displayShortName": "Other (non-bilateral)",
+            "dimensionItemType": "CATEGORY_OPTION",
+            "categoryOptionCombos": [
+                {
+                    "id": "lPGb64MbnIe"
+                },
+                {
+                    "id": "YEDLeJnrH7p"
+                }
+            ],
+            "categoryOptionGroups": []
+        },
+        {
+            "id": "FDOvpyVxzZs",
+            "name": "UKAID/DFID",
+            "created": "2022-09-20T19:36:16.530",
+            "favorite": false,
+            "favorites": [],
+            "isDefault": false,
+            "shortName": "UKAID/DFID",
+            "categories": [
+                {
+                    "id": "K9NLOWwUUWu"
+                }
+            ],
+            "legendSets": [],
+            "displayName": "UKAID/DFID",
+            "lastUpdated": "2022-09-20T19:50:39.090",
+            "periodOffset": 0,
+            "publicAccess": "--------",
+            "translations": [],
+            "dimensionItem": "FDOvpyVxzZs",
+            "lastUpdatedBy": {
+                "id": "TZFikjf5oXD",
+                "username": "Barnabas",
+                "displayName": "Barnabas MD Developer"
+            },
+            "externalAccess": false,
+            "attributeValues": [],
+            "displayFormName": "UKAID/DFID",
+            "displayShortName": "UKAID/DFID",
+            "dimensionItemType": "CATEGORY_OPTION",
+            "categoryOptionCombos": [
+                {
+                    "id": "jx68oFmZLZe"
+                }
+            ],
+            "categoryOptionGroups": []
+        },
+        {
+            "id": "L3qvqAb9xaG",
+            "code": "MAL_CO_UNICEF",
+            "name": "UNICEF",
+            "created": "2014-02-02T17:43:17.000",
+            "favorite": false,
+            "favorites": [],
+            "isDefault": false,
+            "shortName": "UNICEF",
+            "categories": [
+                {
+                    "id": "MaShSyRIODt"
+                },
+                {
+                    "id": "K9NLOWwUUWu"
+                }
+            ],
+            "legendSets": [],
+            "displayName": "UNICEF",
+            "lastUpdated": "2021-05-25T17:02:03.073",
+            "periodOffset": 0,
+            "publicAccess": "--------",
+            "translations": [],
+            "dimensionItem": "L3qvqAb9xaG",
+            "lastUpdatedBy": {
+                "id": "xJY16SqZaCB",
+                "username": "arico",
+                "displayName": "Alexis RICO"
+            },
+            "externalAccess": false,
+            "attributeValues": [],
+            "displayFormName": "UNICEF",
+            "displayShortName": "UNICEF",
+            "dimensionItemType": "CATEGORY_OPTION",
+            "categoryOptionCombos": [
+                {
+                    "id": "SRCTnmfwdZ9"
+                },
+                {
+                    "id": "GlEQKeDX9u2"
+                }
+            ],
+            "categoryOptionGroups": []
+        },
+        {
+            "id": "ewGIVoI1HXB",
+            "name": "USAID/PMI",
+            "created": "2022-09-20T19:35:54.289",
+            "favorite": false,
+            "favorites": [],
+            "isDefault": false,
+            "shortName": "USAID/PMI",
+            "categories": [
+                {
+                    "id": "K9NLOWwUUWu"
+                }
+            ],
+            "legendSets": [],
+            "displayName": "USAID/PMI",
+            "lastUpdated": "2022-09-20T19:50:15.155",
+            "periodOffset": 0,
+            "publicAccess": "--------",
+            "translations": [],
+            "dimensionItem": "ewGIVoI1HXB",
+            "lastUpdatedBy": {
+                "id": "TZFikjf5oXD",
+                "username": "Barnabas",
+                "displayName": "Barnabas MD Developer"
+            },
+            "externalAccess": false,
+            "attributeValues": [],
+            "displayFormName": "USAID/PMI",
+            "displayShortName": "USAID/PMI",
+            "dimensionItemType": "CATEGORY_OPTION",
+            "categoryOptionCombos": [
+                {
+                    "id": "sJYd82YfkcL"
+                }
+            ],
+            "categoryOptionGroups": []
+        },
+        {
+            "id": "Ac2sI48Dz7C",
+            "code": "MAL_WHO",
+            "name": "WHO",
+            "created": "2014-02-02T17:43:26.000",
+            "favorite": false,
+            "favorites": [],
+            "isDefault": false,
+            "shortName": "WHO",
+            "categories": [
+                {
+                    "id": "MaShSyRIODt"
+                },
+                {
+                    "id": "K9NLOWwUUWu"
+                }
+            ],
+            "legendSets": [],
+            "displayName": "WHO",
+            "lastUpdated": "2021-05-25T17:02:03.073",
+            "periodOffset": 0,
+            "publicAccess": "--------",
+            "translations": [],
+            "dimensionItem": "Ac2sI48Dz7C",
+            "lastUpdatedBy": {
+                "id": "xJY16SqZaCB",
+                "username": "arico",
+                "displayName": "Alexis RICO"
+            },
+            "externalAccess": false,
+            "attributeValues": [],
+            "displayFormName": "WHO",
+            "displayShortName": "WHO",
+            "dimensionItemType": "CATEGORY_OPTION",
+            "categoryOptionCombos": [
+                {
+                    "id": "RM7u41s5H10"
+                },
+                {
+                    "id": "TtECTSh9vat"
+                }
+            ],
+            "categoryOptionGroups": []
+        },
+        {
+            "id": "dgfSVm4ZXYJ",
+            "code": "MAL_CO_WORLD_BANK",
+            "name": "World Bank",
+            "created": "2014-02-02T17:43:07.000",
+            "favorite": false,
+            "favorites": [],
+            "isDefault": false,
+            "shortName": "World Bank",
+            "categories": [
+                {
+                    "id": "MaShSyRIODt"
+                },
+                {
+                    "id": "K9NLOWwUUWu"
+                }
+            ],
+            "legendSets": [],
+            "displayName": "World Bank",
+            "lastUpdated": "2021-05-25T17:02:03.073",
+            "periodOffset": 0,
+            "publicAccess": "--------",
+            "translations": [],
+            "dimensionItem": "dgfSVm4ZXYJ",
+            "lastUpdatedBy": {
+                "id": "xJY16SqZaCB",
+                "username": "arico",
+                "displayName": "Alexis RICO"
+            },
+            "externalAccess": false,
+            "attributeValues": [],
+            "displayFormName": "World Bank",
+            "displayShortName": "World Bank",
+            "dimensionItemType": "CATEGORY_OPTION",
+            "categoryOptionCombos": [
+                {
+                    "id": "MDJzVdakYTa"
+                },
+                {
+                    "id": "aIwgsQxIuo3"
+                }
+            ],
+            "categoryOptionGroups": []
+        }
+    ],
+    "categoryOptionCombos": [
+        {
+            "id": "oVQ7rUy0TMH",
+            "name": "Global Fund",
+            "created": "2022-09-20T19:40:00.209",
+            "favorite": false,
+            "favorites": [],
+            "shortName": "Global Fund",
+            "legendSets": [],
+            "displayName": "Global Fund",
+            "lastUpdated": "2022-09-20T19:40:00.209",
+            "periodOffset": 0,
+            "translations": [],
+            "categoryCombo": {
+                "id": "S5nfFggAzza"
+            },
+            "dimensionItem": "oVQ7rUy0TMH",
+            "lastUpdatedBy": {
+                "id": "TZFikjf5oXD",
+                "username": "Barnabas",
+                "displayName": "Barnabas MD Developer"
+            },
+            "externalAccess": false,
+            "ignoreApproval": false,
+            "attributeValues": [],
+            "categoryOptions": [
+                {
+                    "id": "hky9WnlXhpf"
+                }
+            ],
+            "displayFormName": "Global Fund",
+            "displayShortName": "Global Fund"
+        },
+        {
+            "id": "wiZ7gvFYhMq",
+            "name": "Government",
+            "created": "2022-09-20T19:40:00.205",
+            "favorite": false,
+            "favorites": [],
+            "shortName": "Government",
+            "legendSets": [],
+            "displayName": "Government",
+            "lastUpdated": "2022-09-20T19:40:00.205",
+            "periodOffset": 0,
+            "translations": [],
+            "categoryCombo": {
+                "id": "S5nfFggAzza"
+            },
+            "dimensionItem": "wiZ7gvFYhMq",
+            "lastUpdatedBy": {
+                "id": "TZFikjf5oXD",
+                "username": "Barnabas",
+                "displayName": "Barnabas MD Developer"
+            },
+            "externalAccess": false,
+            "ignoreApproval": false,
+            "attributeValues": [],
+            "categoryOptions": [
+                {
+                    "id": "gaanuV10DJo"
+                }
+            ],
+            "displayFormName": "Government",
+            "displayShortName": "Government"
+        },
+        {
+            "id": "lPGb64MbnIe",
+            "name": "Other (non-bilateral)",
+            "created": "2022-09-20T19:40:00.215",
+            "favorite": false,
+            "favorites": [],
+            "shortName": "Other (non-bilateral)",
+            "legendSets": [],
+            "displayName": "Other (non-bilateral)",
+            "lastUpdated": "2022-09-20T19:40:00.215",
+            "periodOffset": 0,
+            "translations": [],
+            "categoryCombo": {
+                "id": "S5nfFggAzza"
+            },
+            "dimensionItem": "lPGb64MbnIe",
+            "lastUpdatedBy": {
+                "id": "TZFikjf5oXD",
+                "username": "Barnabas",
+                "displayName": "Barnabas MD Developer"
+            },
+            "externalAccess": false,
+            "ignoreApproval": false,
+            "attributeValues": [],
+            "categoryOptions": [
+                {
+                    "id": "KIuCQAbmmdj"
+                }
+            ],
+            "displayFormName": "Other (non-bilateral)",
+            "displayShortName": "Other (non-bilateral)"
+        },
+        {
+            "id": "jx68oFmZLZe",
+            "name": "UKAID/DFID",
+            "created": "2022-09-20T19:40:00.211",
+            "favorite": false,
+            "favorites": [],
+            "shortName": "UKAID/DFID",
+            "legendSets": [],
+            "displayName": "UKAID/DFID",
+            "lastUpdated": "2022-09-20T19:40:00.211",
+            "periodOffset": 0,
+            "translations": [],
+            "categoryCombo": {
+                "id": "S5nfFggAzza"
+            },
+            "dimensionItem": "jx68oFmZLZe",
+            "lastUpdatedBy": {
+                "id": "TZFikjf5oXD",
+                "username": "Barnabas",
+                "displayName": "Barnabas MD Developer"
+            },
+            "externalAccess": false,
+            "ignoreApproval": false,
+            "attributeValues": [],
+            "categoryOptions": [
+                {
+                    "id": "FDOvpyVxzZs"
+                }
+            ],
+            "displayFormName": "UKAID/DFID",
+            "displayShortName": "UKAID/DFID"
+        },
+        {
+            "id": "SRCTnmfwdZ9",
+            "name": "UNICEF",
+            "created": "2022-09-20T19:40:00.213",
+            "favorite": false,
+            "favorites": [],
+            "shortName": "UNICEF",
+            "legendSets": [],
+            "displayName": "UNICEF",
+            "lastUpdated": "2022-09-20T19:40:00.213",
+            "periodOffset": 0,
+            "translations": [],
+            "categoryCombo": {
+                "id": "S5nfFggAzza"
+            },
+            "dimensionItem": "SRCTnmfwdZ9",
+            "lastUpdatedBy": {
+                "id": "TZFikjf5oXD",
+                "username": "Barnabas",
+                "displayName": "Barnabas MD Developer"
+            },
+            "externalAccess": false,
+            "ignoreApproval": false,
+            "attributeValues": [],
+            "categoryOptions": [
+                {
+                    "id": "L3qvqAb9xaG"
+                }
+            ],
+            "displayFormName": "UNICEF",
+            "displayShortName": "UNICEF"
+        },
+        {
+            "id": "sJYd82YfkcL",
+            "name": "USAID/PMI",
+            "created": "2022-09-20T19:40:00.210",
+            "favorite": false,
+            "favorites": [],
+            "shortName": "USAID/PMI",
+            "legendSets": [],
+            "displayName": "USAID/PMI",
+            "lastUpdated": "2022-09-20T19:40:00.210",
+            "periodOffset": 0,
+            "translations": [],
+            "categoryCombo": {
+                "id": "S5nfFggAzza"
+            },
+            "dimensionItem": "sJYd82YfkcL",
+            "lastUpdatedBy": {
+                "id": "TZFikjf5oXD",
+                "username": "Barnabas",
+                "displayName": "Barnabas MD Developer"
+            },
+            "externalAccess": false,
+            "ignoreApproval": false,
+            "attributeValues": [],
+            "categoryOptions": [
+                {
+                    "id": "ewGIVoI1HXB"
+                }
+            ],
+            "displayFormName": "USAID/PMI",
+            "displayShortName": "USAID/PMI"
+        },
+        {
+            "id": "TtECTSh9vat",
+            "name": "WHO",
+            "created": "2022-09-20T19:40:00.214",
+            "favorite": false,
+            "favorites": [],
+            "shortName": "WHO",
+            "legendSets": [],
+            "displayName": "WHO",
+            "lastUpdated": "2022-09-20T19:40:00.214",
+            "periodOffset": 0,
+            "translations": [],
+            "categoryCombo": {
+                "id": "S5nfFggAzza"
+            },
+            "dimensionItem": "TtECTSh9vat",
+            "lastUpdatedBy": {
+                "id": "TZFikjf5oXD",
+                "username": "Barnabas",
+                "displayName": "Barnabas MD Developer"
+            },
+            "externalAccess": false,
+            "ignoreApproval": false,
+            "attributeValues": [],
+            "categoryOptions": [
+                {
+                    "id": "Ac2sI48Dz7C"
+                }
+            ],
+            "displayFormName": "WHO",
+            "displayShortName": "WHO"
+        },
+        {
+            "id": "aIwgsQxIuo3",
+            "name": "World Bank",
+            "created": "2022-09-20T19:40:00.212",
+            "favorite": false,
+            "favorites": [],
+            "shortName": "World Bank",
+            "legendSets": [],
+            "displayName": "World Bank",
+            "lastUpdated": "2022-09-20T19:40:00.212",
+            "periodOffset": 0,
+            "translations": [],
+            "categoryCombo": {
+                "id": "S5nfFggAzza"
+            },
+            "dimensionItem": "aIwgsQxIuo3",
+            "lastUpdatedBy": {
+                "id": "TZFikjf5oXD",
+                "username": "Barnabas",
+                "displayName": "Barnabas MD Developer"
+            },
+            "externalAccess": false,
+            "ignoreApproval": false,
+            "attributeValues": [],
+            "categoryOptions": [
+                {
+                    "id": "dgfSVm4ZXYJ"
+                }
+            ],
+            "displayFormName": "World Bank",
+            "displayShortName": "World Bank"
+        }
+    ]
+}
