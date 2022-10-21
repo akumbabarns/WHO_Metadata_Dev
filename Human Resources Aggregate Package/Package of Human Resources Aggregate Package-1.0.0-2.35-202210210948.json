@@ -1,0 +1,1342 @@
+{
+    "package": {
+        "id": "O6PtcrbZ3PQ",
+        "name": "Package of Human Resources Aggregate Package",
+        "deleted": false,
+        "description": "Human Resources Package",
+        "version": "1.0.0",
+        "dhisVersion": "2.35",
+        "module": {
+            "id": "Ux0H3JDSPa5",
+            "name": "Human Resources Aggregate Package",
+            "instance": "http://localhost:8080",
+            "department": {
+                "id": "mKF51KQAVWu",
+                "name": "Malaria MD Developer"
+            }
+        },
+        "user": {
+            "id": "TZFikjf5oXD",
+            "name": "Barnabas MD Developer"
+        },
+        "created": "2022-10-21T08:48:15.364Z",
+        "lastUpdated": "2022-10-21T08:48:28.982Z",
+        "lastUpdatedBy": {
+            "id": "TZFikjf5oXD",
+            "name": "Barnabas MD Developer"
+        }
+    },
+    "dataSets": [
+        {
+            "id": "W5VY00vRENN",
+            "name": "REP - Human Resources (Annual MSF)",
+            "mobile": false,
+            "created": "2022-10-06T15:57:59.312",
+            "version": 1,
+            "favorite": false,
+            "formType": "DEFAULT",
+            "sections": [],
+            "favorites": [],
+            "shortName": "Human Resources",
+            "expiryDays": 0,
+            "indicators": [],
+            "legendSets": [],
+            "periodType": "Yearly",
+            "timelyDays": 15,
+            "displayName": "REP - Human Resources (Annual MSF)",
+            "lastUpdated": "2022-10-06T16:02:39.031",
+            "skipOffline": false,
+            "periodOffset": 0,
+            "publicAccess": "--------",
+            "renderAsTabs": false,
+            "translations": [],
+            "dimensionItem": "W5VY00vRENN",
+            "lastUpdatedBy": {
+                "id": "TZFikjf5oXD",
+                "username": "Barnabas",
+                "displayName": "Barnabas MD Developer"
+            },
+            "externalAccess": false,
+            "attributeValues": [],
+            "dataSetElements": [
+                {
+                    "dataSet": {
+                        "id": "W5VY00vRENN"
+                    },
+                    "dataElement": {
+                        "id": "q4B0zxiG5XL"
+                    }
+                },
+                {
+                    "dataSet": {
+                        "id": "W5VY00vRENN"
+                    },
+                    "dataElement": {
+                        "id": "GIcP6d32HUW"
+                    }
+                }
+            ],
+            "displayFormName": "REP - Human Resources (Annual MSF)",
+            "interpretations": [],
+            "dataInputPeriods": [],
+            "displayShortName": "Human Resources",
+            "dimensionItemType": "REPORTING_RATE",
+            "openFuturePeriods": 0,
+            "validCompleteOnly": false,
+            "renderHorizontally": false,
+            "notifyCompletingUser": false,
+            "dataElementDecoration": false,
+            "noValueRequiresComment": false,
+            "fieldCombinationRequired": false,
+            "openPeriodsAfterCoEndDate": 0,
+            "compulsoryFieldsCompleteOnly": false,
+            "compulsoryDataElementOperands": []
+        }
+    ],
+    "categories": [
+        {
+            "id": "KhBIFBlfeYi",
+            "code": "WAREA",
+            "name": "Area or work",
+            "items": [
+                {
+                    "id": "W8b4nhHrPZk"
+                },
+                {
+                    "id": "xMJuI0plfEQ"
+                },
+                {
+                    "id": "mbcH3eP5kB3"
+                },
+                {
+                    "id": "X1ZGAtQRG4V"
+                },
+                {
+                    "id": "THgthjW8SSg"
+                },
+                {
+                    "id": "eQ2OaOPK8oo"
+                }
+            ],
+            "created": "2019-05-08T13:34:06.728",
+            "allItems": false,
+            "favorite": false,
+            "dimension": "KhBIFBlfeYi",
+            "favorites": [],
+            "shortName": "Area or work",
+            "displayName": "Area or work",
+            "lastUpdated": "2022-08-19T08:44:52.470",
+            "publicAccess": "--------",
+            "translations": [],
+            "dataDimension": true,
+            "dimensionType": "CATEGORY",
+            "lastUpdatedBy": {
+                "id": "gUQgjMPkPvK",
+                "username": "fernandezl",
+                "displayName": "Lucia Fernandez"
+            },
+            "categoryCombos": [
+                {
+                    "id": "JlOJN3cXD9d"
+                }
+            ],
+            "externalAccess": false,
+            "attributeValues": [],
+            "categoryOptions": [
+                {
+                    "id": "W8b4nhHrPZk"
+                },
+                {
+                    "id": "xMJuI0plfEQ"
+                },
+                {
+                    "id": "mbcH3eP5kB3"
+                },
+                {
+                    "id": "X1ZGAtQRG4V"
+                },
+                {
+                    "id": "THgthjW8SSg"
+                },
+                {
+                    "id": "eQ2OaOPK8oo"
+                }
+            ],
+            "displayFormName": "Area or work",
+            "displayShortName": "Area or work",
+            "dataDimensionType": "DISAGGREGATION"
+        }
+    ],
+    "dashboards": [
+        {
+            "id": "f6pH22bmur3",
+            "name": "Human Resources",
+            "created": "2022-10-06T18:13:38.009",
+            "favorite": false,
+            "favorites": [],
+            "itemCount": 2,
+            "displayName": "Human Resources",
+            "lastUpdated": "2022-10-06T18:16:19.570",
+            "publicAccess": "--------",
+            "translations": [],
+            "lastUpdatedBy": {
+                "id": "TZFikjf5oXD",
+                "username": "Barnabas",
+                "displayName": "Barnabas MD Developer"
+            },
+            "dashboardItems": [
+                {
+                    "x": 28,
+                    "y": 0,
+                    "id": "RvuEy7YP5SN",
+                    "type": "VISUALIZATION",
+                    "users": [],
+                    "width": 21,
+                    "access": {
+                        "read": true,
+                        "write": false,
+                        "delete": true,
+                        "manage": false,
+                        "update": false,
+                        "externalize": false
+                    },
+                    "height": 24,
+                    "created": "2022-10-06T18:16:19.440",
+                    "reports": [],
+                    "favorite": false,
+                    "favorites": [],
+                    "resources": [],
+                    "lastUpdated": "2022-10-06T18:16:19.570",
+                    "contentCount": 1,
+                    "translations": [],
+                    "userAccesses": [],
+                    "visualization": {
+                        "id": "gB5llZAByIB",
+                        "type": "COLUMN"
+                    },
+                    "externalAccess": false,
+                    "attributeValues": [],
+                    "userGroupAccesses": [],
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "id": "Yh5uOd3QLfZ",
+                    "type": "VISUALIZATION",
+                    "users": [],
+                    "width": 25,
+                    "access": {
+                        "read": true,
+                        "write": false,
+                        "delete": true,
+                        "manage": false,
+                        "update": false,
+                        "externalize": false
+                    },
+                    "height": 24,
+                    "created": "2022-10-06T18:16:19.440",
+                    "reports": [],
+                    "favorite": false,
+                    "favorites": [],
+                    "resources": [],
+                    "lastUpdated": "2022-10-06T18:16:19.571",
+                    "contentCount": 1,
+                    "translations": [],
+                    "userAccesses": [],
+                    "visualization": {
+                        "id": "LL8WxvwZCxk",
+                        "type": "COLUMN"
+                    },
+                    "externalAccess": false,
+                    "attributeValues": [],
+                    "userGroupAccesses": [],
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0
+                }
+            ],
+            "externalAccess": false,
+            "attributeValues": [],
+            "displayFormName": "Human Resources"
+        }
+    ],
+    "dataElements": [
+        {
+            "id": "GIcP6d32HUW",
+            "name": "REP-HR-Number of FTEs in Programme Management (PM)",
+            "created": "2022-10-06T15:52:48.236",
+            "favorite": false,
+            "formName": "Number of FTEs in Programme Management (PM)",
+            "favorites": [],
+            "shortName": "Number of FTEs in Programme Management (PM)",
+            "valueType": "INTEGER",
+            "domainType": "AGGREGATE",
+            "legendSets": [],
+            "displayName": "REP-HR-Number of FTEs in Programme Management (PM)",
+            "lastUpdated": "2022-10-06T16:27:46.248",
+            "periodOffset": 0,
+            "publicAccess": "--------",
+            "translations": [],
+            "categoryCombo": {
+                "id": "JlOJN3cXD9d"
+            },
+            "dimensionItem": "GIcP6d32HUW",
+            "lastUpdatedBy": {
+                "id": "TZFikjf5oXD",
+                "username": "Barnabas",
+                "displayName": "Barnabas MD Developer"
+            },
+            "externalAccess": false,
+            "optionSetValue": false,
+            "aggregationType": "SUM",
+            "attributeValues": [],
+            "dataSetElements": [
+                {
+                    "dataSet": {
+                        "id": "W5VY00vRENN"
+                    },
+                    "dataElement": {
+                        "id": "GIcP6d32HUW"
+                    }
+                }
+            ],
+            "displayFormName": "Number of FTEs in Programme Management (PM)",
+            "displayShortName": "Number of FTEs in Programme Management (PM)",
+            "aggregationLevels": [],
+            "dataElementGroups": [],
+            "dimensionItemType": "DATA_ELEMENT",
+            "zeroIsSignificant": false
+        },
+        {
+            "id": "q4B0zxiG5XL",
+            "name": "REP-HR-Trainings conducted per year and type of training",
+            "created": "2022-10-06T15:53:56.698",
+            "favorite": false,
+            "formName": "Trainings conducted per year and type of training",
+            "favorites": [],
+            "shortName": "Trainings conducted per year and type of training",
+            "valueType": "INTEGER",
+            "domainType": "AGGREGATE",
+            "legendSets": [],
+            "displayName": "REP-HR-Trainings conducted per year and type of training",
+            "lastUpdated": "2022-10-06T16:28:02.027",
+            "periodOffset": 0,
+            "publicAccess": "--------",
+            "translations": [],
+            "dimensionItem": "q4B0zxiG5XL",
+            "lastUpdatedBy": {
+                "id": "TZFikjf5oXD",
+                "username": "Barnabas",
+                "displayName": "Barnabas MD Developer"
+            },
+            "externalAccess": false,
+            "optionSetValue": false,
+            "aggregationType": "SUM",
+            "attributeValues": [],
+            "dataSetElements": [
+                {
+                    "dataSet": {
+                        "id": "W5VY00vRENN"
+                    },
+                    "dataElement": {
+                        "id": "q4B0zxiG5XL"
+                    }
+                }
+            ],
+            "displayFormName": "Trainings conducted per year and type of training",
+            "displayShortName": "Trainings conducted per year and type of training",
+            "aggregationLevels": [],
+            "dataElementGroups": [],
+            "dimensionItemType": "DATA_ELEMENT",
+            "zeroIsSignificant": false
+        }
+    ],
+    "categoryCombos": [
+        {
+            "id": "JlOJN3cXD9d",
+            "code": "AREA_OF_WORK",
+            "name": "Area or work",
+            "created": "2019-09-07T20:03:08.921",
+            "favorite": false,
+            "favorites": [],
+            "isDefault": false,
+            "skipTotal": false,
+            "categories": [
+                {
+                    "id": "KhBIFBlfeYi"
+                }
+            ],
+            "displayName": "Area or work",
+            "lastUpdated": "2022-08-19T08:44:52.603",
+            "publicAccess": "--------",
+            "translations": [],
+            "lastUpdatedBy": {
+                "id": "gUQgjMPkPvK",
+                "username": "fernandezl",
+                "displayName": "Lucia Fernandez"
+            },
+            "externalAccess": false,
+            "attributeValues": [],
+            "dataDimensionType": "DISAGGREGATION",
+            "categoryOptionCombos": [
+                {
+                    "id": "kDIVVrZweYN"
+                },
+                {
+                    "id": "ieKMPiF7w2B"
+                },
+                {
+                    "id": "LFrXWPZCYKg"
+                },
+                {
+                    "id": "NyQ69IIHrK7"
+                },
+                {
+                    "id": "doFVZnjfNQo"
+                },
+                {
+                    "id": "upg7E0nC8xF"
+                }
+            ]
+        }
+    ],
+    "visualizations": [
+        {
+            "id": "LL8WxvwZCxk",
+            "name": "FTEs in Programme Management (PM)",
+            "rows": [],
+            "type": "COLUMN",
+            "columns": [],
+            "created": "2022-10-06T18:12:04.446",
+            "filters": [],
+            "periods": [],
+            "colorSet": "DEFAULT",
+            "favorite": false,
+            "fontSize": "NORMAL",
+            "showData": true,
+            "topLimit": 0,
+            "colTotals": false,
+            "favorites": [],
+            "fontStyle": {},
+            "hideTitle": false,
+            "rowTotals": false,
+            "sortOrder": 0,
+            "hideLegend": false,
+            "numberType": "VALUE",
+            "regression": false,
+            "subscribed": false,
+            "description": "FTEs in Programme Management (PM) disaggregated by Areas of Work",
+            "displayName": "FTEs in Programme Management (PM)",
+            "lastUpdated": "2022-10-06T18:12:04.446",
+            "subscribers": [],
+            "colSubTotals": false,
+            "hideSubtitle": false,
+            "optionalAxes": [],
+            "publicAccess": "--------",
+            "rowSubTotals": false,
+            "skipRounding": false,
+            "translations": [],
+            "yearlySeries": [],
+            "completedOnly": false,
+            "hideEmptyRows": false,
+            "lastUpdatedBy": {
+                "id": "TZFikjf5oXD",
+                "username": "Barnabas",
+                "displayName": "Barnabas MD Developer"
+            },
+            "rowDimensions": [
+                "pe"
+            ],
+            "showHierarchy": false,
+            "displayDensity": "NORMAL",
+            "externalAccess": false,
+            "parentGraphMap": {},
+            "regressionType": "NONE",
+            "aggregationType": "DEFAULT",
+            "attributeValues": [],
+            "displayFormName": "FTEs in Programme Management (PM)",
+            "interpretations": [],
+            "relativePeriods": {
+                "thisDay": false,
+                "lastWeek": false,
+                "lastYear": true,
+                "thisWeek": false,
+                "thisYear": false,
+                "last3Days": false,
+                "last7Days": false,
+                "lastMonth": false,
+                "thisMonth": false,
+                "yesterday": false,
+                "last14Days": false,
+                "last30Days": false,
+                "last4Weeks": false,
+                "last5Years": false,
+                "last60Days": false,
+                "last90Days": false,
+                "lastBiWeek": false,
+                "thisBiWeek": false,
+                "last12Weeks": false,
+                "last180Days": false,
+                "last3Months": false,
+                "last52Weeks": false,
+                "last6Months": false,
+                "lastBimonth": false,
+                "lastQuarter": false,
+                "thisBimonth": false,
+                "thisQuarter": false,
+                "last12Months": false,
+                "last4BiWeeks": false,
+                "lastSixMonth": false,
+                "thisSixMonth": false,
+                "last4Quarters": false,
+                "last6BiMonths": false,
+                "weeksThisYear": false,
+                "last2SixMonths": false,
+                "monthsLastYear": false,
+                "monthsThisYear": false,
+                "biMonthsThisYear": false,
+                "quartersLastYear": false,
+                "quartersThisYear": false,
+                "lastFinancialYear": false,
+                "thisFinancialYear": false,
+                "last5FinancialYears": false
+            },
+            "reportingParams": {
+                "reportingPeriod": false,
+                "organisationUnit": false,
+                "parentOrganisationUnit": false,
+                "grandParentOrganisationUnit": false
+            },
+            "columnDimensions": [
+                "dx"
+            ],
+            "cumulativeValues": false,
+            "filterDimensions": [
+                "ou"
+            ],
+            "hideEmptyColumns": false,
+            "hideEmptyRowItems": "NONE",
+            "categoryDimensions": [],
+            "dataDimensionItems": [
+                {
+                    "dataElementOperand": {
+                        "id": "GIcP6d32HUW.NyQ69IIHrK7",
+                        "name": "REP-HR-Number of FTEs in Programme Management (PM) Communication and Advocacy (CAD)",
+                        "access": {
+                            "read": true,
+                            "write": true,
+                            "delete": true,
+                            "manage": true,
+                            "update": true,
+                            "externalize": false
+                        },
+                        "created": "2022-10-21T08:48:28.933",
+                        "favorite": false,
+                        "favorites": [],
+                        "shortName": "Number of FTEs in Programme Management (PM) Communication and Advocacy (CAD)",
+                        "legendSets": [],
+                        "dataElement": {
+                            "id": "GIcP6d32HUW"
+                        },
+                        "displayName": "REP-HR-Number of FTEs in Programme Management (PM) Communication and Advocacy (CAD)",
+                        "lastUpdated": "2022-10-21T08:48:28.933",
+                        "periodOffset": 0,
+                        "translations": [],
+                        "userAccesses": [],
+                        "dimensionItem": "GIcP6d32HUW.NyQ69IIHrK7",
+                        "externalAccess": false,
+                        "aggregationType": "SUM",
+                        "attributeValues": [],
+                        "displayFormName": "REP-HR-Number of FTEs in Programme Management (PM) Communication and Advocacy (CAD)",
+                        "displayShortName": "Number of FTEs in Programme Management (PM) Communication and Advocacy (CAD)",
+                        "dimensionItemType": "DATA_ELEMENT_OPERAND",
+                        "userGroupAccesses": [],
+                        "categoryOptionCombo": {
+                            "id": "NyQ69IIHrK7"
+                        }
+                    },
+                    "dataDimensionItemType": "DATA_ELEMENT_OPERAND"
+                },
+                {
+                    "dataElementOperand": {
+                        "id": "GIcP6d32HUW.upg7E0nC8xF",
+                        "name": "REP-HR-Number of FTEs in Programme Management (PM) Entomology and vector control",
+                        "access": {
+                            "read": true,
+                            "write": true,
+                            "delete": true,
+                            "manage": true,
+                            "update": true,
+                            "externalize": false
+                        },
+                        "created": "2022-10-21T08:48:28.934",
+                        "favorite": false,
+                        "favorites": [],
+                        "shortName": "Number of FTEs in Programme Management (PM) Entomology and vector control",
+                        "legendSets": [],
+                        "dataElement": {
+                            "id": "GIcP6d32HUW"
+                        },
+                        "displayName": "REP-HR-Number of FTEs in Programme Management (PM) Entomology and vector control",
+                        "lastUpdated": "2022-10-21T08:48:28.934",
+                        "periodOffset": 0,
+                        "translations": [],
+                        "userAccesses": [],
+                        "dimensionItem": "GIcP6d32HUW.upg7E0nC8xF",
+                        "externalAccess": false,
+                        "aggregationType": "SUM",
+                        "attributeValues": [],
+                        "displayFormName": "REP-HR-Number of FTEs in Programme Management (PM) Entomology and vector control",
+                        "displayShortName": "Number of FTEs in Programme Management (PM) Entomology and vector control",
+                        "dimensionItemType": "DATA_ELEMENT_OPERAND",
+                        "userGroupAccesses": [],
+                        "categoryOptionCombo": {
+                            "id": "upg7E0nC8xF"
+                        }
+                    },
+                    "dataDimensionItemType": "DATA_ELEMENT_OPERAND"
+                },
+                {
+                    "dataElementOperand": {
+                        "id": "GIcP6d32HUW.kDIVVrZweYN",
+                        "name": "REP-HR-Number of FTEs in Programme Management (PM) Epidemic Preparedness and Response (EPR)",
+                        "access": {
+                            "read": true,
+                            "write": true,
+                            "delete": true,
+                            "manage": true,
+                            "update": true,
+                            "externalize": false
+                        },
+                        "created": "2022-10-21T08:48:28.934",
+                        "favorite": false,
+                        "favorites": [],
+                        "shortName": "Number of FTEs in Programme Management (PM) Epidemic Preparedness and Response (EPR)",
+                        "legendSets": [],
+                        "dataElement": {
+                            "id": "GIcP6d32HUW"
+                        },
+                        "displayName": "REP-HR-Number of FTEs in Programme Management (PM) Epidemic Preparedness and Response (EPR)",
+                        "lastUpdated": "2022-10-21T08:48:28.934",
+                        "periodOffset": 0,
+                        "translations": [],
+                        "userAccesses": [],
+                        "dimensionItem": "GIcP6d32HUW.kDIVVrZweYN",
+                        "externalAccess": false,
+                        "aggregationType": "SUM",
+                        "attributeValues": [],
+                        "displayFormName": "REP-HR-Number of FTEs in Programme Management (PM) Epidemic Preparedness and Response (EPR)",
+                        "displayShortName": "Number of FTEs in Programme Management (PM) Epidemic Preparedness and Response (EPR)",
+                        "dimensionItemType": "DATA_ELEMENT_OPERAND",
+                        "userGroupAccesses": [],
+                        "categoryOptionCombo": {
+                            "id": "kDIVVrZweYN"
+                        }
+                    },
+                    "dataDimensionItemType": "DATA_ELEMENT_OPERAND"
+                },
+                {
+                    "dataElementOperand": {
+                        "id": "GIcP6d32HUW.ieKMPiF7w2B",
+                        "name": "REP-HR-Number of FTEs in Programme Management (PM) Programme Management (PM)",
+                        "access": {
+                            "read": true,
+                            "write": true,
+                            "delete": true,
+                            "manage": true,
+                            "update": true,
+                            "externalize": false
+                        },
+                        "created": "2022-10-21T08:48:28.934",
+                        "favorite": false,
+                        "favorites": [],
+                        "shortName": "Number of FTEs in Programme Management (PM) Programme Management (PM)",
+                        "legendSets": [],
+                        "dataElement": {
+                            "id": "GIcP6d32HUW"
+                        },
+                        "displayName": "REP-HR-Number of FTEs in Programme Management (PM) Programme Management (PM)",
+                        "lastUpdated": "2022-10-21T08:48:28.934",
+                        "periodOffset": 0,
+                        "translations": [],
+                        "userAccesses": [],
+                        "dimensionItem": "GIcP6d32HUW.ieKMPiF7w2B",
+                        "externalAccess": false,
+                        "aggregationType": "SUM",
+                        "attributeValues": [],
+                        "displayFormName": "REP-HR-Number of FTEs in Programme Management (PM) Programme Management (PM)",
+                        "displayShortName": "Number of FTEs in Programme Management (PM) Programme Management (PM)",
+                        "dimensionItemType": "DATA_ELEMENT_OPERAND",
+                        "userGroupAccesses": [],
+                        "categoryOptionCombo": {
+                            "id": "ieKMPiF7w2B"
+                        }
+                    },
+                    "dataDimensionItemType": "DATA_ELEMENT_OPERAND"
+                },
+                {
+                    "dataElementOperand": {
+                        "id": "GIcP6d32HUW.LFrXWPZCYKg",
+                        "name": "REP-HR-Number of FTEs in Programme Management (PM) Prompt and Effective Case Management (PECM)",
+                        "access": {
+                            "read": true,
+                            "write": true,
+                            "delete": true,
+                            "manage": true,
+                            "update": true,
+                            "externalize": false
+                        },
+                        "created": "2022-10-21T08:48:28.934",
+                        "favorite": false,
+                        "favorites": [],
+                        "shortName": "Number of FTEs in Programme Management (PM) Prompt and Effective Case Management (PECM)",
+                        "legendSets": [],
+                        "dataElement": {
+                            "id": "GIcP6d32HUW"
+                        },
+                        "displayName": "REP-HR-Number of FTEs in Programme Management (PM) Prompt and Effective Case Management (PECM)",
+                        "lastUpdated": "2022-10-21T08:48:28.934",
+                        "periodOffset": 0,
+                        "translations": [],
+                        "userAccesses": [],
+                        "dimensionItem": "GIcP6d32HUW.LFrXWPZCYKg",
+                        "externalAccess": false,
+                        "aggregationType": "SUM",
+                        "attributeValues": [],
+                        "displayFormName": "REP-HR-Number of FTEs in Programme Management (PM) Prompt and Effective Case Management (PECM)",
+                        "displayShortName": "Number of FTEs in Programme Management (PM) Prompt and Effective Case Management (PECM)",
+                        "dimensionItemType": "DATA_ELEMENT_OPERAND",
+                        "userGroupAccesses": [],
+                        "categoryOptionCombo": {
+                            "id": "LFrXWPZCYKg"
+                        }
+                    },
+                    "dataDimensionItemType": "DATA_ELEMENT_OPERAND"
+                },
+                {
+                    "dataElementOperand": {
+                        "id": "GIcP6d32HUW.doFVZnjfNQo",
+                        "name": "REP-HR-Number of FTEs in Programme Management (PM) Surveillance, Monitoring and Evaluation (SME)",
+                        "access": {
+                            "read": true,
+                            "write": true,
+                            "delete": true,
+                            "manage": true,
+                            "update": true,
+                            "externalize": false
+                        },
+                        "created": "2022-10-21T08:48:28.934",
+                        "favorite": false,
+                        "favorites": [],
+                        "shortName": "Number of FTEs in Programme Management (PM) Surveillance, Monitoring and Evaluation (SME)",
+                        "legendSets": [],
+                        "dataElement": {
+                            "id": "GIcP6d32HUW"
+                        },
+                        "displayName": "REP-HR-Number of FTEs in Programme Management (PM) Surveillance, Monitoring and Evaluation (SME)",
+                        "lastUpdated": "2022-10-21T08:48:28.934",
+                        "periodOffset": 0,
+                        "translations": [],
+                        "userAccesses": [],
+                        "dimensionItem": "GIcP6d32HUW.doFVZnjfNQo",
+                        "externalAccess": false,
+                        "aggregationType": "SUM",
+                        "attributeValues": [],
+                        "displayFormName": "REP-HR-Number of FTEs in Programme Management (PM) Surveillance, Monitoring and Evaluation (SME)",
+                        "displayShortName": "Number of FTEs in Programme Management (PM) Surveillance, Monitoring and Evaluation (SME)",
+                        "dimensionItemType": "DATA_ELEMENT_OPERAND",
+                        "userGroupAccesses": [],
+                        "categoryOptionCombo": {
+                            "id": "doFVZnjfNQo"
+                        }
+                    },
+                    "dataDimensionItemType": "DATA_ELEMENT_OPERAND"
+                }
+            ],
+            "displayDescription": "FTEs in Programme Management (PM) disaggregated by Areas of Work",
+            "legendDisplayStyle": "FILL",
+            "attributeDimensions": [],
+            "digitGroupSeparator": "SPACE",
+            "showDimensionLabels": false,
+            "percentStackedValues": false,
+            "userOrganisationUnit": false,
+            "dataElementDimensions": [],
+            "legendDisplayStrategy": "FIXED",
+            "noSpaceBetweenColumns": false,
+            "organisationUnitLevels": [],
+            "itemOrganisationUnitGroups": [],
+            "programIndicatorDimensions": [],
+            "userOrganisationUnitChildren": false,
+            "dataElementGroupSetDimensions": [],
+            "categoryOptionGroupSetDimensions": [],
+            "userOrganisationUnitGrandChildren": false,
+            "organisationUnitGroupSetDimensions": []
+        },
+        {
+            "id": "gB5llZAByIB",
+            "name": "Trainings conducted per year and type of training",
+            "rows": [],
+            "type": "COLUMN",
+            "columns": [],
+            "created": "2022-10-06T18:15:56.699",
+            "filters": [],
+            "periods": [],
+            "colorSet": "DEFAULT",
+            "favorite": false,
+            "fontSize": "NORMAL",
+            "showData": true,
+            "topLimit": 0,
+            "colTotals": false,
+            "favorites": [],
+            "fontStyle": {},
+            "hideTitle": false,
+            "rowTotals": false,
+            "sortOrder": 0,
+            "hideLegend": false,
+            "numberType": "VALUE",
+            "regression": false,
+            "subscribed": false,
+            "displayName": "Trainings conducted per year and type of training",
+            "lastUpdated": "2022-10-06T18:15:56.699",
+            "subscribers": [],
+            "colSubTotals": false,
+            "hideSubtitle": false,
+            "optionalAxes": [],
+            "publicAccess": "--------",
+            "rowSubTotals": false,
+            "skipRounding": false,
+            "translations": [],
+            "yearlySeries": [],
+            "completedOnly": false,
+            "hideEmptyRows": false,
+            "lastUpdatedBy": {
+                "id": "TZFikjf5oXD",
+                "username": "Barnabas",
+                "displayName": "Barnabas MD Developer"
+            },
+            "rowDimensions": [
+                "pe"
+            ],
+            "showHierarchy": false,
+            "displayDensity": "NORMAL",
+            "externalAccess": false,
+            "parentGraphMap": {},
+            "regressionType": "NONE",
+            "aggregationType": "DEFAULT",
+            "attributeValues": [],
+            "displayFormName": "Trainings conducted per year and type of training",
+            "interpretations": [],
+            "relativePeriods": {
+                "thisDay": false,
+                "lastWeek": false,
+                "lastYear": false,
+                "thisWeek": false,
+                "thisYear": false,
+                "last3Days": false,
+                "last7Days": false,
+                "lastMonth": false,
+                "thisMonth": false,
+                "yesterday": false,
+                "last14Days": false,
+                "last30Days": false,
+                "last4Weeks": false,
+                "last5Years": true,
+                "last60Days": false,
+                "last90Days": false,
+                "lastBiWeek": false,
+                "thisBiWeek": false,
+                "last12Weeks": false,
+                "last180Days": false,
+                "last3Months": false,
+                "last52Weeks": false,
+                "last6Months": false,
+                "lastBimonth": false,
+                "lastQuarter": false,
+                "thisBimonth": false,
+                "thisQuarter": false,
+                "last12Months": false,
+                "last4BiWeeks": false,
+                "lastSixMonth": false,
+                "thisSixMonth": false,
+                "last4Quarters": false,
+                "last6BiMonths": false,
+                "weeksThisYear": false,
+                "last2SixMonths": false,
+                "monthsLastYear": false,
+                "monthsThisYear": false,
+                "biMonthsThisYear": false,
+                "quartersLastYear": false,
+                "quartersThisYear": false,
+                "lastFinancialYear": false,
+                "thisFinancialYear": false,
+                "last5FinancialYears": false
+            },
+            "reportingParams": {
+                "reportingPeriod": false,
+                "organisationUnit": false,
+                "parentOrganisationUnit": false,
+                "grandParentOrganisationUnit": false
+            },
+            "columnDimensions": [
+                "dx"
+            ],
+            "cumulativeValues": false,
+            "filterDimensions": [
+                "ou"
+            ],
+            "hideEmptyColumns": false,
+            "hideEmptyRowItems": "NONE",
+            "categoryDimensions": [],
+            "dataDimensionItems": [
+                {
+                    "dataElement": {
+                        "id": "q4B0zxiG5XL"
+                    },
+                    "dataDimensionItemType": "DATA_ELEMENT"
+                }
+            ],
+            "legendDisplayStyle": "FILL",
+            "attributeDimensions": [],
+            "digitGroupSeparator": "SPACE",
+            "showDimensionLabels": false,
+            "percentStackedValues": false,
+            "userOrganisationUnit": false,
+            "dataElementDimensions": [],
+            "legendDisplayStrategy": "FIXED",
+            "noSpaceBetweenColumns": false,
+            "organisationUnitLevels": [],
+            "itemOrganisationUnitGroups": [],
+            "programIndicatorDimensions": [],
+            "userOrganisationUnitChildren": false,
+            "dataElementGroupSetDimensions": [],
+            "categoryOptionGroupSetDimensions": [],
+            "userOrganisationUnitGrandChildren": false,
+            "organisationUnitGroupSetDimensions": []
+        }
+    ],
+    "categoryOptions": [
+        {
+            "id": "W8b4nhHrPZk",
+            "code": "WAREA_CAD",
+            "name": "Communication and Advocacy (CAD)",
+            "created": "2019-05-07T18:18:33.557",
+            "favorite": false,
+            "favorites": [],
+            "isDefault": false,
+            "shortName": "Communication and Advocacy (CAD)",
+            "categories": [
+                {
+                    "id": "KhBIFBlfeYi"
+                }
+            ],
+            "legendSets": [],
+            "displayName": "Communication and Advocacy (CAD)",
+            "lastUpdated": "2022-08-19T08:44:51.983",
+            "periodOffset": 0,
+            "publicAccess": "--------",
+            "translations": [],
+            "dimensionItem": "W8b4nhHrPZk",
+            "lastUpdatedBy": {
+                "id": "gUQgjMPkPvK",
+                "username": "fernandezl",
+                "displayName": "Lucia Fernandez"
+            },
+            "externalAccess": false,
+            "attributeValues": [],
+            "displayFormName": "Communication and Advocacy (CAD)",
+            "displayShortName": "Communication and Advocacy (CAD)",
+            "dimensionItemType": "CATEGORY_OPTION",
+            "categoryOptionCombos": [
+                {
+                    "id": "NyQ69IIHrK7"
+                }
+            ],
+            "categoryOptionGroups": []
+        },
+        {
+            "id": "xMJuI0plfEQ",
+            "code": "WAREA_VC",
+            "name": "Entomology and vector control",
+            "created": "2019-05-07T18:18:33.556",
+            "favorite": false,
+            "favorites": [],
+            "isDefault": false,
+            "shortName": "Entomology and vector control",
+            "categories": [
+                {
+                    "id": "KhBIFBlfeYi"
+                }
+            ],
+            "legendSets": [],
+            "displayName": "Entomology and vector control",
+            "lastUpdated": "2022-08-19T08:44:51.983",
+            "periodOffset": 0,
+            "publicAccess": "--------",
+            "translations": [],
+            "dimensionItem": "xMJuI0plfEQ",
+            "lastUpdatedBy": {
+                "id": "gUQgjMPkPvK",
+                "username": "fernandezl",
+                "displayName": "Lucia Fernandez"
+            },
+            "externalAccess": false,
+            "attributeValues": [],
+            "displayFormName": "Entomology and vector control",
+            "displayShortName": "Entomology and vector control",
+            "dimensionItemType": "CATEGORY_OPTION",
+            "categoryOptionCombos": [
+                {
+                    "id": "upg7E0nC8xF"
+                }
+            ],
+            "categoryOptionGroups": []
+        },
+        {
+            "id": "mbcH3eP5kB3",
+            "code": "WAREA_EPR",
+            "name": "Epidemic Preparedness and Response (EPR)",
+            "created": "2019-05-07T18:18:33.557",
+            "favorite": false,
+            "favorites": [],
+            "isDefault": false,
+            "shortName": "Epidemic Preparedness and Response (EPR)",
+            "categories": [
+                {
+                    "id": "KhBIFBlfeYi"
+                }
+            ],
+            "legendSets": [],
+            "displayName": "Epidemic Preparedness and Response (EPR)",
+            "lastUpdated": "2022-10-06T16:11:51.760",
+            "periodOffset": 0,
+            "publicAccess": "--------",
+            "translations": [],
+            "dimensionItem": "mbcH3eP5kB3",
+            "lastUpdatedBy": {
+                "id": "gUQgjMPkPvK",
+                "username": "fernandezl",
+                "displayName": "Lucia Fernandez"
+            },
+            "externalAccess": false,
+            "attributeValues": [],
+            "displayFormName": "Epidemic Preparedness and Response (EPR)",
+            "displayShortName": "Epidemic Preparedness and Response (EPR)",
+            "dimensionItemType": "CATEGORY_OPTION",
+            "categoryOptionCombos": [
+                {
+                    "id": "kDIVVrZweYN"
+                }
+            ],
+            "categoryOptionGroups": []
+        },
+        {
+            "id": "X1ZGAtQRG4V",
+            "code": "WAREA_PM",
+            "name": "Programme Management (PM)",
+            "created": "2019-05-07T18:18:33.556",
+            "favorite": false,
+            "favorites": [],
+            "isDefault": false,
+            "shortName": "Programme Management (PM)",
+            "categories": [
+                {
+                    "id": "KhBIFBlfeYi"
+                }
+            ],
+            "legendSets": [],
+            "displayName": "Programme Management (PM)",
+            "lastUpdated": "2022-10-06T16:10:27.415",
+            "periodOffset": 0,
+            "publicAccess": "--------",
+            "translations": [],
+            "dimensionItem": "X1ZGAtQRG4V",
+            "lastUpdatedBy": {
+                "id": "gUQgjMPkPvK",
+                "username": "fernandezl",
+                "displayName": "Lucia Fernandez"
+            },
+            "externalAccess": false,
+            "attributeValues": [],
+            "displayFormName": "Programme Management (PM)",
+            "displayShortName": "Programme Management (PM)",
+            "dimensionItemType": "CATEGORY_OPTION",
+            "categoryOptionCombos": [
+                {
+                    "id": "ieKMPiF7w2B"
+                }
+            ],
+            "categoryOptionGroups": []
+        },
+        {
+            "id": "THgthjW8SSg",
+            "code": "WAREA_PECM",
+            "name": "Prompt and Effective Case Management (PECM)",
+            "created": "2019-05-07T18:18:33.556",
+            "favorite": false,
+            "favorites": [],
+            "isDefault": false,
+            "shortName": "Prompt and Effective Case Management (PECM)",
+            "categories": [
+                {
+                    "id": "KhBIFBlfeYi"
+                }
+            ],
+            "legendSets": [],
+            "displayName": "Prompt and Effective Case Management (PECM)",
+            "lastUpdated": "2022-10-06T16:10:47.128",
+            "periodOffset": 0,
+            "publicAccess": "--------",
+            "translations": [],
+            "dimensionItem": "THgthjW8SSg",
+            "lastUpdatedBy": {
+                "id": "gUQgjMPkPvK",
+                "username": "fernandezl",
+                "displayName": "Lucia Fernandez"
+            },
+            "externalAccess": false,
+            "attributeValues": [],
+            "displayFormName": "Prompt and Effective Case Management (PECM)",
+            "displayShortName": "Prompt and Effective Case Management (PECM)",
+            "dimensionItemType": "CATEGORY_OPTION",
+            "categoryOptionCombos": [
+                {
+                    "id": "LFrXWPZCYKg"
+                }
+            ],
+            "categoryOptionGroups": []
+        },
+        {
+            "id": "eQ2OaOPK8oo",
+            "code": "WAREA_SME",
+            "name": "Surveillance, Monitoring and Evaluation (SME)",
+            "created": "2019-05-07T18:18:33.556",
+            "favorite": false,
+            "favorites": [],
+            "isDefault": false,
+            "shortName": "Surveillance, Monitoring and Evaluation (SME)",
+            "categories": [
+                {
+                    "id": "KhBIFBlfeYi"
+                }
+            ],
+            "legendSets": [],
+            "displayName": "Surveillance, Monitoring and Evaluation (SME)",
+            "lastUpdated": "2022-10-06T16:11:03.990",
+            "periodOffset": 0,
+            "publicAccess": "--------",
+            "translations": [],
+            "dimensionItem": "eQ2OaOPK8oo",
+            "lastUpdatedBy": {
+                "id": "gUQgjMPkPvK",
+                "username": "fernandezl",
+                "displayName": "Lucia Fernandez"
+            },
+            "externalAccess": false,
+            "attributeValues": [],
+            "displayFormName": "Surveillance, Monitoring and Evaluation (SME)",
+            "displayShortName": "Surveillance, Monitoring and Evaluation (SME)",
+            "dimensionItemType": "CATEGORY_OPTION",
+            "categoryOptionCombos": [
+                {
+                    "id": "doFVZnjfNQo"
+                }
+            ],
+            "categoryOptionGroups": []
+        }
+    ],
+    "categoryOptionCombos": [
+        {
+            "id": "NyQ69IIHrK7",
+            "name": "Communication and Advocacy (CAD)",
+            "created": "2019-09-07T20:03:08.940",
+            "favorite": false,
+            "favorites": [],
+            "shortName": "Communication and Advocacy (CAD)",
+            "legendSets": [],
+            "displayName": "Communication and Advocacy (CAD)",
+            "lastUpdated": "2021-05-18T06:44:05.735",
+            "periodOffset": 0,
+            "translations": [],
+            "categoryCombo": {
+                "id": "JlOJN3cXD9d"
+            },
+            "dimensionItem": "NyQ69IIHrK7",
+            "lastUpdatedBy": {
+                "id": "xJY16SqZaCB",
+                "username": "arico",
+                "displayName": "Alexis RICO"
+            },
+            "externalAccess": false,
+            "ignoreApproval": false,
+            "attributeValues": [],
+            "categoryOptions": [
+                {
+                    "id": "W8b4nhHrPZk"
+                }
+            ],
+            "displayFormName": "Communication and Advocacy (CAD)",
+            "displayShortName": "Communication and Advocacy (CAD)"
+        },
+        {
+            "id": "upg7E0nC8xF",
+            "name": "Entomology and vector control",
+            "created": "2019-09-07T20:03:08.947",
+            "favorite": false,
+            "favorites": [],
+            "shortName": "Entomology and vector control",
+            "legendSets": [],
+            "displayName": "Entomology and vector control",
+            "lastUpdated": "2021-05-18T06:44:05.735",
+            "periodOffset": 0,
+            "translations": [],
+            "categoryCombo": {
+                "id": "JlOJN3cXD9d"
+            },
+            "dimensionItem": "upg7E0nC8xF",
+            "lastUpdatedBy": {
+                "id": "xJY16SqZaCB",
+                "username": "arico",
+                "displayName": "Alexis RICO"
+            },
+            "externalAccess": false,
+            "ignoreApproval": false,
+            "attributeValues": [],
+            "categoryOptions": [
+                {
+                    "id": "xMJuI0plfEQ"
+                }
+            ],
+            "displayFormName": "Entomology and vector control",
+            "displayShortName": "Entomology and vector control"
+        },
+        {
+            "id": "kDIVVrZweYN",
+            "name": "Epidemic Preparedness and Response (EPR)",
+            "created": "2019-09-07T20:03:08.950",
+            "favorite": false,
+            "favorites": [],
+            "shortName": "Epidemic Preparedness and Response (EPR)",
+            "legendSets": [],
+            "displayName": "Epidemic Preparedness and Response (EPR)",
+            "lastUpdated": "2021-05-18T06:44:05.735",
+            "periodOffset": 0,
+            "translations": [],
+            "categoryCombo": {
+                "id": "JlOJN3cXD9d"
+            },
+            "dimensionItem": "kDIVVrZweYN",
+            "lastUpdatedBy": {
+                "id": "xJY16SqZaCB",
+                "username": "arico",
+                "displayName": "Alexis RICO"
+            },
+            "externalAccess": false,
+            "ignoreApproval": false,
+            "attributeValues": [],
+            "categoryOptions": [
+                {
+                    "id": "mbcH3eP5kB3"
+                }
+            ],
+            "displayFormName": "Epidemic Preparedness and Response (EPR)",
+            "displayShortName": "Epidemic Preparedness and Response (EPR)"
+        },
+        {
+            "id": "ieKMPiF7w2B",
+            "name": "Programme Management (PM)",
+            "created": "2019-09-07T20:03:08.952",
+            "favorite": false,
+            "favorites": [],
+            "shortName": "Programme Management (PM)",
+            "legendSets": [],
+            "displayName": "Programme Management (PM)",
+            "lastUpdated": "2021-05-18T06:44:05.735",
+            "periodOffset": 0,
+            "translations": [],
+            "categoryCombo": {
+                "id": "JlOJN3cXD9d"
+            },
+            "dimensionItem": "ieKMPiF7w2B",
+            "lastUpdatedBy": {
+                "id": "xJY16SqZaCB",
+                "username": "arico",
+                "displayName": "Alexis RICO"
+            },
+            "externalAccess": false,
+            "ignoreApproval": false,
+            "attributeValues": [],
+            "categoryOptions": [
+                {
+                    "id": "X1ZGAtQRG4V"
+                }
+            ],
+            "displayFormName": "Programme Management (PM)",
+            "displayShortName": "Programme Management (PM)"
+        },
+        {
+            "id": "LFrXWPZCYKg",
+            "name": "Prompt and Effective Case Management (PECM)",
+            "created": "2019-09-07T20:03:08.954",
+            "favorite": false,
+            "favorites": [],
+            "shortName": "Prompt and Effective Case Management (PECM)",
+            "legendSets": [],
+            "displayName": "Prompt and Effective Case Management (PECM)",
+            "lastUpdated": "2021-05-18T06:44:05.735",
+            "periodOffset": 0,
+            "translations": [],
+            "categoryCombo": {
+                "id": "JlOJN3cXD9d"
+            },
+            "dimensionItem": "LFrXWPZCYKg",
+            "lastUpdatedBy": {
+                "id": "xJY16SqZaCB",
+                "username": "arico",
+                "displayName": "Alexis RICO"
+            },
+            "externalAccess": false,
+            "ignoreApproval": false,
+            "attributeValues": [],
+            "categoryOptions": [
+                {
+                    "id": "THgthjW8SSg"
+                }
+            ],
+            "displayFormName": "Prompt and Effective Case Management (PECM)",
+            "displayShortName": "Prompt and Effective Case Management (PECM)"
+        },
+        {
+            "id": "doFVZnjfNQo",
+            "name": "Surveillance, Monitoring and Evaluation (SME)",
+            "created": "2019-09-07T20:03:08.960",
+            "favorite": false,
+            "favorites": [],
+            "shortName": "Surveillance, Monitoring and Evaluation (SME)",
+            "legendSets": [],
+            "displayName": "Surveillance, Monitoring and Evaluation (SME)",
+            "lastUpdated": "2021-05-18T06:44:05.735",
+            "periodOffset": 0,
+            "translations": [],
+            "categoryCombo": {
+                "id": "JlOJN3cXD9d"
+            },
+            "dimensionItem": "doFVZnjfNQo",
+            "lastUpdatedBy": {
+                "id": "xJY16SqZaCB",
+                "username": "arico",
+                "displayName": "Alexis RICO"
+            },
+            "externalAccess": false,
+            "ignoreApproval": false,
+            "attributeValues": [],
+            "categoryOptions": [
+                {
+                    "id": "eQ2OaOPK8oo"
+                }
+            ],
+            "displayFormName": "Surveillance, Monitoring and Evaluation (SME)",
+            "displayShortName": "Surveillance, Monitoring and Evaluation (SME)"
+        }
+    ]
+}
